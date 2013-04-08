@@ -64,8 +64,8 @@
 	<string name="fw_blacklist">הרשימה השחורה</string>
 	<string name="fw_blacklist_hint">שיחות והודעות נחסמות באופן אוטומטי בעת הוספה לרשימה השחורה</string>
 	<string name="fw_blocked">מצב חסומים</string>
-	<string name="fw_blocked_count">%d %d שיחות והודעות שנחסמו</string>
-	<string name="fw_call">זמן חיוג: %s (%d)</string>
+	<string name="fw_blocked_count" formatted="false">%d %d שיחות והודעות שנחסמו</string>
+	<string name="fw_call" formatted="false">זמן חיוג: %s (%d)</string>
 	<string name="fw_call_imported">Import from Call log</string>
 	<string name="fw_call_muted">שיחה הושתקה</string>
 	<string name="fw_call_rejected">שיחה נדחתה</string>
@@ -91,7 +91,7 @@
 	<string name="fw_menu_new_whitelist_title">הוסף לרשימה הלבנה</string>
 	<string name="fw_menu_pick_from_contact">בחר מתוך אנשי הקשר</string>
 	<string name="fw_menu_remove">מחק</string>
-	<string name="fw_ms">זמן הודעה: %s (%d)</string>
+	<string name="fw_ms" formatted="false">זמן הודעה: %s (%d)</string>
 	<string name="fw_ms_filtered">ההודעות מסוננות</string>
 	<string name="fw_ms_imported">ייבא הודעות</string>
 	<string name="fw_ms_muted">ההודעות מושתקות</string>
