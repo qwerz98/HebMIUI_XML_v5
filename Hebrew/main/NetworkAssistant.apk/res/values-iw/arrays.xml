@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic">
+        <item>תעבורה אתמול</item>
+        <item>תעבורה היום</item>
+        <item>תעבורה בחודש זה</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>2G/3G אתמול ב</item>
+        <item>2G/3G היום ב</item>
+        <item>2G/3G החודש הזה ב</item>
+        <item>Wi-Fi אתמול ב</item>
+        <item>Wi-fi היום ב</item>
+        <item>Wi-Fi החודש הזה ב</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>2G/3G אתמול</item>
+        <item>2G/3G היום</item>
+        <item>2G/3G החודש הזה</item>
+    </string-array>
+    <string-array name="traffic_uints">
+        <item>" בייט"</item>
+        <item>ק"ב</item>
+        <item>מ"ב</item>
+        <item>ג"ב</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3ש</item>
+        <item>4ש</item>
+        <item>5ש</item>
+        <item>6ש</item>
+        <item>7ש</item>
+        <item>8ש</item>
+        <item>9ש</item>
+    </string-array>
+    <string-array name="network_speed_update_internal_values">
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+    </string-array>
+</resources>
+
