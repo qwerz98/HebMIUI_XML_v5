@@ -52,7 +52,7 @@ If you are using the contact sync service, contact info in the cloud will also b
 	<string name="callAgain">Redial</string>
 	<string name="callBack">התקשר חזרה</string>
 	<string name="callDetailTitle">פרטי שיחה</string>
-	<string name="callDetailsDurationFormat">%s דקות %s שניות</string>
+	<string name="callDetailsDurationFormat" formatted="false">%s דקות %s שניות</string>
 	<string name="callShortcutActivityTitle">בחר מספר להתקשר אליו</string>
 	<string name="call_assistant">התקשר אל %s</string>
 	<string name="call_callback">התקשר חזרה</string>
