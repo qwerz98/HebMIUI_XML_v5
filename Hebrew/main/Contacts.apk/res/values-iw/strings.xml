@@ -726,7 +726,7 @@ If you are using the contact sync service, contact info in the cloud will also b
 	<string name="private_num">מספר פרטי</string>
 	<string name="processing">Processing...</string>
 	<string name="profile_display_name" formatted="false">הגדר את הפרופיל שלי</string>
-	<string name="progress_notifier_message">מייבא %s/%s: %s</string>
+	<string name="progress_notifier_message" formatted="false">מייבא %s/%s: %s</string>
 	<string name="quickcontact_missing_app">לא נמצא יישום שתומך בפעולה זו</string>
 	<string name="quit_dialog_confirm_title">לצאת ממיזוג אנשי הקשר?</string>
 	<string name="readOnlyContactDeleteConfirmation">איש קשר זה מכיל מידע מחשבונות מרובים. מידע מחשבונות לקריאה בלבד יוסתר ברשימות אנשי הקשר ולא יימחק.</string>
