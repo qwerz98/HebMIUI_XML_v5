@@ -52,9 +52,9 @@
 	<string name="cloudfolder_already_exists">Cloud folder already exists</string>
 	<string name="confirm_delete">הקבצים המסומנים יימחקו</string>
 	<string name="confirm_delete_album" formatted="false">Are you sure you want to delete %s albums (including %s items)?</string>
-	<string name="confirm_delete_cloud_all_item_page">%s picture(s) in %s album(s), are you sure you want to delete?</string>
+	<string name="confirm_delete_cloud_all_item_page" formatted="false">%s picture(s) in %s album(s), are you sure you want to delete?</string>
 	<string name="confirm_delete_folders_and_pictures">Are you sure you want to delete %s?</string>
-	<string name="confirm_delete_folders_including">%s folders (including %s)</string>
+	<string name="confirm_delete_folders_including" formatted="false">%s folders (including %s)</string>
 	<string name="confirm_delete_including_null">0 items</string>
 	<string name="confirm_delete_items">%s items</string>
 	<string name="confirm_delete_pictures">%s pictures</string>
@@ -78,9 +78,9 @@
 	<string name="demo_video_folder_display_name">Demo Video</string>
 	<string name="description">תאור</string>
 	<string name="details">פרטים</string>
-	<string name="details_hms">%1$d:%2$02d:%3$02d</string>
-	<string name="details_ms">%1$02d:%2$02d</string>
-	<string name="details_title">%1$d מתוך %2$d פריטים:</string>
+	<string name="details_hms" formatted="false">%1$d:%2$02d:%3$02d</string>
+	<string name="details_ms" formatted="false">%1$02d:%2$02d</string>
+	<string name="details_title" formatted="false">%1$d מתוך %2$d פריטים:</string>
 	<string name="documentary">תעודה</string>
 	<string name="done">הסתיים</string>
 	<string name="doodle">שירבוט</string>
