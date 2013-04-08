@@ -237,7 +237,7 @@
 	<string name="start_to_download_album">הורד את עטיפות האלבומים לשירים שלך</string>
 	<string name="start_to_download_avatar">Downloading artist avatar for your music library</string>
 	<string name="streamloadingtext">מתחבר ל %s</string>
-	<string name="track_album_format">%s - %s</string>
+	<string name="track_album_format" formatted="false">%s - %s</string>
 	<string name="track_edit">שיר</string>
 	<string name="track_num_format">(%s)</string>
 	<string name="tracks_title">כל השירים</string>
