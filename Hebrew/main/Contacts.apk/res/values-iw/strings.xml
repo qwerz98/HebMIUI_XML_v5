@@ -86,7 +86,7 @@ If you are using the contact sync service, contact info in the cloud will also b
 	<string name="calllog_menu_edit_before_call">ערוך לפני חיוג</string>
 	<string name="calllog_menu_send_sms">שלח הודעה</string>
 	<string name="callrecordview_item_newcontact">איש קשר חדש</string>
-	<string name="callrecordview_item_op_time_minutes_seconds">%d דקות %d שניות</string>
+	<string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d דקות %d שניות</string>
 	<string name="callrecordview_item_op_time_missed">לא התחבר</string>
 	<string name="callrecordview_item_op_time_only_minutes">%d דקות</string>
 	<string name="callrecordview_item_op_time_only_seconds">%d שניות</string>
@@ -174,7 +174,7 @@ If you are using the contact sync service, contact info in the cloud will also b
 	<string name="contact_pick_photo">Photo</string>
 	<string name="contact_read_only">לא ניתן לעריכה מתוך יישום זה</string>
 	<string name="contact_status_update_attribution">באמצעות %1$s</string>
-	<string name="contact_status_update_attribution_with_date">%1$s באמצעות %2$s</string>
+	<string name="contact_status_update_attribution_with_date" formatted="false">%1$s באמצעות %2$s</string>
 	<string name="contact_unfavorite_toast">Contact removed from favorites</string>
 	<string name="contactsAllLabel">הכל</string>
 	<string name="contactsFavoritesLabel">מועדפים</string>
@@ -332,13 +332,13 @@ If you are using the contact sync service, contact info in the cloud will also b
 סיבה: \"%s\""</string>
 	<string name="exporting_contact_failed_title">לא ניתן לייצא נתונים של אנשי קשר</string>
 	<string name="exporting_contact_list_message">מייצא נתוני אנשי קשר אל \"%s\"</string>
-	<string name="exporting_contact_list_progress">%s of %s contacts</string>
+	<string name="exporting_contact_list_progress" formatted="false">%s of %s contacts</string>
 	<string name="exporting_contact_list_title">מייצא נתונים של אנשי קשר</string>
 	<string name="exporting_vcard_canceled_title">הייצוא של %s בוטל</string>
 	<string name="exporting_vcard_finished_title">הייצוא של %s הסתיים</string>
 	<string name="external_profile_title">פרופיל %1$s שלי</string>
 	<string name="fail_reason_could_not_initialize_exporter">אין אפשרות לאתחל את המייצא: \"%s\"</string>
-	<string name="fail_reason_could_not_open_file">לא היתה אפשרות לפתוח את \"%s\"‏: %s</string>
+	<string name="fail_reason_could_not_open_file" formatted="false">לא היתה אפשרות לפתוח את \"%s\"‏: %s</string>
 	<string name="fail_reason_error_occurred_during_export">אירעה שגיאה במהלך היצוא: \"%s\"</string>
 	<string name="fail_reason_failed_to_collect_vcard_meta_info">"Couldn't collect meta information of given vCard file(s)."</string>
 	<string name="fail_reason_failed_to_read_files">"One or more files couldn't be imported (%s)."</string>
@@ -508,7 +508,7 @@ If you are using the contact sync service, contact info in the cloud will also b
 	<string name="menu_splitAggregate">הפרד</string>
 	<string name="menu_sync_remove">הסר קבוצת סינכרון</string>
 	<string name="menu_viewContact">הצג איש קשר</string>
-	<string name="merge_contact_message">%1$d אנשי קשר עם נתונים כפולים חלקית, %2$d נבחרו</string>
+	<string name="merge_contact_message" formatted="false">%1$d אנשי קשר עם נתונים כפולים חלקית, %2$d נבחרו</string>
 	<string name="messageShortcutActivityTitle">בחר מספר לשליחת הודעה</string>
 	<string name="missing_name">(ללא שם)</string>
 	<string name="move_and_resize">Move and scale</string>
@@ -620,7 +620,7 @@ If you are using the contact sync service, contact info in the cloud will also b
 	<string name="not_applied">לא נתמך</string>
 	<string name="notification_action_voicemail_play">Play</string>
 	<string name="notification_new_voicemail_ticker">דואר קולי חדש מאת %1$s</string>
-	<string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+	<string name="notification_voicemail_callers_list" formatted="false">%1$s, %2$s</string>
 	<string name="online_no_network">Unable to connect to network</string>
 	<string name="online_search_hint">Search online for resources</string>
 	<string name="openDialKeyboard">חייגן</string>
@@ -636,7 +636,7 @@ If you are using the contact sync service, contact info in the cloud will also b
 	<string name="option_view_contact">View</string>
 	<string name="option_view_group">View</string>
 	<string name="organizationLabelsGroup">ארגון</string>
-	<string name="organization_company_and_title">%2$s, %1$s</string>
+	<string name="organization_company_and_title" formatted="false">%2$s, %1$s</string>
 	<string name="other_contacts">Others</string>
 	<string name="other_phone">other phones</string>
 	<string name="payphone">טלפון ציבורי</string>
@@ -838,10 +838,10 @@ If you are using the contact sync service, contact info in the cloud will also b
 	<string name="sim_contact_search_error">התרחשה שגיעה בעת חיפוש אנשי קשר ב SIM</string>
 	<string name="sim_contacts">SIM Contacts</string>
 	<string name="sim_export_loading">Reading SIM card information (may take a minute)…</string>
-	<string name="sim_indexed_contact_not_exist">מצב %1$d בכרטיס ה-SIM אינו חוקי, צריך להיות בין %2$d ו %3$d</string>
+	<string name="sim_indexed_contact_not_exist" formatted="false">מצב %1$d בכרטיס ה-SIM אינו חוקי, צריך להיות בין %2$d ו %3$d</string>
 	<string name="sim_no_contact">אין אנשי קשר ב SIM</string>
 	<string name="single_group_list_empty">No group members</string>
-	<string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
+	<string name="smart_group_action_bar_title" formatted="false">%1$s-%2$s, %3$s</string>
 	<string name="smart_group_company_label">By company</string>
 	<string name="smart_group_company_unavailable">No company</string>
 	<string name="smart_group_frequency_1">Within a month</string>
