@@ -5,7 +5,7 @@
 	<string name="add_to_favorite">הוסף למועדפים</string>
 	<string name="add_to_playlist">הוסף לרשימת ההפעלה</string>
 	<string name="add_tracks">הוסף שירים</string>
-	<string name="album_artist_format">%s , %s</string>
+	<string name="album_artist_format" formatted="false">%s , %s</string>
 	<string name="album_display_settings">הצג תמונת אלבום</string>
 	<string name="album_display_summary">Display album cover in the player interface</string>
 	<string name="album_download">הורד את עטיפת האלבום</string>
@@ -17,7 +17,7 @@
 	<string name="album_select">Please select a album art</string>
 	<string name="albums_title">אלבומים</string>
 	<string name="albumsongseparator">"
-"</string>
+	"</string>
 	<string name="all_tracks">כל השירים</string>
 	<string name="android_album_settings">השתמש בעטיפת אלבום מוטבעת</string>
 	<string name="android_album_summary">שימוש אוטומאטי בעטיפת האלבום עלול לגרום לבעיות.</string>
