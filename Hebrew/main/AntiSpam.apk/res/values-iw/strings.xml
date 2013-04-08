@@ -108,7 +108,7 @@
 	<string name="fw_whitelist">הרשימה הלבנה</string>
 	<string name="fw_whitelist_hint">חברי הרשימה הלבנה לא ייחסמו</string>
 	<string name="log_count">(%d)</string>
-	<string name="member_firewall_log">נחסמו: מספר %d פרטים %d</string>
+	<string name="member_firewall_log" formatted="false">נחסמו: מספר %d פרטים %d</string>
 	<string name="menu_edit">עורך</string>
 	<string name="mms_log_tab_title">הודעות</string>
 	<string name="new_bw_list_button">Add contacts</string>
