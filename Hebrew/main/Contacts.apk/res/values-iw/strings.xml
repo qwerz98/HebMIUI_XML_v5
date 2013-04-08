@@ -725,7 +725,7 @@ If you are using the contact sync service, contact info in the cloud will also b
 	<string name="previous">previous</string>
 	<string name="private_num">מספר פרטי</string>
 	<string name="processing">Processing...</string>
-	<string name="profile_display_name">הגדר את הפרופיל שלי</string>
+	<string name="profile_display_name" formatted="false">הגדר את הפרופיל שלי</string>
 	<string name="progress_notifier_message">מייבא %s/%s: %s</string>
 	<string name="quickcontact_missing_app">לא נמצא יישום שתומך בפעולה זו</string>
 	<string name="quit_dialog_confirm_title">לצאת ממיזוג אנשי הקשר?</string>
@@ -948,7 +948,7 @@ If you are using the contact sync service, contact info in the cloud will also b
 	<string name="voicemail_status_messages_waiting">לא ניתן להתחבר לשרת הדואר הקולי. הודעות קוליות חדשות ממתינות.</string>
 	<string name="voicemail_status_voicemail_not_available">לא ניתן להתחבר לשרת הדואר הקולי.</string>
 	<string name="websiteLabelsGroup">אתר</string>
-	<string name="widget_name_and_phonetic">%1$s (%2$s)</string>
+	<string name="widget_name_and_phonetic" formatted="false">%1$s (%2$s)</string>
 	<string name="wipe_data">נקה מידע</string>
 	<string name="zero_items_selected">No items selected</string>
 </resources>
