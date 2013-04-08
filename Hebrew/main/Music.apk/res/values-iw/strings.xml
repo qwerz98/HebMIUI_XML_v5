@@ -35,7 +35,7 @@
 	<string name="cancel_sleep_mode">טיימר שינה הופסק</string>
 	<string name="cancle_warining">Sleep Mode stopped</string>
 	<string name="channel">FM</string>
-	<string name="channel_format">"%s  %s MHZ"</string>
+	<string name="channel_format" formatted="false">"%s  %s MHZ"</string>
 	<string name="channel_postfix">MHZ</string>
 	<string name="click_to_shuffle">לחץ כדי לערבב הכל</string>
 	<string name="complete">Complete</string>
@@ -70,9 +70,9 @@
 	<string name="download_lyric_settings">הורדת מילים אוטומאטית</string>
 	<string name="download_lyric_summary">הורדת מילים אינה צורכת נתונים רבים, אך הינך יכול לבטל כדי לחסוך שימוש בנתונים</string>
 	<string name="download_processing">יורד</string>
-	<string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-	<string name="durationformatshort">%2$d:%5$02d</string>
-	<string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+	<string name="durationformatlong" formatted="false">%1$d:%3$02d:%5$02d</string>
+	<string name="durationformatshort" formatted="false">%2$d:%5$02d</string>
+	<string name="durationformatshort_padding_with_0" formatted="false">%2$02d:%5$02d</string>
 	<string name="edit_playlist_menu">ערוך</string>
 	<string name="empty_edit_hint">מידע על השיר אינו זמין</string>
 	<string name="emptyplaylist">הרשימה שנבחרה ריקה.</string>
@@ -100,7 +100,7 @@
 	<string name="filter_by_size_prefix">"Minimum size:"</string>
 	<string name="filter_by_size_summary">Filter is too small for audio files</string>
 	<string name="filter_notification">הסינון הופעל, הינך יכול לשנות זאת בהגדרות</string>
-	<string name="folder_title_format">%s(%d)</string>
+	<string name="folder_title_format" formatted="false">%s(%d)</string>
 	<string name="folders_title">תקיות</string>
 	<string name="frequentlyplayed_title">Frequently played</string>
 	<string name="hot_artists">Hot Artists</string>
@@ -161,7 +161,7 @@
 	<string name="no_effect">בלי אפקט</string>
 	<string name="no_song_downloaded">Song cannot be downloaded</string>
 	<string name="not_selected">Please select a song</string>
-	<string name="notification_artist_album">"%2$s
+	<string name="notification_artist_album" formatted="false">"%2$s
 %1$s"</string>
 	<string name="online_music">מוזיקה מקוונת</string>
 	<string name="online_search_hint">חפש מוזיקה מקוונת</string>
