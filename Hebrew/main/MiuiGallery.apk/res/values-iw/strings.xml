@@ -51,7 +51,7 @@
 	<string name="cloud_tab_locations">Locations</string>
 	<string name="cloudfolder_already_exists">Cloud folder already exists</string>
 	<string name="confirm_delete">הקבצים המסומנים יימחקו</string>
-	<string name="confirm_delete_album">Are you sure you want to delete %s albums (including %s items)?</string>
+	<string name="confirm_delete_album" formatted="false">Are you sure you want to delete %s albums (including %s items)?</string>
 	<string name="confirm_delete_cloud_all_item_page">%s picture(s) in %s album(s), are you sure you want to delete?</string>
 	<string name="confirm_delete_folders_and_pictures">Are you sure you want to delete %s?</string>
 	<string name="confirm_delete_folders_including">%s folders (including %s)</string>
