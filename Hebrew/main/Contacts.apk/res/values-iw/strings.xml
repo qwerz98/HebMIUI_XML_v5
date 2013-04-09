@@ -185,7 +185,7 @@
 	<string name="contacts_unavailable_create_contact">צור איש קשר חדש</string>
 	<string name="contacts_unavailable_import_contacts">ייבא אנשי קשר מקובץ</string>
 	<string name="copy_text">העתק ללוח</string>
-	<string name="createContactShortcutSuccessful">ווידג'ט איש קשר נוסף למסך הבית.</string>
+	<string name="createContactShortcutSuccessful">ווידג'\ט איש קשר נוסף למסך הבית.</string>
 	<string name="create_group_dialog_title">צור קבוצה חדשה</string>
 	<string name="create_group_item_label">[צור קבוצה חדשה]</string>
 	<string name="customLabelPickerTitle">שם תווית בהתאמה אישית</string>
