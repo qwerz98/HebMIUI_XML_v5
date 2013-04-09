@@ -194,6 +194,7 @@
 	<string name="import_bookmarks_wizard_next">הבא</string>
 	<string name="import_bookmarks_wizard_previous">הקודם</string>
 	<string name="importing_favorite_files">יבוא נתונים ...</string>
+	<string name="in_incognito">Incognito mode is active, no browser history will be left.</string>
 	<string name="instant_search_label">גוגל מיידי (מעבדות)</string>
 	<string name="is_first_history_item">זהו פריט ההיסטוריה הראשון</string>
 	<string name="is_first_tab">זוהי הכרטיסייה הראשונה</string>
@@ -224,6 +225,7 @@
 	<string name="new_tab">כרטיסיה חדשה</string>
 	<string name="no_subfolders">אין תיקיות משנה.</string>
 	<string name="not_remind_again">אל תזכיר לי יותר</string>
+	<string name="notif_install_successful">הורד בהצלחה</string> 
 	<string name="ok">אישור</string>
 	<string name="open_all_bookmarks">פתח הכל</string>
 	<string name="open_all_in_new_window">פתח הכל בלשוניות חדשות</string>
@@ -438,6 +440,7 @@
 	<string name="tab_history">היסטוריה</string>
 	<string name="tab_most_visited">הנצפים ביותר</string>
 	<string name="tab_opened_background">כרטיסייה נפתחה ברקע.</string>
+	<string name="tab_opened_background_in_incognito">חלון גלישה בסתר חדש נפתח</string>
 	<string name="tab_quicklinks">קישורים מהירים</string>
 	<string name="tab_snapshots">דפים שמורים</string>
 	<string name="tab_yellowpage">דפי זהב</string>

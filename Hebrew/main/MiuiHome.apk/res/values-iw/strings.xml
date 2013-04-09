@@ -63,6 +63,7 @@
 	<string name="gadget_clock_22_label">שעון 2x2</string>
 	<string name="gadget_clock_24_label">שעון 2x4</string>
 	<string name="gadget_error_text">בעיה בטעינת ווידג\'ט</string>
+	<string name="gadget_google_search_label">חיפוש גוגל</string> 
 	<string name="gadget_load_error">כשלון בטעינה...</string>
 	<string name="gadget_photo_22_label">תמונה 2x2</string>
 	<string name="gadget_photo_24_label">תמונה 2x4</string>
@@ -83,13 +84,15 @@
 	<string name="group_folder">תיקיה חדשה</string>
 	<string name="group_live_folders">תיקיות</string>
 	<string name="group_shortcuts">קיצורי דרך</string>
+	<string name="guide_install_app_msg">היישום לא הותן. לחפש את היישום בחנות עכשיו?</string>
+	<string name="guide_install_app_title">התקן יישום</string> 
 	<string name="guide_tips_editing_mode">"החזק את הווידג'ט וגרור אל המסך"</string>
 	<string name="home_indicator">bottom_point</string>
 	<string name="install">התקן</string>
 	<string name="invalid_contact_shortcut">קיצור דרך שגוי</string>
-	<string name="loading">Loading...</string>
-	<string name="loading_desktop">Loading launcher...</string>
-	<string name="loading_resource_detail_info">Loading...</string>
+	<string name="loading">טעון...</string>
+	<string name="loading_desktop">טוען את מסך הבית...</string>
+	<string name="loading_resource_detail_info">טוען...</string>
 	<string name="menu_add">הוסף</string>
 	<string name="menu_back_desktop">חזרה</string>
 	<string name="menu_edit">מצב עריכה</string>

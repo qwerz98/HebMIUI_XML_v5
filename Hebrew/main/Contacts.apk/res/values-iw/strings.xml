@@ -135,6 +135,7 @@
 	<string name="clearFrequentsProgress_title">Clearing frequently contacted...</string>
 	<string name="clear_default">נקה ברירת מחדל</string>
 	<string name="click_close">לחץ על המסך לסגירה</string>
+	<string name="cloud_antispam_mark">זבל</string> 
 	<string name="cloud_antispam_summary">סינון שיחות והודעות באמצעות Wi-Fi ורשתות נתונים</string>
 	<string name="cloud_antispam_title">הגנת ענן</string>
 	<string name="composer_failed_to_get_database_infomation">לא ניתן לקבל מידע על מסד נתונים</string>

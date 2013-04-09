@@ -51,8 +51,10 @@
 	<string name="menu_rename_folder">Rename folder</string>
 	<string name="menu_send_to_desktop">צור קיצור דרך</string>
 	<string name="menu_setting">הגדרות</string>
+	<string name="menu_stick">נעץ</string> 
 	<string name="menu_title_select_folder">בחר תיקיה</string>
-	<string name="not_now">Not now</string>
+	<string name="menu_unstick">בטל נעיצה</string> 
+	<string name="not_now">לא עכשיו</string>
 	<string name="note_alert_expired">פג תוקף</string>
 	<string name="note_link_email">שלח מייל</string>
 	<string name="note_link_other">פתח מפה</string>

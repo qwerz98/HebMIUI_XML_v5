@@ -462,6 +462,7 @@
 	<string name="camera_key_action_title">כפתור MI</string>
 	<string name="camera_key_action_toggle_title">הפעל מתג</string>
 	<string name="cancel">ביטול</string>
+	<string name="cancel_alert">ביטול התראה?</string> 
 	<string name="cant_sync_dialog_message">אפשרות הסנכרון עבור פריט זה מושבתת כרגע. כדי לשנות את ההגדרה, הפעל באופן זמני את נתוני הרקע והסנכרון האוטומטי.</string>
 	<string name="cant_sync_dialog_title">לא ניתן לסנכרן באופן ידני</string>
 	<string name="carrier_enabled">להפעיל / להשבית APN </string>
