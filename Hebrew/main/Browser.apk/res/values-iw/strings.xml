@@ -172,7 +172,7 @@
 	<string name="go_home">דף הבית</string>
 	<string name="google_bookmarks">גוגל </string>
 	<string name="goto_dot">המשך</string>
-	<string name="have_sent_bookmark_to_home_screen">Bookmark sent to home screen</string>
+	<string name="have_sent_bookmark_to_home_screen">סימניה נשלחה לעמוד הבית</string>
 	<string name="history">היסטוריה</string>
 	<string name="homepage_base">http://www.google.com/webhp?client={CID}</string>
 	<string name="homepage_set">דף הבית מוגדר.</string>
@@ -194,7 +194,7 @@
 	<string name="import_bookmarks_wizard_next">הבא</string>
 	<string name="import_bookmarks_wizard_previous">הקודם</string>
 	<string name="importing_favorite_files">יבוא נתונים ...</string>
-	<string name="in_incognito">Incognito mode is active, no browser history will be left.</string>
+	<string name="in_incognito">מצב גלישה בסתר מופעל, היסטוריית דפדפן לא תשמר.</string>
 	<string name="instant_search_label">גוגל מיידי (מעבדות)</string>
 	<string name="is_first_history_item">זהו פריט ההיסטוריה הראשון</string>
 	<string name="is_first_tab">זוהי הכרטיסייה הראשונה</string>
@@ -202,8 +202,7 @@
 	<string name="is_last_tab">זוהי הכרטיסייה האחרונה</string>
 	<string name="is_page_bottom">בתחתית הדף</string>
 	<string name="is_page_top">בחלק העליון של הדף כבר</string>
-	<string name="js_engine_flags">Set JS flags
-	</string>
+	<string name="js_engine_flags">Set JS flags</string>
 	<string name="loadSuspended">הדפדפן לא יכול לטעון דף זה משום שאין חיבור לאינטרנט.</string>
 	<string name="loadSuspendedTitle">אין חיבור</string>
 	<string name="loading_video">טוען וידאו ...</string>
