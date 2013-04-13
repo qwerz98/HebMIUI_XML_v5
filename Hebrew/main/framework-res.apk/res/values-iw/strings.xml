@@ -810,7 +810,7 @@
     <string name="factorytest_failed">בדיקת היצרן נכשלה</string>
     <string name="factorytest_not_system">הפעולה FACTORY_TEST נתמכת רק עבור חבילות שהותקנו ב-‎/system/app.</string>
     <string name="factorytest_no_action">לא נמצאה חבילה המספקת את הפעולה FACTORY_TEST.</string>
-    <string name="factorytest_reboot">אתחל מחדש</string>
+    <string name="factorytest_reboot">הפעל מחדש</string>
     <string name="js_dialog_title">"בדף שבכתובת '%s' כתוב כך:"</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">"לנווט אל מחוץ לדף זה?
