@@ -125,9 +125,9 @@
 	<string name="system_backup_cancel_text">עדכון</string>
 	<string name="system_backup_download_helper">המכשיר יופעל מחדש אוטומטית להפעלת העדכון לאחר סיום ההורדה</string>
 	<string name="system_backup_error_message">לא נמצא גיבוי</string>
-	<string name="system_backup_helper">System update will not wipe user data. However,it is recommended to make a backup of your user data before updating</string>
+	<string name="system_backup_helper">עדכון מערכת לא ימחק נתוני משתמש. עם זאת, מומלץ לבצע גיבוי של נתוני המשתמש שלך לפני העדכון</string>
 	<string name="system_backup_ok_text">גיבוי</string>
-	<string name="top_secret_build">Secret build</string>
+	<string name="top_secret_build">בנייה סודית</string>
 	<string name="update_comment_hint">(אופציונלי)</string>
 	<string name="update_comment_title">ההערות שלך</string>
 	<string name="update_feedback">Four-grid Update Feedback</string>
@@ -146,7 +146,7 @@
 	<string name="verify_and_apply_dialog_message">בודק MD5 ...</string>
 	<string name="verify_and_apply_dialog_title">בודק תקינות קבצים</string>
 	<string name="view_install_log">הצג את יומן השגיאות</string>
-	<string name="view_upgrade_tutorial">View tutorial</string>
+	<string name="view_upgrade_tutorial">צפה במדריך</string>
 	<string name="weekly_build">בנייה שבועית</string>
 	<string name="wifi_not_available_body">אתה כנראה לא מחובר ברשת אלחוטית. נפח הקבצים עלול להיות גבוה. האם להמשיך?</string>
 	<string name="wifi_not_available_title">לא אותרה רשת אלחוטית</string>
