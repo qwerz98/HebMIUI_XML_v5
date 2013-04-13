@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-	<string name="MIUI_startpage">Start page</string>
+	<string name="MIUI_startpage">דף הבית</string>
 	<string name="accessibility_button_addbookmark">צור סימנייה לדף זה</string>
 	<string name="accessibility_button_back">חזור אחורה</string>
-	<string name="accessibility_button_bookmark">Bookmark</string>
+	<string name="accessibility_button_bookmark">סמנייה</string>
 	<string name="accessibility_button_bookmarks">סימניות</string>
 	<string name="accessibility_button_clear">נקה</string>
 	<string name="accessibility_button_closetab">סגור לשונית</string>
 	<string name="accessibility_button_forward">לך קדימה</string>
 	<string name="accessibility_button_go">קדימה</string>
 	<string name="accessibility_button_goto">לך אל</string>
-	<string name="accessibility_button_larger">Larger</string>
+	<string name="accessibility_button_larger">גדול יותר</string>
 	<string name="accessibility_button_more">עוד אפשרויות</string>
 	<string name="accessibility_button_navscreen">מנהל הדף</string>
 	<string name="accessibility_button_newincognitotab">פתח לשונית לגלישה פרטית</string>
 	<string name="accessibility_button_newtab">פתח לשונית חדשה</string>
 	<string name="accessibility_button_refresh">רענן</string>
 	<string name="accessibility_button_search">חפש</string>
-	<string name="accessibility_button_smaller">Smaller</string>
+	<string name="accessibility_button_smaller">קטן יותר</string>
 	<string name="accessibility_button_stop">עצור טעינת דף</string>
-	<string name="accessibility_button_tabs">Tabs</string>
+	<string name="accessibility_button_tabs">כרטיסיות</string>
 	<string name="accessibility_button_uaswitch">חלף מנהל משתמש</string>
 	<string name="accessibility_button_voice">התחל חיפוש קולי</string>
 	<string name="accessibility_state_frozen">דף שמור</string>
@@ -172,7 +172,7 @@
 	<string name="go_home">דף הבית</string>
 	<string name="google_bookmarks">גוגל </string>
 	<string name="goto_dot">המשך</string>
-	<string name="have_sent_bookmark_to_home_screen">סימניה נשלחה לעמוד הבית</string>
+	<string name="have_sent_bookmark_to_home_screen">Bookmark sent to home screen</string>
 	<string name="history">היסטוריה</string>
 	<string name="homepage_base">http://www.google.com/webhp?client={CID}</string>
 	<string name="homepage_set">דף הבית מוגדר.</string>
@@ -194,7 +194,6 @@
 	<string name="import_bookmarks_wizard_next">הבא</string>
 	<string name="import_bookmarks_wizard_previous">הקודם</string>
 	<string name="importing_favorite_files">יבוא נתונים ...</string>
-	<string name="in_incognito">מצב גלישה בסתר מופעל, היסטוריית דפדפן לא תשמר.</string>
 	<string name="instant_search_label">גוגל מיידי (מעבדות)</string>
 	<string name="is_first_history_item">זהו פריט ההיסטוריה הראשון</string>
 	<string name="is_first_tab">זוהי הכרטיסייה הראשונה</string>
@@ -202,7 +201,8 @@
 	<string name="is_last_tab">זוהי הכרטיסייה האחרונה</string>
 	<string name="is_page_bottom">בתחתית הדף</string>
 	<string name="is_page_top">בחלק העליון של הדף כבר</string>
-	<string name="js_engine_flags">Set JS flags</string>
+	<string name="js_engine_flags">Set JS flags
+	</string>
 	<string name="loadSuspended">הדפדפן לא יכול לטעון דף זה משום שאין חיבור לאינטרנט.</string>
 	<string name="loadSuspendedTitle">אין חיבור</string>
 	<string name="loading_video">טוען וידאו ...</string>
@@ -224,7 +224,6 @@
 	<string name="new_tab">כרטיסיה חדשה</string>
 	<string name="no_subfolders">אין תיקיות משנה.</string>
 	<string name="not_remind_again">אל תזכיר לי יותר</string>
-	<string name="notif_install_successful">הורד בהצלחה</string> 
 	<string name="ok">אישור</string>
 	<string name="open_all_bookmarks">פתח הכל</string>
 	<string name="open_all_in_new_window">פתח הכל בלשוניות חדשות</string>
@@ -239,7 +238,7 @@
 	<string name="please_select_a_file_to_import">נא לבחור את קובץ הנתונים</string>
 	<string name="popup_window_attempt">אפשר לאתר זה לפתוח חלון קופץ?</string>
 	<string name="pref_accessibility_title">נגישות</string>
-	<string name="pref_allow_apptabs">Allow multiple tabs per app</string>
+	<string name="pref_allow_apptabs">אפשר כרטיסיות מרובות עבור כל יישום</string>
 	<string name="pref_autofill_enabled">מילוי אוטומטי של טפסים</string>
 	<string name="pref_autofill_enabled_summary">מלא טפסי אינטרנט בנגיעה אחת</string>
 	<string name="pref_autofill_profile_editor">מילוי אוטומטי של טקסט</string>
@@ -419,7 +418,7 @@
 	<string name="share_page">שתף דף</string>
 	<string name="shortcut_bookmark">סימניות</string>
 	<string name="shortcut_bookmark_title">בחר סימנייה</string>
-	<string name="sign_in_to" formatted="false">היכנס ל %s1 \"%s2\"</string>
+	<string name="sign_in_to">היכנס ל %s1 \"%s2\"</string>
 	<string name="snapshot_failed">לא ניתן לשמור לקריאה לא מקוונת.</string>
 	<string name="snapshot_go_live">לך למקוון</string>
 	<string name="ssl_continue">המשך</string>
@@ -439,7 +438,6 @@
 	<string name="tab_history">היסטוריה</string>
 	<string name="tab_most_visited">הנצפים ביותר</string>
 	<string name="tab_opened_background">כרטיסייה נפתחה ברקע.</string>
-	<string name="tab_opened_background_in_incognito">חלון גלישה בסתר חדש נפתח</string>
 	<string name="tab_quicklinks">קישורים מהירים</string>
 	<string name="tab_snapshots">דפים שמורים</string>
 	<string name="tab_yellowpage">דפי זהב</string>

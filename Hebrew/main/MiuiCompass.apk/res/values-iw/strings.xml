@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<string name="altitude">גובה</string>
-	<string name="altitude_title">Altitude</string>
+	<string name="altitude_title">גובה</string>
 	<string name="altitude_unit">m</string>
 	<string name="app_label">מצפן</string>
-	<string name="calibrate_failed_no_location">Calibration failed: Unable to get the current latitude and longitude</string>
-	<string name="calibrate_failed_timeout">Calibration failed: Server timeout occurred</string>
+	<string name="calibrate_failed_no_location">כיול נכשל: אין אפשרות לקבל את קווי האורך והרוחב הנוכחיים</string>
+	<string name="calibrate_failed_timeout">הכיול נכשל: פסק זמן של שרת התרחש</string>
 	<string name="calibrate_success">הכיול הצליח</string>
 	<string name="cannot_get_location">לא ניתן לקבל את המיקום שלך</string>
-	<string name="dialog_calibrat_altitude">Calibrating altitude through the internet connection.</string>
-	<string name="dialog_title_no_network">No network found, connect via Wi-Fi or enable Data</string>
-	<string name="direction_east">E</string>
-	<string name="direction_north">N</string>
-	<string name="direction_south">S</string>
-	<string name="direction_west">W</string>
+	<string name="dialog_calibrat_altitude">כיול גובה באמצעות חיבור לאינטרנט.</string>
+	<string name="dialog_title_no_network">לא נמצאה רשת, התחבר באמצעות Wi-Fi או אפשר נתונים</string>
+	<string name="direction_east">מזרח</string>
+	<string name="direction_north">צפון</string>
+	<string name="direction_south">דרום</string>
+	<string name="direction_west">מערב</string>
 	<string name="getting_location">מקבל מיקום ...</string>
 	<string name="latitude">LAT</string>
 	<string name="location_east">%s E</string>
@@ -22,8 +22,8 @@
 	<string name="location_west">%s W</string>
 	<string name="longitude">LON</string>
 	<string name="menu_calibrate">כייל</string>
-	<string name="menu_calibrate_altitude">Calibrate altitude</string>
+	<string name="menu_calibrate_altitude">כיול גובה</string>
 	<string name="pressure">לחץ</string>
-	<string name="pressure_title">Pressure</string>
+	<string name="pressure_title">לחץ</string>
 	<string name="pressure_unit">hPa</string>
 </resources>

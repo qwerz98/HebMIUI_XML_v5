@@ -11,7 +11,7 @@
 	<string name="auth_notif_title">מפתח הפעלה</string>
 	<string name="bluetooth_share_file_name">bluetooth_content_share</string>
 	<string name="bpp_authentication_timeout_message">There was time out to input session key with %1$s</string>
-	<string name="bpp_cancel">Cancel</string>
+	<string name="bpp_cancel">ביטול</string>
 	<string name="bpp_main">Bluetooth Printing</string>
 	<string name="bpp_printing_button_text">Printing</string>
 	<string name="bpp_session_key_dialog_header">Bluetooth session key required</string>
@@ -70,9 +70,7 @@
 	<string name="incoming_file_confirm_Notification_caption">האם ברצונך לקבל קובץ זה?</string>
 	<string name="incoming_file_confirm_Notification_title">שיתוף Bluetooth: קובץ נכנס</string>
 	<string name="incoming_file_confirm_cancel">דחה</string>
-	<string name="incoming_file_confirm_content">"\"%1$s\" מעוניין לשלוח לך את %2$s (%3$s). 
-
- לקבל את הקובץ?"</string>
+	<string name="incoming_file_confirm_content">"\"%1$s\" מעוניין לשלוח לך את %2$s (%3$s). לקבל את הקובץ?"</string>
 	<string name="incoming_file_confirm_ok">קבל</string>
 	<string name="incoming_file_confirm_timeout_content">תם הזמן הקצוב לקבלת קובץ נכנס מאת \"%1$s\"</string>
 	<string name="incoming_file_confirm_timeout_ok">אישור</string>
@@ -92,8 +90,7 @@
 	<string name="map_session_key_dialog_title">Type session key for %1$s</string>
 	<string name="no_transfers">היסטוריית ההעברות ריקה.</string>
 	<string name="not_exist_file">אין קובץ</string>
-	<string name="not_exist_file_desc">"הקובץ לא קיים. 
-"</string>
+	<string name="not_exist_file_desc">"הקובץ לא קיים."</string>
 	<string name="noti_caption">%1$s הושלמו בהצלחה, %2$s לא הושלמו בהצלחה.</string>
 	<string name="notification_received">שיתוף Bluetooth‏: התקבל %1$s</string>
 	<string name="notification_received_fail">שיתוף Bluetooth: הקובץ %1$s לא התקבל</string>
@@ -158,8 +155,7 @@
 	<string name="unknownNumber">לא ידוע</string>
 	<string name="unknown_device">מכשיר לא ידוע</string>
 	<string name="unknown_file">קובץ לא ידוע</string>
-	<string name="unknown_file_desc">"אין יישום המתאים לטיפול בקבצים מסוג זה. 
-"</string>
+	<string name="unknown_file_desc">"אין יישום המתאים לטיפול בקבצים מסוג זה."</string>
 	<string name="update_record">אשר הקלטה</string>
 	<string name="upload_fail_cancel">סגור</string>
 	<string name="upload_fail_line1">הקובץ לא נשלח אל %1$s.</string>

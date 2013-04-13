@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-	<string name="Parse_error_dlg_text">יש בעיה בניתוח החבילה.</string>
-	<string name="Parse_error_dlg_title">שגיאת ניתוח</string>
-	<string name="allow_source_dlg_text">"%1$s רוצה להתקין יישומים אחרים. 
-
-לאפשר זאת עכשיו ובעתיד?"</string>
+	<string name="Parse_error_dlg_text">קיימת בעיה בפענוח החבילה.</string>
+	<string name="Parse_error_dlg_title">שגיאת פיענוח</string>
+	<string name="allow_source_dlg_text">"%1$s רוצה להתקין יישומים אחרים. לאפשר זאת עכשיו ובעתיד?"</string>
 	<string name="allow_source_dlg_title">לאפשר מקור חדש עבור יישומים?</string>
 	<string name="app_name">מתקין החבילה</string>
 	<string name="app_not_found_dlg_text">היישום לא נמצא ברשימת היישומים המותקנים.</string>
 	<string name="app_not_found_dlg_title">היישום לא נמצא</string>
 	<string name="auto_startup_dialog_msg">"MIUI will allow the app to start-up automatically without prompting. This may lead to consumption of power or data traffic. Allow Autostart?"</string>
-	<string name="caller_app">Caller: %1$s</string>
+	<string name="caller_app">מבקר: %1$s</string>
 	<string name="cancel">ביטול</string>
-	<string name="dlg_app_replacement_statement">"היישום שאתה מתקין יחליף יישום אחר.
-
-כל נתוני המשתמש הקודמים יישמרו."</string>
+	<string name="dlg_app_replacement_statement">"היישום שאתה מתקין יחליף יישום אחר. כל נתוני המשתמש הקודמים יישמרו."</string>
 	<string name="dlg_app_replacement_title">החלף יישום</string>
 	<string name="dlg_ok">אישור</string>
-	<string name="dlg_sys_app_replacement_statement">"זהו יישום מערכת. האם אתה עדיין רוצה להחליף אותו?
-
-כל נתוני המשתמש הקודמים יישמרו."</string>
+	<string name="dlg_sys_app_replacement_statement">"זהו יישום מערכת. האם אתה עדיין רוצה להחליף אותו? כל נתוני המשתמש הקודמים יישמרו."</string>
 	<string name="done">סיום</string>
-	<string name="high_risk_perms">High-risk Permissions</string>
+	<string name="high_risk_perms">הרשאות בסיכון גבוה</string>
 	<string name="install">התקן</string>
 	<string name="install_confirm_question">האם ברצונך להתקין יישום זה?</string>
 	<string name="install_done">היישום מותקן</string>
@@ -37,46 +31,44 @@
 	<string name="installing">מתקין...</string>
 	<string name="launch">פתח</string>
 	<string name="lift_ban">בטל חסימה</string>
-	<string name="low_risk_perms">Low-risk Permissions</string>
+	<string name="low_risk_perms">הרשאות בסיכון נמוך</string>
 	<string name="manage_applications">נהל יישומים</string>
 	<string name="manage_device_administrators">נהל מנהלי מכשירים</string>
 	<string name="ok">אישור</string>
-	<string name="other_relative">Other permissions</string>
+	<string name="other_relative">הרשאות אחרות</string>
 	<string name="out_of_space_dlg_text">לא היתה אפשרות להתקין את %1$s. פנה שטח ונסה שוב.</string>
 	<string name="out_of_space_dlg_title">אין מספיק שטח</string>
-	<string name="perm_action_accept">Accept</string>
-	<string name="perm_action_prompt">Prompt</string>
-	<string name="perm_action_reject">Reject</string>
-	<string name="perm_notice">Alert of Security</string>
-	<string name="perm_privacy_app_finish">Finish</string>
-	<string name="perm_privacy_app_installed">Installation successful!</string>
-	<string name="perm_privacy_app_launch">Open</string>
-	<string name="perm_privacy_app_trust">I trust this app</string>
-	<string name="perm_privacy_app_trust_summary">MIUI will monitor this app</string>
-	<string name="perm_sysopt_boost_auto_start">Autostart permissions</string>
-	<string name="perm_sysopt_boost_auto_start_summary">App will start up automatically!</string>
-	<string name="privacy_relative">Privacy permissions</string>
-	<string name="safe_guard_support">Technical support provided by %1$s</string>
-	<string name="safe_relative">Safe permissions</string>
+	<string name="perm_action_accept">אשר</string>
+	<string name="perm_action_prompt">התראה</string>
+	<string name="perm_action_reject">דחה</string>
+	<string name="perm_notice">התראת אבטחה</string>
+	<string name="perm_privacy_app_finish">סיום</string>
+	<string name="perm_privacy_app_installed">הותקן בהצלחה!</string>
+	<string name="perm_privacy_app_launch">פתח</string>
+	<string name="perm_privacy_app_trust">אני בוטח ביישום זה</string>
+	<string name="perm_privacy_app_trust_summary">MIUI תעקוב אחר יישום זה</string>
+	<string name="perm_sysopt_boost_auto_start">הרשאות הפעלה אוטומטית</string>
+	<string name="perm_sysopt_boost_auto_start_summary">היישום יופעל אוטומטית!</string>
+	<string name="privacy_relative">הרשאות פרטיות</string>
+	<string name="safe_guard_support">תמיכה טכנית מסופקת על ידי %1$s</string>
+	<string name="safe_relative">הרשאות בטוחות</string>
 	<string name="security_settings_desc">אפשר ליישום זה:</string>
 	<string name="settings">הגדרות</string>
-	<string name="trust_switch_dialog_msg">"MIUI will not ask you for confirmation of any security and privacy related operations from this App. Trust this App？"</string>
+	<string name="trust_switch_dialog_msg">"MIUI לא ישאל אותך לאישור של כל פעולות אבטחה ושמירה על פרטיות הקשורים ליישום זה. סומך על יישום זה？"</string>
 	<string name="uninstall_activity_text">%1$s הוא חלק מהיישום הבא:</string>
 	<string name="uninstall_application_text">התקנת יישום זה תוסר.</string>
 	<string name="uninstall_application_title">הסר התקנה של יישום</string>
-	<string name="uninstall_confirm_question">Do you want to uninstall the application?</string>
+	<string name="uninstall_confirm_question">אתה בטוח שברצונך להסיר יישום זה?</string>
 	<string name="uninstall_done">הסרת ההתקנה הסתיימה</string>
 	<string name="uninstall_failed">הסרת ההתקנה נכשלה</string>
 	<string name="uninstall_failed_device_policy_manager">לא ניתן להסיר התקנה: חבילה זו היא מנהל מכשיר פעיל.</string>
 	<string name="uninstall_failed_msg">אין אפשרות לבטל את ההתקנה של %1$s</string>
-	<string name="uninstall_failed_retained_app_msg">Application customized by the operator could not be uninstalled</string>
+	<string name="uninstall_failed_retained_app_msg">יישום המותאם אישית על ידי המפעיל אינו ניתן למחיקה</string>
 	<string name="uninstall_update_text">היישום יוחלף בגרסת היצרן.</string>
 	<string name="uninstall_update_title">הסרת התקנה של עדכון</string>
 	<string name="uninstalling">מסיר התקנה...</string>
 	<string name="unknown">לא ידוע</string>
-	<string name="unknown_apps_dlg_text">"מטעמי אבטחה, הטלפון מוגדר לחסום התקנה של יישומים שלא הושגו מ'חנות Android'.
-
-ניתן לשנות הגדרה זו בהגדרות הבטחה"</string>
+	<string name="unknown_apps_dlg_text">"מטעמי אבטחה, הטלפון מוגדר לחסום התקנה של יישומים שלא הושגו מ'חנות Android'. ניתן לשנות הגדרה זו בהגדרות אבטחה"</string>
 	<string name="unknown_apps_dlg_title">ההתקנה חסומה</string>
-	<string name="unknown_installer">Unknown installer</string>
+	<string name="unknown_installer">מתקין לא ידוע</string>
 </resources>

@@ -72,9 +72,7 @@
 	<string name="compat_mode_help_header">שינוי מרחק מתצוגה לתאימות</string>
 	<string name="compat_mode_off">מתח כדי למלא את המסך</string>
 	<string name="compat_mode_on">הגדל תצוגה כדי למלא את המסך</string>
-	<string name="data_usage_disabled_dialog">"הגעת למגבלת השימוש בנתונים שצוינה.
-
-ייתכן שתחויב בתשלום לספק על שימוש נוסף בנתונים."</string>
+	<string name="data_usage_disabled_dialog">"הגעת למגבלת השימוש בנתונים שצוינה. ייתכן שתחויב בתשלום לספק על שימוש נוסף בנתונים."</string>
 	<string name="data_usage_disabled_dialog_3g_title">נתוני 2G-3G מושבתים</string>
 	<string name="data_usage_disabled_dialog_4g_title">נתוני 4G מושבתים</string>
 	<string name="data_usage_disabled_dialog_enable">הפעל מחדש את הנתונים</string>
@@ -107,8 +105,7 @@
 	<string name="flash_device">/sys/class/leds/flashlight/brightness</string>
 	<string name="gps_notification_found_text">מיקום מוגדר על ידי GPS</string>
 	<string name="gps_notification_searching_text">מחפש GPS</string>
-	<string name="invalid_charger">"טעינה באמצעות USB אינה נתמכת.
-השתמש אך ורק במטען שסופק."</string>
+	<string name="invalid_charger">"טעינה באמצעות USB אינה נתמכת. השתמש אך ורק במטען שסופק."</string>
 	<string name="key_position_custom">עמדת מפתח מותאם אישית</string>
 	<string name="label_view">הצג</string>
 	<string name="lockscreen_carrier_default">אין שירות</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-	<string name="app_name">MusicFX</string>
+	<string name="app_name">אפקטי מוזיקה</string>
 	<string name="bass_boost_strength">הגברת הבס</string>
 	<string name="ci_extreme">הגברת FX</string>
 	<string name="eq_dialog_title">איקוולייזר</string>
