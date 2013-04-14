@@ -73,6 +73,6 @@
 	<string name="status_bar_recording_back">לחץ כדי לחזור להקלטה</string>
 	<string name="status_bar_recording_pause">"ההקלטה הושהתה "</string>
 	<string name="storage_is_full">זכרון מלא</string>
-	<string name="timer_format">%02d:%02d</string>
+	<string name="timer_format" formatted="false">%02d:%02d</string>
 	<string name="unknown_caller">מספר חסוי</string>
 </resources>

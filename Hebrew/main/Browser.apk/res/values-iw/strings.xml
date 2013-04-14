@@ -418,7 +418,7 @@
 	<string name="share_page">שתף דף</string>
 	<string name="shortcut_bookmark">סימניות</string>
 	<string name="shortcut_bookmark_title">בחר סימנייה</string>
-	<string name="sign_in_to">היכנס ל %s1 \"%s2\"</string>
+	<string name="sign_in_to" formatted="false">היכנס ל %s1 \"%s2\"</string>
 	<string name="snapshot_failed">לא ניתן לשמור לקריאה לא מקוונת.</string>
 	<string name="snapshot_go_live">לך למקוון</string>
 	<string name="ssl_continue">המשך</string>

@@ -43,7 +43,7 @@
 	<string name="failed_to_drop_widget_invalid">התוסף לא חוקי</string>
 	<string name="failed_to_drop_widget_nospace">העברה נכשלה, אין מספיק מקום!</string>
 	<string name="folder_name">תיקיה</string>
-	<string name="frame_load_failed">Invalid photo frame, failed to load frame!</string>
+	<string name="frame_load_failed">מסגרת תמונה לא חוקית, לא ניתן לטעון את המסגרת!</string>
 	<string name="free_style_apps_title">בחר יישום</string>
 	<string name="free_style_drawer_title">כל היישומים</string>
 	<string name="free_style_edit_app">יישום</string>
