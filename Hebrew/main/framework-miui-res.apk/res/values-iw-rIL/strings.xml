@@ -346,7 +346,7 @@
 	<string name="lunar_yue"/>
 	<string name="lunar_zheng"/>
 	<string name="memory_clear_nothing_result">אין זיכרון לניקוי</string>
-	<string name="memory_clear_result">"פונו %1$s | זמין %2$s"</string>
+	<string name="memory_clear_result">"פונו %1$s | זמין %1$s"</string>
 	<string name="miui_copyright_title">זכויות יוצרים</string>
 	<string name="miui_device_name">אנדרואיד</string> 
 	<string name="miui_mibi_license_title">Mi Credit User agreement</string>
