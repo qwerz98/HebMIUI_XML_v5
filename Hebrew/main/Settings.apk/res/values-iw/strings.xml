@@ -3,7 +3,7 @@
 	<string name="about_settings">אודות הטלפון</string>
 	<string name="about_settings_summary">הצג מידע משפטי, סטטוס, גרסת תוכנה</string>
 	<string name="ac_enable_title">אפשר בקרת גישה</string>
-	<string name="ac_privacy_mode_sum">Input access control password to cancel guarded mode</string>
+	<string name="ac_privacy_mode_sum">הכנס את סיסמאת בבקרת הגישה לביטול מצב מוגן</string>
 	<string name="ac_privacy_mode_title">הגן על מצב מאובטח</string>
 	<string name="ac_set_apps_title">הגן על יישומים</string>
 	<string name="accelerometer_summary_off">שנה כיוון באופן אוטומטי בעת סיבוב הטלפון</string>
@@ -16,8 +16,8 @@
 	<string name="access_control_no_back_footer">לחץ על [הסמל] כדי לצאת</string>
 	<string name="access_control_password_title">אפשר סיסמא</string>
 	<string name="access_control_recording_intro_header">צייר קו כדי ליצור נעילת סיסמא</string>
-	<string name="access_control_reset_by_account">Login Xiaomi account to reset access control password</string>
-	<string name="accessibility_enable">Enable accessibility</string>
+	<string name="access_control_reset_by_account">התחבר לחשבון Xiaomi כדי לאפס את הסיסמה של בקרת הגישה</string>
+	<string name="accessibility_enable">אפשר נגישות</string>
 	<string name="accessibility_long_press_timeout_title">\"עיכוב של גע והחזק\"</string>
 	<string name="accessibility_menu_item_settings">הגדרות</string>
 	<string name="accessibility_no_services_installed">אין שירותים מותקנים</string>
@@ -119,6 +119,8 @@
 	<string name="app_factory_reset_dlg_text">כל העדכונים ליישום מערכת Android זו יוסרו.</string>
 	<string name="app_factory_reset_dlg_title">להסיר את התקנת העדכונים?</string>
 	<string name="app_floating_window_dlg">Allow\"%1$s\" to show popup window</string>
+	<string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app forcibly. Are you sure you want to disable?"</string>
+	<string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires app to restart. Are you sure you want to enable?"</string> 
 	<string name="app_forward_locked">היישום מוגן בפני העתקה.</string>
 	<string name="app_install_location_summary">שנה את מיקום ההתקנה המועדף עבור יישומים חדשים.</string>
 	<string name="app_install_location_title">מיקום התקנה מועדף</string>
@@ -818,7 +820,8 @@ Some apps may not work until updated by their developers."</string>
 	<string name="finish_application">סיום</string>
 	<string name="finish_button_label">סיום</string>
 	<string name="firmware_version">גרסת אנדרואיד</string>
-	<string name="floating_window_switch_label">Show popup window</string>
+	<string name="floating_window_switch_label">הצג חלון קופץ</string>
+	<string name="floating_window_switch_label_disable">הסתר חלון קובץ</string> 
 	<string name="font_size_huge">ענק</string>
 	<string name="font_size_large">גדול</string>
 	<string name="font_size_medium">בינוני</string>
@@ -1500,13 +1503,13 @@ please follow the steps to complete installation"</string>
 	<string name="remove_from_frequently_fragment">הסר %s מהגדרות נפוצות?</string>
 	<string name="reset_app_preferences">Reset app preferences</string>
 	<string name="reset_app_preferences_button">Reset apps</string>
-	<string name="reset_app_preferences_desc">"This will reset all preferences for:
+	<string name="reset_app_preferences_desc">"זה יאפס את כל ההעדפות עבור:
 
  "</string>
-	<string name="reset_app_preferences_title">Reset app preferences?</string>
+	<string name="reset_app_preferences_title">לאפס את ההעדפות היישום?</string>
 	<string name="restore_default_apn">שחזור הגדרות ברירת מחדל של APN.</string>
 	<string name="restore_default_apn_completed">איפוס הגדרות ברירת מחדל של APN הושלמו.</string>
-	<string name="retry">Retry</string>
+	<string name="retry">נסה שוב</string>
 	<string name="ring_volume_title">עוצמת קול של צלצול</string>
 	<string name="ringtone_summary"/>
 	<string name="ringtone_title">צלצול</string>
@@ -1529,9 +1532,9 @@ please follow the steps to complete installation"</string>
 	<string name="runningservicedetails_stop_dlg_title">להפסיק שירות מערכת?</string>
 	<string name="runningservices_settings_summary">הצג ושלוט בשירותים הפועלים כעת</string>
 	<string name="runningservices_settings_title">שירותים פועלים</string>
-	<string name="safe_relative">Safe permissions</string>
+	<string name="safe_relative">הרשאות בטוחות</string>
 	<string name="scan_list_label">סרוק תוצאות:</string>
-	<string name="screen">Screen</string>
+	<string name="screen">מסך</string>
 	<string name="screen_button_custom">התאמה אישית של מיקום מקשי המסך</string>
 	<string name="screen_button_key">מקשי מסך וירטואליים</string>
 	<string name="screen_color_temperature_adjust">Adjust color temperature</string>
@@ -1621,7 +1624,7 @@ please follow the steps to complete installation"</string>
 	<string name="sel_sub_summary">בחר מנוי לSUB-1 וSUB-2</string>
 	<string name="sel_sub_title">הגדר הרשמות</string>
 	<string name="select_all">בחר הכל</string>
-	<string name="select_application">Select application</string>
+	<string name="select_application">בחר יישום</string>
 	<string name="select_device_admin_msg">מנהלי מכשירים</string>
 	<string name="select_subscription">בחר מנוי</string>
 	<string name="service_background_processes">%1$s של שטח פנוי</string>
@@ -1697,6 +1700,7 @@ please follow the steps to complete installation"</string>
 	<string name="sim_lock_settings">הגדרות נעילת כרטיס סים</string>
 	<string name="sim_lock_settings_category">הגדר נעילה של כרטיס סים</string>
 	<string name="sim_lock_settings_title">נעילת כרטיס סים</string>
+	<string name="sim_management_title">SIM ניהול</string> 
 	<string name="sim_pin_attempts">ניסיונות שנותרו:</string>
 	<string name="sim_pin_change">שנה PIN של סים</string>
 	<string name="sim_pin_disabled">PIN1 מנוטרל!</string>
@@ -1706,7 +1710,7 @@ please follow the steps to complete installation"</string>
 	<string name="sim_reenter_new">הקלד שוב את ה-PIN חדש</string>
 	<string name="skip_button_label">ביטול</string>
 	<string name="skip_label">דלג</string>
-	<string name="skip_step">Skip this step</string>
+	<string name="skip_step">דלג על שלב זה</string>
 	<string name="small_font">קטן</string>
 	<string name="sms_delivered_sound_dialog_title">בחר צליל מסירת SMS</string>
 	<string name="sms_delivered_sound_title">SMS צליל נמסר</string>
@@ -1718,15 +1722,15 @@ please follow the steps to complete installation"</string>
 	<string name="sms_title">SMS</string>
 	<string name="sort_order_alpha">מיין לפי שם</string>
 	<string name="sort_order_size">מיין לפי גודל</string>
-	<string name="sound_category_call_ringtone_vibrate_title">Call ringtone </string>
+	<string name="sound_category_call_ringtone_vibrate_title">התראת שיחה </string>
 	<string name="sound_category_calls_and_notification_title">רינגטונים והתראות</string>
 	<string name="sound_category_notification_title">התראות</string>
 	<string name="sound_category_sound_title">כללי</string>
-	<string name="sound_category_system_title">System</string>
+	<string name="sound_category_system_title">מערכת</string>
 	<string name="sound_effects_enable_title">צלילי מגע</string>
 	<string name="sound_settings">הגדרות צלילים</string>
-	<string name="spellchecker_language">Language</string>
-	<string name="spellchecker_quick_settings">Settings</string>
+	<string name="spellchecker_language">שפה</string>
+	<string name="spellchecker_quick_settings">הגדרות</string>
 	<string name="spellchecker_security_warning">ייתכן שבודק איות זה יוכל לאסוף את כל הטקסט שאתה מקליד, כולל נתונים אישיים כגון סיסמאות ומספרי כרטיס אשראי. הוא מגיע מהיישום %1$s. להשתמש בבודק איות זה?</string>
 	<string name="spellcheckers_settings_title">תיקון שגיאות איות</string>
 	<string name="ssid_label">SSID:
@@ -1754,10 +1758,10 @@ please follow the steps to complete installation"</string>
 	<string name="status_up_time">זמן פעולה</string>
 	<string name="status_wifi_mac_address">כתובת MAC של Wi-Fi</string>
 	<string name="status_wimax_mac_address">כתובת ‎4G MAC</string>
-	<string name="storage_format">Format</string>
+	<string name="storage_format">פרמט</string>
 	<string name="storage_label">מידע אחסון</string>
 	<string name="storage_low_summary">Some system functions, such as syncing, may not work correctly. Try to free space by deleting or unpinning items, such as apps or media content.</string>
-	<string name="storage_low_title">Storage space is running out</string>
+	<string name="storage_low_title">שטח אחסון הולך ואוזל</string>
 	<string name="storage_menu_usb">חיבור למחשב USB</string>
 	<string name="storage_settings">אחסון</string>
 	<string name="storage_settings_summary">בטל טעינת כרטיס SD, הצג את שטח האחסון הזמין</string>
@@ -1774,15 +1778,15 @@ please follow the steps to complete installation"</string>
 	<string name="sum_carrier_select">בחר מפעיל רשת</string>
 	<string name="summary_font_size">%1$s</string>
 	<string name="supplicant_state_label">מדינת המבקש:</string>
-	<string name="sync_active">Sync active</string>
+	<string name="sync_active">סנכרון פעיל</string>
 	<string name="sync_automatically">סנכרן אוטומטית נתונים של יישומים</string>
 	<string name="sync_calendar">לוח שנה</string>
 	<string name="sync_contacts">אנשי קשר</string>
 	<string name="sync_disabled">סנכרון כבוי</string>
-	<string name="sync_enable">Enable sync</string>
+	<string name="sync_enable">הפעל סנכרון</string>
 	<string name="sync_enabled">סנכרון מופעל</string>
 	<string name="sync_error">שגיאת סנכרון</string>
-	<string name="sync_failed">Sync failed</string>
+	<string name="sync_failed">סנכרו נכשל</string>
 	<string name="sync_gmail">Gmail</string>
 	<string name="sync_in_progress">Syncing now…</string>
 	<string name="sync_is_failing">הסינכרון נתקל כעת בבעיות. הוא ימשיך תוך זמן קצר.</string>
@@ -1793,8 +1797,8 @@ please follow the steps to complete installation"</string>
 %1$s\"</string>
 	<string name="sync_plug"/>
 	<string name="sync_settings">חשבונות וסנכרון</string>
-	<string name="sync_wifi_label">Wi-Fi settings</string>
-	<string name="system">System</string>
+	<string name="sync_wifi_label">Wi-Fi הגדרות</string>
+	<string name="system">מערכת</string>
 	<string name="system_package">לא ניתן להתקין עדכוני מערכת במדיה חיצונית.</string>
 	<string name="system_update_settings_list_item_summary"/>
 	<string name="system_update_settings_list_item_title">עדכוני מערכת</string>
@@ -2286,7 +2290,7 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">The user certificate format is wrong! Please install right user certificate</string>
 	<string name="wifi_wapi_cert_mgmt_user_name_is_empty">Please input the user certificate name</string>
 	<string name="wifi_wapi_cert_uninstall">Uninstall WAPI Certificate</string>
-	<string name="wifi_wapi_cert_uninstall_button">Uninstall</string>
+	<string name="wifi_wapi_cert_uninstall_button">הסר התקנה</string>
 	<string name="wifi_wapi_certification_dont_exist">The network password you entered is not correct. Please try again.</string>
 	<string name="wifi_wapi_user_cert">User Certificate</string>
 	<string name="wifi_wps_available_first_item">רשת מוגנת זמינה</string>
@@ -2302,15 +2306,15 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_wps_onstart_pbc">Press the Wi-Fi Protected Setup button on your router. It may be called \"WPS\" or contain this symbol:</string>
 	<string name="wifi_wps_onstart_pin">Enter pin %1$s on your Wi-Fi router. The setup can take up-to two minutes to complete.</string>
 	<string name="wifi_wps_overlap_error">עוד הפעלת Wi-Fi Protected זוהתה. נסה שוב בעוד מספר דקות.</string>
-	<string name="wifi_wps_setup_msg">Starting WPS...</string>
+	<string name="wifi_wps_setup_msg">מפעיל WPS...</string>
 	<string name="wifi_wps_setup_title">התקנת WPS</string>
 	<string name="wimax_settings">הגדרות 4G</string>
 	<string name="wimax_settings_summary">הגדר ונהל רשת ומודם של ‎4G</string>
 	<string name="window_animation_scale_title">קנה מידה להנפשה של חלון</string>
 	<string name="wireless_networks_settings_title">אלחוטי ורשתות</string>
-	<string name="wps_category">WPS Security</string>
+	<string name="wps_category">WPS אבטחת</string>
 	<string name="wps_connect_summary">Make sure your router supports WPS</string>
-	<string name="wps_connect_title">Connect using WPS</string>
+	<string name="wps_connect_title">התחבר עם WPS</string>
 	<string name="xiaomi_account">חשבון Xiaomi</string>
 	<string name="yes">כן</string>
 	<string name="zone_auto">אזור זמן אוטומטי</string>

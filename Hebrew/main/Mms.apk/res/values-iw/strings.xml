@@ -215,7 +215,7 @@
 	<string name="mx_recommend_msg">אפשר הודעות בענן לשליחת הודעות בחינם</string> 
 	<string name="mx_warning_notice">הודעת SMS תישלח להפעלת הודעות ענן. קצב נתוני ספק עשויים לחול.</string>
 	<string name="need_download">מחחכה לסנכרון...</string>
-	<string name="new_message">הודעות</string>
+	<string name="new_message">הודעה חדשה</string>
 	<string name="new_message_arrived">התקבלה הודעה חדשה</string>
 	<string name="new_phrase">משפט חדש</string>
 	<string name="new_phrase_hint">הכנס משפט חדש</string>

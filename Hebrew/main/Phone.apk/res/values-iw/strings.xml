@@ -5,7 +5,7 @@
 	<string name="absent_num">"ABSENT NUMBER"</string>
 	<string name="accessibility_call_muted">"השיחה הושתקה."</string>
 	<string name="accessibility_speakerphone_enabled">"רמקול מופעל."</string>
-	<string name="addSimEntries">Add SIM Contact</string>
+	<string name="addSimEntries">הוסף איש קשר ל-SIM</string>
 	<string name="add_button_miui">"הוסף"</string>
 	<string name="add_fdn_contact">"הוסף מספר חיוג קבוע"</string>
 	<string name="add_sip_account">"הוסף חשבון"</string>
@@ -28,8 +28,8 @@
 	<string name="alert_dialog_no">"לא"</string>
 	<string name="alert_dialog_ok">"אישור"</string>
 	<string name="alert_dialog_yes">"כן"</string>
-	<string name="allContactdeleteFailed">Failed to delete all contacts from SIM !!!</string>
-	<string name="allContactdeleteSuccess">Successfully deleted all contacts from SIM card</string>
+	<string name="allContactdeleteFailed">לא ניתן היה למחוק את כל אנשי הקשר ב-SIM!!!</string>
+	<string name="allContactdeleteSuccess">כל אנשי הקשר ב-SIM נמחקו בהצלחה</string>
 	<string name="always_enable_mms_miui">"תמיד לקבל MMS"</string>
 	<string name="always_enable_mms_summary_miui">"תמיד לקבל MMS גם כאשר נתונים אינם זמינים"</string>
 	<string name="answer_and_hangup_miui">"ניתוק ומענה"</string>
@@ -42,6 +42,8 @@
 	<string name="answer_widget_sliding_horizontal_miui">"הזזה אופקית"</string>
 	<string name="answer_widget_sliding_vertical_miui">"הזזה אנכית"</string>
 	<string name="answer_widget_title_miui">"מענה בתנועה"</string>
+	<string name="antispam_marked_count">%1$d נדחו</string> 
+	<string name="antispam_notification_title">לא ידוע</string> 
 	<string name="apn_settings">"שמות נקודות גישה"</string>
 	<string name="areacode_required_accept_miui">"אישור"</string>
 	<string name="areacode_required_for_emergency_number_miui">"אזור החיוג נדרש לשיחות חירום"</string>
@@ -68,7 +70,7 @@
 	<string name="auto_answer_scenario_enteries_headset_only_miui">"אוזניות בלבד"</string>
 	<string name="auto_answer_scenario_title_miui">"תרחיש למענה אוטומטי"</string>
 	<string name="auto_answer_setting_title_miui">"הגדרות מענה אוטומטי"</string>
-	<string name="auto_answer_summary_delay">"(delay:%ss)"</string>
+	<string name="auto_answer_summary_delay">"(השהייה:%ss)"</string>
 	<string name="auto_answer_summary_not_enabled">"לא מופעל"</string>
 	<string name="auto_country_code_miui">"הוסף באופן אוטומטי את קוד המדינה"</string>
 	<string name="auto_country_code_sum_miui">"הוסף באופן אוטומטי קוד מדינה לפני חיוג לאנשי קשר מוכרים"</string>

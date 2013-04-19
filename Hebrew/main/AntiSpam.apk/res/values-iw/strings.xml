@@ -130,5 +130,7 @@
 	<string name="save_button">שמור</string>
 	<string name="show_firewall_notification">הצג הודעות חומת אש</string>
 	<string name="show_notification">הצג הודעות</string>
+	<string name="smart_antispam">סינון חכם</string>
+	<string name="turn_on_smart_antispam_hint">After enabling numbers will be identified, label numbers and help determine fraudulent calls.</string> 
 	<string name="whitelist_tab_title">רשימה לבנה</string>
 </resources>
