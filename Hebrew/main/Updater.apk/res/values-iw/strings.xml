@@ -29,7 +29,7 @@
 	<string name="confirm_download_cancelation_dialog_message">מאשר ביטול של ההורדה הנוכחית?</string>
 	<string name="copy_install_log">העתק ללוח</string>
 	<string name="current_version_text">גירסה נוכחית:</string>
-	<string name="current_version_update_monthly_build">Current version (Update to Monthly build)</string>
+	<string name="current_version_update_monthly_build">גירסה נוכחית (עדכן לבנייה חודשית)</string>
 	<string name="daily_build">בנייה יומית</string>
 	<string name="dialog_no">לא</string>
 	<string name="dialog_ok">אשר</string>
@@ -105,7 +105,7 @@
 	<string name="share_update">שתף מידע מערכת עידכונים</string>
 	<string name="share_update_content_sign">עדכנתי את MIUI ל %1$s! הדירוג שלי בעידכונים הוא %2$s. עבור יומן מפורט של שינויים, בקר ב %3$s</string>
 	<string name="share_update_content_unsign">עדכנתי את MIUI ל %1$s! עבור יומן מפורט של שינויים, בקר ב %2$s</string>
-	<string name="sign_in_add_account">Please activate your Xiaomi account</string>
+	<string name="sign_in_add_account">הפעל בבקשה את החשבון Xiaomi שלך</string>
 	<string name="sign_in_add_account_helper">במכשירך אין חשבון MIUI . הוסף אחד על מנת להנות מנקודות.</string>
 	<string name="sign_in_info">"דירוג העדכון שלך הוא %1$s
 %2$s משתמשים נרשמו ל-MIUI %3$s"</string>

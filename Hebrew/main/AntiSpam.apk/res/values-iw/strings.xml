@@ -66,7 +66,7 @@
 	<string name="fw_blocked">מצב חסומים</string>
 	<string name="fw_blocked_count" formatted="false">%d %d שיחות והודעות שנחסמו</string>
 	<string name="fw_call" formatted="false">זמן חיוג: %s (%d)</string>
-	<string name="fw_call_imported">Import from Call log</string>
+	<string name="fw_call_imported">ייבא מיומן שיחות</string>
 	<string name="fw_call_muted">שיחה הושתקה</string>
 	<string name="fw_call_rejected">שיחה נדחתה</string>
 	<string name="fw_clear_all_keyword">נקה את כל מילות המפתח</string>
@@ -85,7 +85,7 @@
 	<string name="fw_keyword_filter_summary">סינון הודעות אשר תואמות את מילות המפתח שנבחרו</string>
 	<string name="fw_keyword_list">רשימת מילות מפתח</string>
 	<string name="fw_keyword_list_hint">מילות המפתח שהוקלדו כאן ישמשו לחסום הודעות נכנסות</string>
-	<string name="fw_log_inf">Firewall</string>
+	<string name="fw_log_inf">חומת אש</string>
 	<string name="fw_menu_new_blacklist_title">הוסף לרשימה השחורה</string>
 	<string name="fw_menu_new_manual">הוסף מספר ידנית</string>
 	<string name="fw_menu_new_whitelist_title">הוסף לרשימה הלבנה</string>
@@ -131,6 +131,6 @@
 	<string name="show_firewall_notification">הצג הודעות חומת אש</string>
 	<string name="show_notification">הצג הודעות</string>
 	<string name="smart_antispam">סינון חכם</string>
-	<string name="turn_on_smart_antispam_hint">After enabling numbers will be identified, label numbers and help determine fraudulent calls.</string> 
+	<string name="turn_on_smart_antispam_hint">לאחר ההפעלה מספרים יזוהו, מסייע לזהות מספרים חסויים.</string> 
 	<string name="whitelist_tab_title">רשימה לבנה</string>
 </resources>
