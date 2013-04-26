@@ -417,6 +417,7 @@
     <string name="simple_mode_button_text_color_effect">סגור מסננים</string>
     <string name="simple_mode_button_text_audio_capture">סגור לכידת אודיו</string>
     <string name="simple_mode_button_text_slow_video">סגור מצלמה בהילוך איטי</string>
+	<string name="simple_mode_title">מצב רגיל</string> 
     <string name="pref_camera_coloreffect_title_simple_mode">מסננים</string>
     <string name="pref_video_slow_speed_title_simple_mode">מצלמה בהילוך איטי</string>
     <string name="enter_expert_mode_title">מצב מתקדם</string>
