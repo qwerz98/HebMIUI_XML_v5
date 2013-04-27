@@ -31,6 +31,7 @@
   <string name="history_receive">ההיסטוריה שהתקבלה</string>
   <string name="history_send">שלח היסטוריה</string>
   <string name="input_device_name">שם התקן קלט</string>
+  <string name="input_device_name_tip">"השתמש בהעברה לשלוח קבצים, לקישוריות בלוטוט' והקמת נקודה חמה משותפת. מכשירים אחרים יראו את שם המכשיר שלך."</string>
   <string name="miui_device_default_name">אנדרואיד</string>
   <string name="no_content">ללא תוכן</string>
   <string name="no_selected">לא נבחר קובץ</string>
