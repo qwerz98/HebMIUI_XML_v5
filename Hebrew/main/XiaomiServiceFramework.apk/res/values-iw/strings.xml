@@ -1,7 +1,6 @@
 <resources>
   <string name="access_denied">הגישה נדחתה</string>
   <string name="account">חשבון</string>
-  <string name="account_dspt">חשבון Xiaomi יכול לסנכרן ולגבות את ההודעות שלך, אנשי קשר, תמונות, וכו '</string>
   <string name="account_hint_text">אימייל/מספר טלפון</string>
   <string name="account_name">חשבון: %1$s</string>
   <string name="activating">הפעלה ...</string>
