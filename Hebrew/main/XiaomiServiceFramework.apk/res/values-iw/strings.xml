@@ -143,8 +143,6 @@
   <string name="paytool_msp_not_installed">לא התקנת %1$s תוסף אבטחת הנייד, להתקין אותו עכשיו?</string>
   <string name="paytool_picker_hint">סכום למעלה אשראי Mi</string>
   <string name="paytool_tenpay">Tenpay</string>
-  <string name="prepaid_china_mobile">צ'יינה מובייל</string>
-  <string name="prepaid_china_telcom">צ'יינה טלקום</string>
   <string name="prepaid_china_unicom">China Unicom</string>
   <string name="prepaid_edit_limit">ספרות</string>
   <string name="prepaid_error_card_length">אנא מלא את מספר הכרטיס ששולם מראש  או סיסמא נכונה</string>
@@ -192,7 +190,6 @@
   <string name="recharge_hint">1 יואן שווה Mi אשראי 1</string>
   <string name="recharge_notification">מקפיצים %1$s זיכויי Mi</string>
   <string name="recharge_other">בחר בשיטת תשלום אחרת</string>
-  <string name="recharge_prepaid_summary"> China Mobile, China Unicom ו כרטיסי צ'יינה טלקום topup נתמכים</string>
   <string name="recharge_prepaid_title">כרטיסים ששולמו מראש topup</string>
   <string name="recharge_record">היסטורית topup</string>
   <string name="recharge_record_empty">אין היסטורית  topup</string>
@@ -216,7 +213,6 @@
   <string name="sim_changed_notification_content">כרטיס ה-SIM לא פעיל. נא הפעל מחדש</string>
   <string name="sina_weibo">סינא Weibo</string>
   <string name="skip_login">דלג על התחברות</string>
-  <string name="skip_setup_account_msg">בשימוש בחשבון Xiaomi שלך, אתה יכול לסנכרן ולגבות SMS שלך, אנשי קשר, תמונות, הערות, וכו 'המשך והתקן מאוחר יותר?</string>
   <string name="skip_setup_account_title">דלג על הגדרות חשבון</string>
   <string name="sync_dspt">השתמש בחשבון Xiaomi כדי לסנכרן את הנתונים</string>
   <string name="sync_off">כבוי</string>
