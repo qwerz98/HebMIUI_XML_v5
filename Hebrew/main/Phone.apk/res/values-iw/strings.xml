@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-	<string name="ContactScreen">Add/Edit SIM Contact</string>
-	<string name="ExportContactScreen">Export phone contacts to SIM card</string>
+	<string name="ContactScreen">הוסף/ערוך איש קשר ב-SIM</string>
+	<string name="ExportContactScreen">ייצא אנשי קשר מהטלפון לכרטיס ה-SIM</string>
 	<string name="absent_num">"ABSENT NUMBER"</string>
 	<string name="accessibility_call_muted">"השיחה הושתקה."</string>
 	<string name="accessibility_speakerphone_enabled">"רמקול מופעל."</string>
@@ -260,7 +260,7 @@
 	<string name="confirmPinLabel">"אשר PIN החדש"</string>
 	<string name="confirm_delete_message_title_miui">"אתה עומד למחוק את ההודעות המסוגננות ."</string>
 	<string name="confirm_delete_sim_entry_miui">"מחק %d אנשי הקשר הנבחר בכרטיס ה-SIM?"</string>
-	<string name="confirm_no_countrycode_for_custom_location_miui">Input number without country code.</string>
+	<string name="confirm_no_countrycode_for_custom_location_miui">הכנס מספר ללא קידומת המדינה.</string>
 	<string name="confirm_pin2_hint_miui">"אשר PIN2 החדש"</string>
 	<string name="confirm_pin_hint_miui">"אשר PIN החדש"</string>
 	<string name="connect_disconnect_vibrate_none_miui">"ללא רטט"</string>
@@ -269,13 +269,13 @@
 	<string name="connect_disconnect_vibrate_title_miui">"רטט"</string>
 	<string name="connect_disconnect_vibrate_weak_miui">"רטט חלש"</string>
 	<string name="connect_later">"אין אפשרות להתחבר לרשת זו בשלב זה. אנא נסה שוב מאוחר יותר."</string>
-	<string name="contactAddFailed">Failed to add contact to SIM card!</string>
-	<string name="contactAddSuccess">Successfully added contact to SIM card</string>
+	<string name="contactAddFailed">לא ניתן להוסיף איש קשר לכרטיס ה-SIM!</string>
+	<string name="contactAddSuccess">איש הקשר נוסף בהצלחה אל כרטיס ה-SIM</string>
 	<string name="contactPhoto">"תמונה של איש קשר"</string>
-	<string name="contactUpdateFailed">Failed to update contact on SIM card!</string>
-	<string name="contactUpdateSuccess">Successfully updated contact in SIM</string>
-	<string name="contactdeleteFailed">Failed to delete contact from SIM card!</string>
-	<string name="contactdeleteSuccess">Successfully deleted contact from SIM card</string>
+	<string name="contactUpdateFailed">לא ניתן לעדכן את איש הקשר ב-SIM!</string>
+	<string name="contactUpdateSuccess">איש הקשר עודכן בהצלחה בכרטיס ה-SIM</string>
+	<string name="contactdeleteFailed">לא ניתן למחוק את איש הקשר מכרטיס ה-SIMֱ</string>
+	<string name="contactdeleteSuccess">איש הקשר נמחק בהצלחה מכרטיס ה-SIM</string>
 	<string name="contacts_icon_label_miui">"אנשי קשר"</string>
 	<string name="corporate_unlock_failed">"בקשת שחרור נעילת ה-SIM נכשלה."</string>
 	<string name="corporate_unlock_success">"שחרור נעילת ה-SIM בוצעה בהצלחה"</string>
@@ -289,9 +289,9 @@
 	<string name="current_areacode_miui">"אזור חיוג נוכחי"</string>
 	<string name="current_areacode_sum_miui">"אזור חיוג ממיקומו הנוכחי, או נדידת אזור חיוג, אם אתה נודד. לדוגמה: 010"</string>
 	<string name="current_areacode_sum_set_miui">"המיקום הנוכחי של אזור החיוג %s"</string>
-	<string name="cursorError">Cursor error occurred</string>
+	<string name="cursorError">אירעה שגיאת סמן</string>
 	<string name="custom_location_location_hint_miui">"שם"</string>
-	<string name="custom_location_location_no_item_miui">"Click 'Add' below to add custom attribution"</string>
+	<string name="custom_location_location_no_item_miui">"לחץ על 'הוסף' למטה כדי להוסיף שיוך מותאם אישית"</string>
 	<string name="custom_location_number_hint_miui">"אזור חיוג כגון 010, מספר קבוצתי כגון 68 # # # # #"</string>
 	<string name="cw_title_miui">"שיחה ממתינה"</string>
 	<string name="data_enable_summary">"אפשר גישה לנתונים על גבי רשת סלולרית"</string>
@@ -303,9 +303,9 @@
 	<string name="default_port">"5060"</string>
 	<string name="default_preference_summary">"&lt;לא הוגדר&gt;"</string>
 	<string name="default_transport">"UDP"</string>
-	<string name="delete">Delete</string>
-	<string name="deleteAllSimEntries">Delete All SIM card contacts</string>
-	<string name="deleteSimContacts">Deleting SIM card contacts...</string>
+	<string name="delete">מחק</string>
+	<string name="deleteAllSimEntries">מחק את כל אנשי הקשר בכרטיס ה-SIM</string>
+	<string name="deleteSimContacts">מוחק אנשי קשר מכרטיס ה-SIM...</string>
 	<string name="delete_all_sim_contacts_miui">"מחק את כל אנשי הקשר של כרטיס ה-SIM"</string>
 	<string name="delete_fdn_contact">"מחק את מספר החיוג הקבוע"</string>
 	<string name="delete_selected_sim_entry_miui">"מחק את אנשי הקשר שנבחרו"</string>
@@ -363,7 +363,7 @@
 	<string name="domain_address">"SipDomain"</string>
 	<string name="domain_address_title">"שרת"</string>
 	<string name="doneButton">"בוצע"</string>
-	<string name="dtmf_tone_enable_title">Dial pad touch tones</string>
+	<string name="dtmf_tone_enable_title">צלילי חייגן</string>
 	<string name="dtmf_tone_entries_long_miui">"ארוך"</string>
 	<string name="dtmf_tone_entries_normal_miui">"רגיל"</string>
 	<string name="dtmf_tones_summary">"קבע את משך צלילי החיוג"</string>
@@ -371,7 +371,7 @@
 	<string name="dtmf_tones_title">"חיוג צלילי"</string>
 	<string name="dtmf_tones_title_miui">"חיוג צלילי"</string>
 	<string name="ecm_exit_dialog">"EcmExitDialog"</string>
-	<string name="editContact">Edit</string>
+	<string name="editContact">ערוך</string>
 	<string name="edit_custom_location_title_miui">"התאמה אישית של ייחוס אזורי, מספר ייחוס, תווים כלליים הנתמכים #"</string>
 	<string name="edit_fdn_contact">"עריכת מספר חיוג קבוע"</string>
 	<string name="emergencyDialerIconLabel">"חייגן חירום "</string>
@@ -418,8 +418,8 @@
 	<string name="enable_telocation_title_miui">"הצג מיקום"</string>
 	<string name="enforce_proximity_summary_miui">"מנע שימוש לרעה בטלפון כאשר אינו בשימוש"</string>
 	<string name="enforce_proximity_title_miui">"לאכוף חיישן קרבה"</string>
-	<string name="enterName">Enter Name:</string>
-	<string name="enterNumber">Enter Phone Number:</string>
+	<string name="enterName">הכנס שם:</string>
+	<string name="enterNumber">הכנס מספר טלפון:</string>
 	<string name="enter_pin2_text">"PIN2"</string>
 	<string name="enter_pin2_text_miui">"PIN2"</string>
 	<string name="enter_pin_text">"SIM PIN"</string>
@@ -428,9 +428,9 @@
 	<string name="eo_enable">"הזדמנויות תעסוקה מאופשרות"</string>
 	<string name="error_updating_title">"שגיאת הגדרות שיחה"</string>
 	<string name="exception_error">"שגיאת רשת או כרטיס SIM."</string>
-	<string name="exportAllcontatsFailed">Failed to export all contacts to SIM card!</string>
-	<string name="exportAllcontatsSuccess">Successfully exported all contacts to SIM card</string>
-	<string name="exportContacts">Exporting contacts to SIM card...</string>
+	<string name="exportAllcontatsFailed">לא ניתן לייצא את אנשי הקשר אל כרטיס ה-SIM!</string>
+	<string name="exportAllcontatsSuccess">אנשי הקשר הוצאו בהצלחה אל כרטיס ה-SIM</string>
+	<string name="exportContacts">מייצא אנשי קשר אל כרטיס ה-SIM...</string>
 	<string name="fake_phone_activity_infoText_text">"מספר טלפון נכנס"</string>
 	<string name="fake_phone_activity_phoneNumber_text">"(650) 555-1234"</string>
 	<string name="fake_phone_activity_placeCall_text">"שיחה נכנסת מזויפת"</string>
@@ -480,8 +480,8 @@
 	<string name="import_sim_entry_miui">"ייבא"</string>
 	<string name="importingSimContacts">"יבוא אנשי קשר מה SIM"</string>
 	<string name="importing_sim_contacts_miui">"יבוא אנשי קשר מה SIM"</string>
-	<string name="in_calling">Calling</string>
-	<string name="in_sms">Message</string>
+	<string name="in_calling">מתקשר</string>
+	<string name="in_sms">הודעה</string>
 	<string name="incall_call_type_label_sip">"שיחת אינטרנט"</string>
 	<string name="incall_error_call_failed">"שיחה לא נשלחה."</string>
 	<string name="incall_error_emergency_only">"לא נרשם ברשת."</string>
@@ -744,7 +744,7 @@
 	<string name="pref_custom_location_title_miui">"התאמה אישית של ייחוס"</string>
 	<string name="prefer_2g">"השתמש רק ברשתות 2G"</string>
 	<string name="prefer_2g_summary">"חוסך סוללה"</string>
-	<string name="preference_category_ringtone">Ringtone</string>
+	<string name="preference_category_ringtone">צלצול</string>
 	<string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">"מצב רשת מועדף: גלובלי"</string>
 	<string name="preferred_network_mode_cdma_evdo_summary">"מצב רשת מועדף: CDMA / EvDo"</string>
 	<string name="preferred_network_mode_cdma_only_summary">"מצב רשת מועדף: CDMA בלבד"</string>
@@ -873,7 +873,7 @@
 	<string name="search_networks">"חיפוש רשתות "</string>
 	<string name="selectContact">"בחר איש קשר"</string>
 	<string name="select_automatically">"בחר באופן אוטומטי"</string>
-	<string name="sendSms">Send SMS</string>
+	<string name="sendSms">שלח SMS</string>
 	<string name="send_button">"שלח"</string>
 	<string name="send_keepalive">"SendKeepAlive"</string>
 	<string name="send_keepalive_title">"שלח keep-alive"</string>
@@ -947,8 +947,8 @@
 	<string name="sliding_down_hint_miui">"החלק למטה כדי לענות"</string>
 	<string name="sliding_target_hint_miui">"החלק יעד"</string>
 	<string name="sliding_up_hint_miui">"החלק למעלה כדי לדחות"</string>
-	<string name="sms_content">Message content</string>
-	<string name="sms_sender">From</string>
+	<string name="sms_content">תוכן הודעה</string>
+	<string name="sms_sender">מאת</string>
 	<string name="sp_unlock_failed">"בקשת ביטול נעילת ספק שירות SIM נכשלה."</string>
 	<string name="sp_unlock_success">"ספק שירותי ה-SIM ביטול נעילה מוצלחת."</string>
 	<string name="sports_news_settings">"חדשות ספורט"</string>
@@ -985,7 +985,7 @@
 	<string name="sum_fdn_manage_list">"נהל רשימת מספרי טלפון"</string>
 	<string name="sum_gsm_call_settings">"GSM הגדרות נוספות של שיחות בלבד"</string>
 	<string name="sum_hide_caller_id">"מספר חבוי בשיחות יוצאות"</string>
-	<string name="sum_loading_settings">Loading settings…</string>
+	<string name="sum_loading_settings">טוען הגדרות…</string>
 	<string name="sum_search_networks">"חפש את כל הרשתות הזמינות"</string>
 	<string name="sum_select_automatically">"בחר באופן אוטומטי רשת מועדפת"</string>
 	<string name="sum_select_automatically_option_miui">"לבחור באופן אוטומטי רשת מועדפת, %s"</string>
@@ -995,9 +995,9 @@
 	<string name="sum_xdivert_enabled">"X-הפניית מופעל"</string>
 	<string name="summary_manage_subscriptions">"ניהול הגדרות רשת של כל המנויים"</string>
 	<string name="t9_indexing_method_pinyin">PinYin</string>
-	<string name="t9_indexing_method_title_miui">T9 search setting</string>
+	<string name="t9_indexing_method_title_miui">T9 הגדרות חיפוש</string>
 	<string name="t9_indexing_method_zhuyin">ZhuYin</string>
-	<string name="t9_indexing_rebuilding_message">Rebuilding T9 Indexes, please wait...</string>
+	<string name="t9_indexing_rebuilding_message">בונה מחדש את אינדקס T9, אנא המתן...</string>
 	<string name="technology_news_disable">"חדשות טכנולוגיה מושבתת"</string>
 	<string name="technology_news_enable">"חדשות טכנולוגיה מאופשרות"</string>
 	<string name="telocation_setting_miui">"הגדרות מיקום"</string>
@@ -1037,7 +1037,7 @@
 	<string name="turnover_mute_title_miui">"הפוך להשתקה"</string>
 	<string name="undefined_miui">"לא מוגדר"</string>
 	<string name="unknown">"לא ידוע"</string>
-	<string name="unknown_num">Unknown number</string>
+	<string name="unknown_num">מספר חסוי</string>
 	<string name="unlock_failed">"בקשת ביטול נעילת רשת נכשלה."</string>
 	<string name="unlock_success">"ביטול נעילת רשת בוצע בהצלחה."</string>
 	<string name="updating_fdn_contact">"עדכון מספר חיוג קבוע (FDN) ..."</string>
@@ -1061,7 +1061,7 @@
 	<string name="voicemail_abbreviated">"VM:"</string>
 	<string name="voicemail_default">"הספק שלי"</string>
 	<string name="voicemail_miui">"הודעה קולית"</string>
-	<string name="voicemail_notification_ringtone_title">Ringtone</string>
+	<string name="voicemail_notification_ringtone_title">צלצול</string>
 	<string name="voicemail_notification_vibarte_when_dialog_title">"רטט"</string>
 	<string name="voicemail_notification_vibrate_when_default">"אף פעם"</string>
 	<string name="voicemail_notification_vibrate_when_title">"רטט"</string>
