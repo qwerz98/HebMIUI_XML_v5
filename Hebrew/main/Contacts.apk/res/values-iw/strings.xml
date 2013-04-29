@@ -554,7 +554,7 @@
 
  • גישה מכל דפדפן אינטרנט.
  • גיבוי אנשי הקשר באופן מאובטח."</string>
-    <string name="generic_no_account_prompt">Keep your contacts safe even if you lose your phone: synchronize with an online service.</string>
+    <string name="generic_no_account_prompt">שמור על אנשי הקשר שלך גם אם אתה מאבד את מכשירך: סנכרן עם שרות מקוון.</string>
     <string name="generic_no_account_prompt_title">הוספת חשבון</string>
     <string name="contact_editor_prompt_zero_accounts">איש הקשר החדש שלך לא יגובה. להוסיף חשבון שמגבה אנשי קשר באופן מקוון?</string>
     <string name="contact_editor_prompt_one_account">איש הקשר החדש שלך יסונכרן עם %1$s.</string>
@@ -571,8 +571,8 @@
     <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d דקות %d שניות</string>
     <string name="callrecordview_item_op_time_only_minutes">%d דקות</string>
     <string name="callrecordview_item_op_time_only_seconds">%d שניות</string>
-    <string name="callrecordview_item_op_time_short_outgoing">"יוצא: "</string>
-    <string name="callrecordview_item_op_time_short_incoming">"נכנס: "</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"יוצאת: "</string>
+    <string name="callrecordview_item_op_time_short_incoming">"נכנסת: "</string>
     <string name="callrecordview_item_op_time_missed">לא התחבר</string>
     <string name="callrecordview_item_op_time_rejected">דחה שיחה</string>
     <string name="callrecordview_menu_show_title">בחר סוג שיחות שיוצגו מהיומן</string>
@@ -690,9 +690,9 @@
     <string name="import_to_xiaomi_account_progress_finish">ייבוא הושלם!</string>
     <string name="import_to_xiaomi_account_title">האם אתה רוצה לייבא את אנשי הקשר הבאים לחשבון Xiaomi?</string>
     <string name="select_show_contacts">להצגת איש הקשר</string>
-    <string name="rebuild_t9_index_dialog_message">Rebuilding T9 index data…</string>
+    <string name="rebuild_t9_index_dialog_message">בונה מחדש נותוני חיפוש T9...</string>
     <string name="pref_key_rebuild_t9_index_title">בנה מחדש נתוני מדד</string>
-    <string name="pref_key_rebuild_t9_index_message">הצליח לתקן את התקלה בחיפוש אנשי קשר</string>
+    <string name="pref_key_rebuild_t9_index_message">מתקן בעיות בחיפוש אנשי קשר</string>
     <string name="pref_key_photo">תמונה</string>
     <string name="pref_key_photo_word_title">בחירת תמונה אוטומטית לאנשי קשר</string>
     <string name="pref_key_photo_word_summary">בחר אוטומטית תמונה לאנשי קשר שאין להם.</string>
@@ -737,7 +737,7 @@
     <string name="option_delete_group">מחק</string>
     <string name="deleteConfirmation_title">מחק</string>
     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
-    <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete information from multiple accounts.</string>
+    <string name="multipleContactDeleteConfirmationDetail">מחיקת \"%s\" יגרום למחיקת מידע מחשבונות מרובים.</string>
     <string name="deleteConfirmationDetail">\"%s\" יימחק.</string>
     <string name="nickname_picker_name_column">שם איש הקשר</string>
     <string name="nickname_picker_nickname_column">כותרת</string>
@@ -885,9 +885,7 @@
     <string name="add_xiaomi_account_dialog_btn">השתמש במשתמש Xiaomi</string>
     <string name="keep_local_btn">שמור בטלפון בלבד</string>
     <string name="batch_delete">מחיקת אנשי קשר מרובים</string>
-    <string name="batch_delete_msg">"אתה בטוח שברצונך למחוק את ה-%d אנשי קשר שנבחרו?
-
-אם אתה משתמש בשירות סנכרון אנשי קשר פרטי איש הקשר יימחקו גם מהענן."</string>
+    <string name="batch_delete_msg">"אתה בטוח שברצונך למחוק את ה-%d אנשי קשר שנבחרו?אם אתה משתמש בשירות סנכרון אנשי קשר פרטי איש הקשר יימחקו גם מהענן."</string>
     <string name="starred_contacts">מועדפים</string>
     <string name="other_contacts">אחרים</string>
     <string name="cloud_antispam_title">הגנת ענן</string>

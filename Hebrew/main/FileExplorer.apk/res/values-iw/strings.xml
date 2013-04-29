@@ -119,7 +119,7 @@
 	<string name="local_cache_size">גודל מטמטון מקומי: %s</string>
 	<string name="login_reg_content">MiDrive helps you store files and sync them between multiple devices.</string>
 	<string name="login_reg_content0">MiDrive is your Cloud storage drive</string>
-	<string name="menu_item_cleanup">File Cleanup</string>
+	<string name="menu_item_cleanup">ניקוי קבצים</string>
 	<string name="menu_item_ftp">FTP</string>
 	<string name="menu_item_search">חיפוש</string>
 	<string name="menu_item_sort">מיין לפי</string>
@@ -128,7 +128,7 @@
 	<string name="menu_item_sort_size">גודל</string>
 	<string name="menu_item_sort_type">סוג</string>
 	<string name="migrate_announcement_msg">If you have an account, you can bind it in the setting and access preferences</string>
-	<string name="migrate_announcement_title">Account Migration</string>
+	<string name="migrate_announcement_title">הגירת חשבון</string>
 	<string name="move_failed">לא ניתן להעביר</string>
 	<string name="multi_select_title">נבחרו %1$s קבצים</string>
 	<string name="name_illegal">שם הקובת לא יכול ליהיות ריק</string>
@@ -171,7 +171,7 @@
 	<string name="operation_info">פרטים</string>
 	<string name="operation_move">העבר</string>
 	<string name="operation_moving">מעביר...</string>
-	<string name="operation_moving_detail">Moving files (%1$d/%2$d)</string>
+	<string name="operation_moving_detail">מעביר קבצים (%1$d/%2$d)</string>
 	<string name="operation_paste">הדבק</string>
 	<string name="operation_pasting">מדביק...</string>
 	<string name="operation_pause">השהה</string>
@@ -211,7 +211,7 @@
 	<string name="start_cleanup">החל ניקוי</string>
 	<string name="start_server">הפעל את השירות</string>
 	<string name="start_use_xiaomi_account">התחבר</string>
-	<string name="stay_awake_summary">Keeps screen awake when using FTP</string>
+	<string name="stay_awake_summary">השאר את המסך דלוק כאשר מתבצע שימוש ב-FTP</string>
 	<string name="stay_awake_title">השאר ער</string>
 	<string name="stop_server">עצור את השירות</string>
 	<string name="storage_internal">זכרון פנימי</string>
