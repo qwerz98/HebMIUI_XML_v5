@@ -1,4 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <strings>
-    <string name="short_date_format" value="EEEE, MMMM dd" />
-    <string name="long_date_format" value="dd MMMMMMM, yyyy" />
+    <string name="short_date_format" value="EEEE, ה-dd בMMMM" />
+    <string name="long_date_format" value="dd/MM/yyyy" />
 </strings>
