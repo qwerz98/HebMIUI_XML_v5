@@ -497,6 +497,7 @@
     <string name="toast_join_with_empty_contact">הזן שם של איש קשר לפני צירוף לאיש קשר אחר.</string>
     <string name="copy_text">העתק ללוח</string>
     <string name="set_default">קבע כברירת מחדל</string>
+	<string name="set_photo_failed_msg">לא ניתן לקבוע כאווטר</string> 
     <string name="clear_default">נקה ברירת מחדל</string>
     <string name="toast_text_copied">טקסט שהועתק</string>
     <string name="cancel_confirmation_dialog_message">האם ברצונך למחוק את השינויים שלך?</string>

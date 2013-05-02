@@ -414,6 +414,7 @@
 	<string name="short_pincode_error_msg">אנא הזן בין 4-8 ספרות</string>
 	<string name="short_pukcode_error_msg">אנא הזן לפחות 8 ספרות</string>
 	<string name="sim_account_name">SIM</string>
+	<string name="sim_changed_reactivate_int_notice">Current SIM is not activated. An international SMS is required to activate this service, would you like to activate it now?</string> 
 	<string name="sim_changed_reactivate_notice">The current SIM card is not activated. An SMS is required to activate the Xiaomi Synchronisation service. Reactivate now?</string>
 	<string name="slight_cold"/>
 	<string name="slight_heat"/>

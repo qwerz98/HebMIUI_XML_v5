@@ -4,9 +4,11 @@
 	<string name="action_fail_unknown_error">הפעולה נכשלה עקב שגיאה לא ידועה.</string> 
 	<string name="activity_not_found">אין אפליקציה שיכולה להשלים את הפעולה</string>
 	<string name="add_account">הוסף חשבון</string>
+	<string name="add_sharer">הוסף למשותפת</string> 
 	<string name="add_to_cloud_album">הוסף לענן</string>
 	<string name="add_to_cloud_fail_too_many_items">נכשל ניסיון להשלמת הפעולה, פריטים רבים מדי נבחרו</string>
 	<string name="add_to_cloud_folder">הוסף לתיקיית ענן</string>
+	<string name="album_name">שם האלבום</string> 
 	<string name="albums">אלבומים</string>
 	<string name="albumset_page_title_separator"> | </string>
 	<string name="alert">הודעה</string>
@@ -30,6 +32,7 @@
 	<string name="camera_path">/DCIM/Camera</string>
 	<string name="camera_setas_wallpaper">טפט</string>
 	<string name="camera_view_none_message">תמונות שנלכדו יוצגו כאן.</string>
+	<string name="can_modified">אפשר עדכונים</string> 
 	<string name="cancel">ביטול</string>
 	<string name="cant_delete_system_album">%s הוא אלבון מערכת ולא ניתן למחוק אותו!</string>
 	<string name="cleaning_cache">מנקה מטמון...</string>
@@ -216,6 +219,7 @@
 	<string name="save_photo">לשמור תמונה ערוכה?</string>
 	<string name="saving_failure">התמונה לא יכולה להשמר</string>
 	<string name="saving_image">שומר תמונה...</string>
+	<string name="scan_qr_code">שתף את קוד ה QR כדי לאפשר שיתוף קבצים</string> 
 	<string name="sd_not_available">כרטיס SD לא קיים או לא זמין</string>
 	<string name="seconds">שניות</string>
 	<string name="select_album">מצב עריכה</string>
@@ -240,6 +244,13 @@
 	<string name="settings">הגדרות</string>
 	<string name="settings_i_xiaomi_com">התחבר ב i.xiaomi.com לניהול אחסון הענן שלך</string>
 	<string name="shadow">צללים</string>
+	<string name="share_album">שתף אלבום</string>
+	<string name="share_album_owner">משותף</string>
+	<string name="share_album_qr_code">QR קוד</string>
+	<string name="share_album_share_to">שתף עם</string>
+	<string name="sharer_status_accepted">התקבל</string>
+	<string name="sharer_status_refused">נדחה</string>
+	<string name="sharer_status_waitting">ממתין</string> 
 	<string name="sharpen">לחדד</string>
 	<string name="show_all">תמונות וסרטים</string>
 	<string name="show_hidden_album">הצג אלבומים מוסתרים</string>

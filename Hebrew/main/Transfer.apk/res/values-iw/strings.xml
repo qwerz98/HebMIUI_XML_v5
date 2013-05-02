@@ -1,5 +1,5 @@
 <resources>
-  <string name="about_to_send">(שלח קובץ (ים)</string>
+  <string name="about_to_send">שלח קובץ(ים)</string>
   <string name="app_name">העברת קבצים</string>
   <string name="button_last">התחל עכשיו</string>
   <string name="button_next">הבא</string>

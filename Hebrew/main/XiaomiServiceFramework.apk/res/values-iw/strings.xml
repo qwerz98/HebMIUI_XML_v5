@@ -21,6 +21,7 @@
   <string name="btn_count_down_auto">%1$s שניות</string>
   <string name="btn_count_down_wait">%1$s שניות לחכות</string>
   <string name="btn_mili_center_recharge">זיכויי Mi topup</string>
+  <string name="btn_pay_large">שלם עכשיו</string> 
   <string name="btn_query">פנו עכשיו</string>
   <string name="btn_recharge_large">Topup עכשיו</string>
   <string name="btn_recharge_other">שיטות אחרות topup</string>
@@ -47,6 +48,7 @@
   <string name="error_common_summary">שגיאת מערכת, אנא נסה שוב מאוחר יותר</string>
   <string name="error_common_title">שגיאת מערכת</string>
   <string name="error_dup_phone">הטלפון נרשם</string>
+  <string name="error_expired_summary">פג תוקף ההזמנה שלך</string> 
   <string name="error_frozen_summary">החשבון שלך ננעל</string>
   <string name="error_frozen_title">חשבון נעול!</string>
   <string name="error_has_bought_summary">אתה כבר רכשת מוצר זה</string>
@@ -123,7 +125,7 @@
   <string name="micloud_via_int_sms_alert">הודעת SMS תישלח למכשיר שלך לפי חיוב הודעות של הספק שלך. האם אתה בטוח שברצונך להמשיך?</string>
   <string name="micloud_via_sms_alert">הודעת SMS יישלח כדי לאמת את מספר הטלפון שלך. האם אתה בטוח שברצונך להמשיך?</string> 
   <string name="micloud_welcome_skip_login">דלג על הרישום</string>
-  <string name="mili_center">MiCredit</string>
+  <string name="mili_center">Mi קרדיט</string>
   <string name="next">הבא</string>
   <string name="no_sim">כרטיס ה-SIM לא נמצא, לא יכול לסנכרן</string>
   <string name="nobind">לא מורשה</string>
@@ -168,6 +170,8 @@
   <string name="progress_error_auth">שגיאת אימות התרחשה, אנא נסה שוב.</string>
   <string name="progress_error_common">טעינה מחדש נכשלה, אנא נסה שוב מאוחר יותר.</string>
   <string name="progress_error_network">נכשל נסיון להתחבר לרשת, בדוק את מצב הרשת.</string>
+  <string name="progress_error_pay_title">תשלום נכשל</string>
+  <string name="progress_error_recharge_title">Top-up failed</string> 
   <string name="progress_error_server">שגיאת שרת, אנא נסה שוב מאוחר יותר.</string>
   <string name="progress_error_title">Topup נכשל</string>
   <string name="progress_error_waiting">עדיין לא מעודכן, אנא נסה שוב מאוחר יותר!</string>
@@ -177,6 +181,11 @@
   <string name="progress_prepaid_creating">יוצר סדר topup ...</string>
   <string name="progress_querying">מעבד שאילתת תשלום ...</string>
   <string name="progress_submit_hint">צפוי בכ 3 דקות</string>
+  <string name="progress_submit_pay_summary">Payment summary: %1$s RMB</string>
+  <string name="progress_submit_recharge_summary">To-up for: %1$s RMB</string> 
+  <string name="progress_success_pay_title">%1$s Mi Credit payment complete</string>
+  <string name="progress_success_recharge_summary">Account balance: %1$s Mi Credits</string>
+  <string name="progress_success_recharge_title">%1$s Mi Credit top-up complete</string> 
   <string name="progress_submit_summary">%1$s יואן</string>
   <string name="progress_submit_title">הבקשה הוגשה topup</string>
   <string name="progress_success_summary">יתרת חשבון: %1$s זיכויי Mi</string>
@@ -222,6 +231,8 @@
   <string name="sync_off">כבוי</string>
   <string name="sync_on">דולק</string>
   <string name="sync_sub_dspt">הודעת SMS תישלח להפעלת השירות</string>
+  <string name="sync_sub_int_dspt">An international SMS may be sent to activate the service</string> 
+  <string name="title_pay">Pay using Mi Credits</string> 
   <string name="title_mili_center">Mi  מרכז זיכויי</string>
   <string name="title_pay_record">%1$s פריטי היסטוריית תשלומים</string>
   <string name="title_paytool">למעלה למעלה %1$s</string>

@@ -198,6 +198,9 @@
 	<string name="mx_activate_hint_malformed_info">Operation interrupted, reactivation of cloud messaging is required. Activate it now?</string>
 	<string name="mx_activate_hint_server">Server activation failed to activate cloud messaging? Activate it now?</string>
 	<string name="mx_activate_hint_sim_change">SIM card changed, reactivation of cloud messaging required. Activate it now?</string>
+	<string name="mx_activate_int_hint_malformed_info">Error processing request. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
+	<string name="mx_activate_int_hint_server">Activation with server failed for Cloud Messaging, an international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
+	<string name="mx_activate_int_hint_sim_change">SIM card state changed. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string> 
 	<string name="mx_auto_resend_mms">Auto re-send MMS</string>
 	<string name="mx_auto_resend_mms_summary">Send as MMS when Cloud Messaging is unavailable. Carrier messaging rates may apply</string>
 	<string name="mx_auto_resend_sms">Send as SMS</string>
@@ -335,7 +338,7 @@
 	<string name="send">שלח</string>
 	<string name="send_signature_confirm_dialog_message">אין טקסט בהודעה, לשלוח רק חתימה?</string>
 	<string name="send_signature_confirm_dialog_title">אישור</string>
-	<string name="send_to">אל: %1$s</string>
+	<string name="send_to">אל: </string> 
 	<string name="send_to_count">נשלחו %1$s הודעות</string>
 	<string name="send_to_index_contact">נשלח אל %1$s מתוך %2$s</string>
 	<string name="sent_label">"נשלח: "</string>

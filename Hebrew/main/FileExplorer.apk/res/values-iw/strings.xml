@@ -59,7 +59,7 @@
 	<string name="decompress_to">חלץ אל:</string>
 	<string name="decompress_to_here">חלץ לכאן</string>
 	<string name="delete_failed">לא ניתן למחוק</string>
-	<string name="delete_file">למוק?</string>
+	<string name="delete_file">למחוק?</string>
 	<string name="delete_files">Are you sure you want to delete the selected %1$d files?</string>
 	<string name="delete_files_and_folders">Are you sure you want to delete the selected %1$d file(s) and %2$d folder(s)?</string>
 	<string name="delete_folder">Are you sure you want to delete this folder?</string>
