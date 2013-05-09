@@ -44,6 +44,7 @@
 	<string name="clock_instructions">בחר שעון</string>
 	<string name="close_alarm">סגור שעון מעורר</string>
 	<string name="common_settings">הגדרות נפוצות</string>
+	<string name="confirm_abort">ביטול</string> 
 	<string name="control_set_alarm">הגדר שעון מעורר</string>
 	<string name="control_set_alarm_with_existing">השעון הוגדר: %s</string>
 	<string name="day">יום אחד</string>
@@ -86,8 +87,10 @@
 	<string name="holiday_data_update_succeed">Check for updates completed update</string>
 	<string name="holiday_data_updating">Updating...</string>
 	<string name="holiday_update_pref_invalidate_title">Work days data update (expired)</string>
-	<string name="holiday_update_pref_summary">Check for updates</string>
+	<string name="holiday_update_pref_summary">בדוק אם קיימים עדכונים</string>
 	<string name="holiday_update_pref_title">Work days data update</string>
+	<string name="holiday_update_summary">בדוק אם קיימים עדכונים</string>
+	<string name="holiday_update_title">עדכון ימים דורש חיבור לאינטרנט</string> 
 	<string name="home_button_description">מפעיל</string>
 	<string name="hour">שעה אחת</string>
 	<string name="hour_unit">Hr</string>

@@ -65,6 +65,9 @@
 	<string name="notealert_ok">הבנתי</string>
 	<string name="notelist_menu_new">הוסף פתק</string>
 	<string name="notelist_string_info">...</string>
+	<string name="notify_alarm_action_mute">השתק</string>
+	<string name="notify_alarm_action_view">הצג</string>
+	<string name="notify_alarm_title">תזכורת שעון מעורר</string> 
 	<string name="pref_desc_mode_grid">רשת</string>
 	<string name="pref_desc_mode_list">רשימה</string>
 	<string name="pref_title_data_export">ייצוא נתונים</string>

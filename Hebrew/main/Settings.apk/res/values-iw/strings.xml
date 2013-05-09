@@ -46,7 +46,7 @@
 	<string name="accessibility_sync_error">שגיאת סינכרון</string>
 	<string name="accessibility_system_title">מערכת</string>
 	<string name="accessibility_toggle_large_text_title">טקסט גדול</string>
-	<string name="account_settings">Accounts</string>
+	<string name="account_settings">חשבונות</string>
 	<string name="account_sync_settings_title">הגדרות סנכרון</string>
 	<string name="activating">הפעלה ...</string>
 	<string name="active_device_admin_msg">מנהל מכשיר</string>
@@ -72,23 +72,18 @@
 	<string name="allow_mock_location_summary">אפשר מיקומים מדומים</string>
 	<string name="always_allow_bind_appwidgets_text">"You've chosen to allow this app to create widgets and access their data."</string>
 	<string name="android_beam_disabled_summary">לא זמין משום שה-NFC כבוי</string>
-	<string name="android_beam_explained">\"כאשר תכונה זו מופעלת, תוכל לשדר תוכן יישומים למכשיר אחר התומך ב-NFC על ידי החזקת המכשירים קרובים אחד לשני. לדוגמה, תוכל לשדר דפי דפדפן, סרטוני YouTube, אנשי קשר  ועוד.
-
-פשוט קרב את המכשירים זה לזה (בדרך כלל גב אל גב) ולאחר מכן גע במסך שלך. היישום יקבע מה ישודר.\"</string>
-	<string name="android_beam_label">Android Beam
-	</string>
+	<string name="android_beam_explained">\"כאשר תכונה זו מופעלת, תוכל לשדר תוכן יישומים למכשיר אחר התומך ב-NFC על ידי החזקת המכשירים קרובים אחד לשני. לדוגמה, תוכל לשדר דפי דפדפן, סרטוני YouTube, אנשי קשר  ועוד. פשוט קרב את המכשירים זה לזה (בדרך כלל גב אל גב) ולאחר מכן גע במסך שלך. היישום יקבע מה ישודר.\"</string>
+	<string name="android_beam_label">Android Beam</string>
 	<string name="android_beam_off_summary">כבוי</string>
 	<string name="android_beam_on_summary">מוכן לשדר תוכן יישום באמצעות NFC</string>
-	<string name="android_beam_settings_title">Android Beam
-	</string>
+	<string name="android_beam_settings_title">Android Beam</string>
 	<string name="animator_duration_scale_title">Animator duration scale</string>
 	<string name="apn_apn">APN</string>
 	<string name="apn_auth_type">סוג אימות</string>
 	<string name="apn_auth_type_chap">CHAP</string>
 	<string name="apn_auth_type_none">ללא</string>
 	<string name="apn_auth_type_pap">PAP</string>
-	<string name="apn_auth_type_pap_chap">PAP or CHAP
-	</string>
+	<string name="apn_auth_type_pap_chap">PAP or CHAP</string>
 	<string name="apn_edit">ערוך נקודת גישה</string>
 	<string name="apn_general">כללי APN</string>
 	<string name="apn_http_port">יציאה</string>
@@ -159,7 +154,7 @@
 	<string name="auto_startup_count">Allow %d apps to auto start</string>
 	<string name="auto_startup_dialog_msg">"Miui will allow the App starting up automatically without asking. Which may lead to consumption of power / data traffic. Allow Autostart？"</string>
 	<string name="automatic_brightness">בהירות אוטומטית</string>
-	<string name="available_size">%s זמינה</string>
+	<string name="available_size">%s זמין </string>
 	<string name="awake">זמן פעולה של מכשיר</string>
 	<string name="back_long_press">כפתור חזרה</string>
 	<string name="back_long_press_timeout">השהיית זמן</string>
@@ -180,8 +175,7 @@
 	<string name="backup_section_title">גיבוי ושחזור</string>
 	<string name="band_mode_failed">נכשל</string>
 	<string name="band_mode_loading">טוען רשימת תדרים...</string>
-	<string name="band_mode_set">קבע
-	</string>
+	<string name="band_mode_set">קבע</string>
 	<string name="band_mode_succeeded">הצליח</string>
 	<string name="band_mode_title">הגדר רצועת GSM/UMTS</string>
 	<string name="baseband_version">גרסת פס בסיס</string>
@@ -198,14 +192,10 @@
 	<string name="battery_desc_standby">צריכת סוללה כאשר הטלפון במצב לא פעיל</string>
 	<string name="battery_desc_voice">צריכת סוללה של שיחות קוליות</string>
 	<string name="battery_desc_wifi">צריכת סוללה של Wi-Fi</string>
-	<string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds
-	</string>
-	<string name="battery_history_hours">%1$dh %2$dm %3$ds
-	</string>
-	<string name="battery_history_minutes">%1$dm %2$ds
-	</string>
-	<string name="battery_history_seconds">%1$ds
-	</string>
+	<string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
+	<string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
+	<string name="battery_history_minutes">%1$dm %2$ds</string>
+	<string name="battery_history_seconds">%1$ds</string>
 	<string name="battery_indicator_style">סגנון מחוון סוללה</string>
 	<string name="battery_info_awake_battery">משך פעילות בסוללה:</string>
 	<string name="battery_info_awake_plugged">זמן פעילות בעת טעינה:</string>
@@ -249,8 +239,7 @@
 	<string name="battery_stats_charging_label">טוען</string>
 	<string name="battery_stats_duration">%1$s מאז הניתוק</string>
 	<string name="battery_stats_gps_on_label">GPS מופעל</string>
-	<string name="battery_stats_last_duration">@string/menu_stats_last_unplugged
-	</string>
+	<string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
 	<string name="battery_stats_on_battery">פועל על סוללה %1$s</string>
 	<string name="battery_stats_phone_signal_label">אות רשת לנייד</string>
 	<string name="battery_stats_screen_on_label">מסך מופעל</string>
@@ -521,9 +510,7 @@
 	<string name="crypt_keeper_button_text">הצפן טלפון</string>
 	<string name="crypt_keeper_confirm_title">אשר הצפנה</string>
 	<string name="crypt_keeper_cooldown">נסה שוב בעוד ^1 שניות.</string>
-	<string name="crypt_keeper_desc">\"אתה יכול להצפין חשבונות, הגדרות, יישומים שהורדת ונתונים שלהם, מדיה וקבצים אחרים. לאחר שתצפין את הטלפון שלך, בכל פעם שתפעיל אותו תצטרך להקליד קוד PIN מספרי או סיסמה כדי לפענח את הנתונים. לא תוכל לבטל את הצפנת הטלפון שלך, אלא אם תבצע איפוס לנתוני יצרן. פעולה זו תמחק את כל הנתונים.
-
-ההצפנה אורכת שעה לפחות. עליך לבצע הפעלה עם סוללה טעונה ולהשאיר את הטלפון מחובר עד לסיום ההצפנה. אם תפסיק את תהליך ההצפנה, תאבד את כל הנתונים או חלק מהם.\"</string>
+	<string name="crypt_keeper_desc">\"אתה יכול להצפין חשבונות, הגדרות, יישומים שהורדת ונתונים שלהם, מדיה וקבצים אחרים. לאחר שתצפין את הטלפון שלך, בכל פעם שתפעיל אותו תצטרך להקליד קוד PIN מספרי או סיסמה כדי לפענח את הנתונים. לא תוכל לבטל את הצפנת הטלפון שלך, אלא אם תבצע איפוס לנתוני יצרן. פעולה זו תמחק את כל הנתונים. ההצפנה אורכת שעה לפחות. עליך לבצע הפעלה עם סוללה טעונה ולהשאיר את הטלפון מחובר עד לסיום ההצפנה. אם תפסיק את תהליך ההצפנה, תאבד את כל הנתונים או חלק מהם.\"</string>
 	<string name="crypt_keeper_dialog_need_password_message">עליך להגדיר PIN או סיסמה לנעילת מסך כדי שתוכל להתחיל בהצפנה.</string>
 	<string name="crypt_keeper_dialog_need_password_title">לנעול את המסך על ידי קוד אישי או סיסמה</string>
 	<string name="crypt_keeper_encrypt_summary">דורש PIN מספרי או סיסמה לפענוח הטלפון בכל הפעלה</string>
@@ -537,7 +524,7 @@
 	<string name="crypt_keeper_settings_title">הצפנה</string>
 	<string name="crypt_keeper_setup_description">המתן בזמן הצפנת הטלפון. ^1 הושלמו.</string>
 	<string name="crypt_keeper_setup_title">מצפין</string>
-	<string name="crypt_keeper_switch_input_method">Switch input method</string>
+	<string name="crypt_keeper_switch_input_method">החלף שיטת קלט</string>
 	<string name="crypt_keeper_unplugged_text">חבר את המטען שלך ונסה שוב.</string>
 	<string name="cryptkeeper_emergency_call">שיחת חירום</string>
 	<string name="cryptkeeper_return_to_call">חזור לשיחה</string>
@@ -555,16 +542,11 @@
 	<string name="data_usage_app_settings">הצג את הגדרות היישום</string>
 	<string name="data_usage_auto_sync_off_dialog">"This will conserve data and battery usage, but you'll need to sync each account manually to collect recent information. And you won't receive notifications when updates occur."</string>
 	<string name="data_usage_auto_sync_off_dialog_title">Turn auto-sync data off?</string>
-	<string name="data_usage_auto_sync_on_dialog">"Any changes you make to your accounts on the web will be automatically copied to your phone.
-
-Some accounts may also automatically copy any changes you make on the phone to the web. A Google Account works this way.
-
-To choose which kinds of information to sync within each account, go to Settings &gt; Accounts."</string>
+	<string name="data_usage_auto_sync_on_dialog">"Any changes you make to your accounts on the web will be automatically copied to your phone. Some accounts may also automatically copy any changes you make on the phone to the web. A Google Account works this way. To choose which kinds of information to sync within each account, go to Settings &gt; Accounts."</string>
 	<string name="data_usage_auto_sync_on_dialog_title">Turn auto-sync data on?</string>
 	<string name="data_usage_change_cycle">שנה את הגדרת המחזור…</string>
 	<string name="data_usage_cycle">מחזור שימוש בנתונים</string>
-	<string name="data_usage_cycle_editor_positive">קבע
-	</string>
+	<string name="data_usage_cycle_editor_positive">קבע</string>
 	<string name="data_usage_cycle_editor_subtitle">תאריך בכל חודש:</string>
 	<string name="data_usage_cycle_editor_title">תאריך איפוס של מחזור שימוש</string>
 	<string name="data_usage_disable_3g_limit">הגדר מגבלת נתונים של 2G-3G</string>
@@ -596,8 +578,7 @@ To choose which kinds of information to sync within each account, go to Settings
 	<string name="data_usage_metered_wifi">Wi-Fi networks</string>
 	<string name="data_usage_metered_wifi_disabled">To select mobile hotspots, turn Wi-Fi on.</string>
 	<string name="data_usage_pick_cycle_day">היום בחודש שבו יש לאפס את מחזור השימוש בנתונים:</string>
-	<string name="data_usage_received_sent">%1$s received, %2$s sent
-	</string>
+	<string name="data_usage_received_sent">%1$s התקבלו, %2$s נשלחו</string>
 	<string name="data_usage_restrict_background">אם תגביל נתונים ניידים ברקע, יישומים ושירותים מסוימים לא יפעלו, אלא אם קיים חיבור Wi-Fi.</string>
 	<string name="data_usage_restrict_background_title">להגביל נתוני רקע?</string>
 	<string name="data_usage_restrict_denied_dialog">הגבלת נתוני הרקע אפשרית רק אם הגדרת מגבלת נתונים לנייד.</string>
@@ -641,7 +622,7 @@ To choose which kinds of information to sync within each account, go to Settings
 	<string name="debug_layout_summary">Show clip bounds, margins, etc.</string>
 	<string name="debug_log">יומן באגים</string>
 	<string name="debug_monitoring_category">Monitoring</string>
-	<string name="default_date_format">MM/dd/yyyy</string>
+	<string name="default_date_format">dd/MM/yyyy</string>
 	<string name="default_input_method">בחר שיטת קלט ברירת מחדל</string>
 	<string name="default_usb_mode">סוג חיבור USB כברירת מחדל</string>
 	<string name="delete">מחק</string>
@@ -660,8 +641,8 @@ To choose which kinds of information to sync within each account, go to Settings
 	<string name="device_admin_title">ניהול מכשיר</string>
 	<string name="device_admin_warning">הפעלת מנהל מערכת זה תאפשר ליישום %1$s לבצע את הפעולות הבאות:</string>
 	<string name="device_cpu">מעבד</string>
-	<string name="device_cpu2_info"> ליבה כפולה</string>
-	<string name="device_cpu4_info"> ארבע ליבות</string>
+	<string name="device_cpu2_info">ליבה כפולה </string>
+	<string name="device_cpu4_info">ארבע ליבות </string>
 	<string name="device_default_name">Xiaomi מכשיר</string>
 	<string name="device_edit_title">שנה את שם המכשיר</string>
 	<string name="device_info_default">לא ידוע</string>
@@ -1034,8 +1015,7 @@ Some apps may not work until updated by their developers."</string>
 	<string name="lockpattern_tutorial_continue_label">הבא</string>
 	<string name="lte_ram_dump_off">בטל את lte ram dump</string>
 	<string name="lte_ram_dump_on">הפעל את lte ram dump</string>
-	<string name="macaddr_label">כתובת MAC:
-	</string>
+	<string name="macaddr_label">כתובת MAC:</string>
 	<string name="main_running_process_description">תהליך ראשי נמצא בשימוש.</string>
 	<string name="man_add_application">Manually add auto start apps</string>
 	<string name="manage_device_admin">מנהלי מכשירים</string>
@@ -1153,8 +1133,7 @@ please follow the steps to complete installation"</string>
 	<string name="network_detail">%s פרטי הרשת</string>
 	<string name="network_settings_title">רשתות סלולריות</string>
 	<string name="network_state_label">מדיניות הרשת:</string>
-	<string name="networkid_label">זהות הרשת:
-	</string>
+	<string name="networkid_label">זהות הרשת:</string>
 	<string name="networks">בחירת מפעיל</string>
 	<string name="new_backup_pw_prompt">הקלד סיסמה חדשה לגיבויים מלאים כאן</string>
 	<string name="next_button_label">הבא</string>
@@ -1370,8 +1349,7 @@ please follow the steps to complete installation"</string>
 	<string name="power_phone">שיחות קוליות</string>
 	<string name="power_screen">מסך</string>
 	<string name="power_usage_history">שימוש בסוללה</string>
-	<string name="power_usage_level_and_status">%1$s - %2$s
-	</string>
+	<string name="power_usage_level_and_status">%1$s - %2$s</string>
 	<string name="power_usage_not_available">אין נתונים זמינים על השימוש בסוללה.</string>
 	<string name="power_usage_summary">מה השתמש בסוללה</string>
 	<string name="power_usage_summary_title">סוללה</string>
@@ -1398,8 +1376,7 @@ please follow the steps to complete installation"</string>
 	<string name="private_sms_need_to_unlock">Please enter private SMS password</string>
 	<string name="private_sms_recording_intro_header">Draw pattern to create password lock</string>
 	<string name="private_sms_reset_by_account">Login Xiaomi account to reset private SMS password</string>
-	<string name="process_kernel_label">מערכת הפעלה אנדרואיד
-	</string>
+	<string name="process_kernel_label">מערכת הפעלה אנדרואיד</string>
 	<string name="process_mediaserver_label">שרת מדיה</string>
 	<string name="process_provider_in_use_description">הספק %1$s נמצא בשימוש.</string>
 	<string name="process_service_in_use_description">השירות %1$s נמצא בשימוש.</string>
@@ -1503,9 +1480,7 @@ please follow the steps to complete installation"</string>
 	<string name="remove_from_frequently_fragment">הסר %s מהגדרות נפוצות?</string>
 	<string name="reset_app_preferences">Reset app preferences</string>
 	<string name="reset_app_preferences_button">Reset apps</string>
-	<string name="reset_app_preferences_desc">"זה יאפס את כל ההעדפות עבור:
-
- "</string>
+	<string name="reset_app_preferences_desc">"זה יאפס את כל ההעדפות עבור: "</string>
 	<string name="reset_app_preferences_title">לאפס את ההעדפות היישום?</string>
 	<string name="restore_default_apn">שחזור הגדרות ברירת מחדל של APN.</string>
 	<string name="restore_default_apn_completed">איפוס הגדרות ברירת מחדל של APN הושלמו.</string>
@@ -1629,8 +1604,7 @@ please follow the steps to complete installation"</string>
 	<string name="select_subscription">בחר מנוי</string>
 	<string name="service_background_processes">%1$s של שטח פנוי</string>
 	<string name="service_client_name">%1$s</string>
-	<string name="service_foreground_processes">%1$s בשימוש
-	</string>
+	<string name="service_foreground_processes">%1$s בשימוש</string>
 	<string name="service_manage">הגדרות</string>
 	<string name="service_manage_description">\"%1$s: בשימוש כרגע. גע באפשרויות כדי לשלוט בו.\"</string>
 	<string name="service_process_name">%1$s</string>
@@ -1680,8 +1654,7 @@ please follow the steps to complete installation"</string>
 	<string name="silent_mode_title">מצב שקט</string>
 	<string name="sim_absent">לא SIM / RUIM</string>
 	<string name="sim_bad_pin">PIN שגוי</string>
-	<string name="sim_change_failed">\"לא ניתן לשנות את קוד ה-PIN‏.
-כנראה שקוד ה-PIN שגוי.\"</string>
+	<string name="sim_change_failed">\"לא ניתן לשנות את קוד ה-PIN‏. כנראה שקוד ה-PIN שגוי.\"</string>
 	<string name="sim_change_failed_enable_sim_lock">לא ניתן לשנות את קוד ה-SIM / RUIM. אפשר נעילת SIM / RUIM.</string>
 	<string name="sim_change_pin">SIM PIN</string>
 	<string name="sim_change_succeeded">SIM PIN שונה בהצלחה</string>
@@ -1693,8 +1666,7 @@ please follow the steps to complete installation"</string>
 	<string name="sim_enter_old">PIN ישן של סים</string>
 	<string name="sim_enter_pin">SIM PIN</string>
 	<string name="sim_lock_change_not_supported">לא ניתן לשנות את נעילת ה-SIM / RUIM. SIM / RUIM אינו תומך בו.</string>
-	<string name="sim_lock_failed">\"לא ניתן לשנות את מצב הנעילה של כרטיס הסים‏.
-כנראה שקוד ה-PIN שגוי.\"</string>
+	<string name="sim_lock_failed">\"לא ניתן לשנות את מצב הנעילה של כרטיס הסים‏. כנראה שקוד ה-PIN שגוי.\"</string>
 	<string name="sim_lock_off">דרוש PIN כדי להשתמש בטלפון</string>
 	<string name="sim_lock_on">דרוש PIN כדי להשתמש בטלפון</string>
 	<string name="sim_lock_settings">הגדרות נעילת כרטיס סים</string>
@@ -1708,9 +1680,11 @@ please follow the steps to complete installation"</string>
 	<string name="sim_pin_toggle">נעל כרטיס סים</string>
 	<string name="sim_pins_dont_match">קודי ה-PIN אינם תואמים</string>
 	<string name="sim_reenter_new">הקלד שוב את ה-PIN חדש</string>
+	<string name="sim_status_title">SIM מצב</string> 
 	<string name="skip_button_label">ביטול</string>
 	<string name="skip_label">דלג</string>
 	<string name="skip_step">דלג על שלב זה</string>
+	<string name="slot_status_title">IMEI מידע</string>
 	<string name="small_font">קטן</string>
 	<string name="sms_delivered_sound_dialog_title">בחר צליל מסירת SMS</string>
 	<string name="sms_delivered_sound_title">SMS צליל נמסר</string>
@@ -1733,8 +1707,7 @@ please follow the steps to complete installation"</string>
 	<string name="spellchecker_quick_settings">הגדרות</string>
 	<string name="spellchecker_security_warning">ייתכן שבודק איות זה יוכל לאסוף את כל הטקסט שאתה מקליד, כולל נתונים אישיים כגון סיסמאות ומספרי כרטיס אשראי. הוא מגיע מהיישום %1$s. להשתמש בבודק איות זה?</string>
 	<string name="spellcheckers_settings_title">תיקון שגיאות איות</string>
-	<string name="ssid_label">SSID:
-	</string>
+	<string name="ssid_label">SSID:</string>
 	<string name="status_awake_time">משך פעילות</string>
 	<string name="status_bar_settings">הגדרות שורת מצב</string>
 	<string name="status_bt_address">כתובת Bluetooth</string>
@@ -1788,13 +1761,12 @@ please follow the steps to complete installation"</string>
 	<string name="sync_error">שגיאת סנכרון</string>
 	<string name="sync_failed">סנכרו נכשל</string>
 	<string name="sync_gmail">Gmail</string>
-	<string name="sync_in_progress">Syncing now…</string>
+	<string name="sync_in_progress">מסנכרן כעת…</string>
 	<string name="sync_is_failing">הסינכרון נתקל כעת בבעיות. הוא ימשיך תוך זמן קצר.</string>
 	<string name="sync_item_title">מסנכרן %s...</string>
 	<string name="sync_menu_sync_cancel">בטל סינכרון</string>
 	<string name="sync_menu_sync_now">סנכרן כעת!</string>
-	<string name="sync_one_time_sync">\"גע כדי לסנכרן כעת
-%1$s\"</string>
+	<string name="sync_one_time_sync">\"גע כדי לסנכרן כעת %1$s\"</string>
 	<string name="sync_plug"/>
 	<string name="sync_settings">חשבונות וסנכרון</string>
 	<string name="sync_wifi_label">Wi-Fi הגדרות</string>
@@ -1806,8 +1778,7 @@ please follow the steps to complete installation"</string>
 	<string name="testing">בדיקה</string>
 	<string name="testing_battery_info">מידע על סוללה</string>
 	<string name="testing_phone_info">מידע על הטלפון</string>
-	<string name="testing_sim_toolkit">כלים של סים
-	</string>
+	<string name="testing_sim_toolkit">כלי SIM</string>
 	<string name="testing_usage_stats">נתוני שימוש.</string>
 	<string name="testing_wifi_info">מידע Wi-Fi</string>
 	<string name="tether_settings_title_all">שיתוף</string>
@@ -1907,8 +1878,7 @@ please follow the steps to complete installation"</string>
 	<string name="unlock_set_unlock_password_title">סיסמה</string>
 	<string name="unlock_set_unlock_pattern_summary">אבטחה בינונית</string>
 	<string name="unlock_set_unlock_pattern_title">תבנית</string>
-	<string name="unlock_set_unlock_pin_summary">אבטחה בינונית עד גבוהה
-	</string>
+	<string name="unlock_set_unlock_pin_summary">אבטחה בינונית עד גבוהה</string>
 	<string name="unlock_set_unlock_pin_title">PIN</string>
 	<string name="unlock_set_unlock_summary">אנא אפשר סיסמת מסך כדי לאפשר הגנה באמצעות סיסמא</string>
 	<string name="unmount_inform_text">הטעינה של כרטיס SD תבוטל.</string>
@@ -1916,8 +1886,7 @@ please follow the steps to complete installation"</string>
 	<string name="upload_debug_log_summary">העלה יומן באגים רק כאשר ישנו חיבור זמין לאינטרנט אלחוטי כדי לסייע לצוות פיתוח MIUI ROM לפתח מערכת יציבה יותר.</string>
 	<string name="upload_debug_log_title">העלה יומן באגים </string>
 	<string name="usage_log">סטטיסטיקת שימוש יישומים</string>
-	<string name="usage_name_percent">%1$s -  %2$s%%
-	</string>
+	<string name="usage_name_percent">%1$s -  %2$s%%</string>
 	<string name="usage_stats_label">נתוני שימוש.</string>
 	<string name="usage_time_label">זמן שימוש</string>
 	<string name="usage_type_audio">אודיו</string>
@@ -1934,7 +1903,7 @@ please follow the steps to complete installation"</string>
 	<string name="usage_type_wifi_running">Wi-Fi פועל</string>
 	<string name="usb_connection_category">חבר בתור</string>
 	<string name="usb_label_installer_cd">התקן כלים להעברת קבצים</string>
-	<string name="usb_msd_driver_installer_summary">You can get the driver installers for Windows and Mac from here</string>
+	<string name="usb_msd_driver_installer_summary">אתה יכול לקבל את ההתקנה למנהלי התקנים עבור Windows ו-Mac מכאן</string>
 	<string name="usb_msd_driver_installer_title">Driver Installer Disk (MSD)</string>
 	<string name="usb_msd_summary">העברת קבצים ב-Windows ו-Mac</string>
 	<string name="usb_msd_title">אחסון USB Mass</string>
@@ -1954,10 +1923,10 @@ please follow the steps to complete installation"</string>
 	<string name="use_location_summary">אפשר ל-Google להשתמש במיקום שלך כדי לשפר את תוצאות החיפוש ושירותים נוספים</string>
 	<string name="use_location_title">מיקום וחיפוש Google</string>
 	<string name="use_system_language_to_select_input_method_subtypes">השתמש בשפת מערכת</string>
-	<string name="user_add_user_menu">Add user</string>
+	<string name="user_add_user_menu">הוסף משתמש</string>
 	<string name="user_confirm_remove_message">Are you sure you want to remove the user and all associated data from the device?</string>
-	<string name="user_confirm_remove_title">Remove user?</string>
-	<string name="user_details_title">Edit details</string>
+	<string name="user_confirm_remove_title">להסיר משתמש?</string>
+	<string name="user_details_title">ערוך פרטים</string>
 	<string name="user_dict_multiple_settings_title">מילונים אישיים</string>
 	<string name="user_dict_settings_add_dialog_confirm">OK</string>
 	<string name="user_dict_settings_add_dialog_less_options">Less options</string>
@@ -1973,22 +1942,22 @@ please follow the steps to complete installation"</string>
 	<string name="user_dict_settings_context_menu_edit_title">ערוך</string>
 	<string name="user_dict_settings_edit_dialog_title">ערוך מילה:</string>
 	<string name="user_dict_settings_empty_text">\"לא מוגדרות מילים במילון המשתמש. הוסף מילה על ידי נגיעה בלחצן הוסף (+).\"</string>
-	<string name="user_dict_settings_more_languages">More languages…</string>
+	<string name="user_dict_settings_more_languages">שפות נוספות…</string>
 	<string name="user_dict_settings_summary"/>
 	<string name="user_dict_settings_titlebar">מילון משתמש</string>
 	<string name="user_dict_single_settings_title">מילון אישי</string>
-	<string name="user_discard_user_menu">Discard</string>
-	<string name="user_information_heading">User information</string>
-	<string name="user_list_title">Users</string>
-	<string name="user_market_apps_heading">Installed apps</string>
-	<string name="user_market_requires_pin">Require PIN</string>
-	<string name="user_max_content_rating">Content rating</string>
-	<string name="user_name_title">Name</string>
+	<string name="user_discard_user_menu">מחק</string>
+	<string name="user_information_heading">מידע משתמש</string>
+	<string name="user_list_title">משתמשים</string>
+	<string name="user_market_apps_heading">יישומים מותקנים</string>
+	<string name="user_market_requires_pin">דרוש קוד PIN</string>
+	<string name="user_max_content_rating">דירוג תוכן</string>
+	<string name="user_name_title">שם</string>
 	<string name="user_new_user_name">Pesky kid</string>
-	<string name="user_remove_user_menu">Remove user</string>
+	<string name="user_remove_user_menu">הסר משתמש</string>
 	<string name="user_restrictions_heading">Content restrictions</string>
-	<string name="user_settings_title">Users </string>
-	<string name="user_system_apps_heading">System apps</string>
+	<string name="user_settings_title">משתמשים</string>
+	<string name="user_system_apps_heading">יישומי מערכת</string>
 	<string name="version_text">גרסה %1$s</string>
 	<string name="vibrate_category_title">רטט</string>
 	<string name="vibrate_in_normal_title">רטט בנורמלי</string>
@@ -2035,13 +2004,13 @@ please follow the steps to complete installation"</string>
 	<string name="voice_summary">בחר מנוי עבור שיחות קוליות</string>
 	<string name="voice_title">קול / USSD / MMI</string>
 	<string name="volume_alarm_description">התראות</string>
-	<string name="volume_alarm_mute">Mute alarms</string>
+	<string name="volume_alarm_mute">השתק שעונים מעוררים</string>
 	<string name="volume_bluetooth_description">נפח Bluetooth</string>
 	<string name="volume_category_title">עוצמת קול</string>
 	<string name="volume_media_description">פריטי מוסיקה, סרטוני וידאו, משחקים ומדיה נוספת</string>
-	<string name="volume_media_mute">Mute music </string>
+	<string name="volume_media_mute">השתק מוזיקה</string>
 	<string name="volume_notification_description">התראות</string>
-	<string name="volume_notification_mute">Mute notifications</string>
+	<string name="volume_notification_mute">התראות נוספות</string>
 	<string name="volume_restore">שחזר את העוצמת קול</string>
 	<string name="volume_restore_alert">כל הגדרות הנפח תוחזרנה לברירת מחדל, אתה בטוח?</string>
 	<string name="volume_ring_description">רינגטונים והתראות</string>
@@ -2093,9 +2062,9 @@ please follow the steps to complete installation"</string>
 	<string name="wfd_disconnect_diag_msg">If you stop the Wi-Fi display session, your connection with %1$s will terminate.</string>
 	<string name="wfd_disconnect_diag_title">Tear down session?</string>
 	<string name="wfd_disconnect_multiple_diag_message">If you stop the Wi-Fi  display session, your connection with %1$s and %2$s other devices will terminate.</string>
-	<string name="wfd_menu_search">Search for devices</string>
-	<string name="wfd_menu_searching">Searching…</string>
-	<string name="wfd_menu_teardown">Stop</string>
+	<string name="wfd_menu_search">חפש אחר התקנים</string>
+	<string name="wfd_menu_searching">מחפש…</string>
+	<string name="wfd_menu_teardown">הפסק</string>
 	<string name="wfd_settings_title">Wi-Fi Display</string>
 	<string name="wfd_wps_keypad">Prefer to Push Button</string>
 	<string name="wfd_wps_pbc">Prefer to Input PIN</string>
@@ -2159,28 +2128,28 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_menu_wfd">Wi-Fi Display</string>
 	<string name="wifi_menu_wps_pbc">WPS Push Button</string>
 	<string name="wifi_menu_wps_pin">WPS Pin Entry</string>
-	<string name="wifi_more">More</string>
+	<string name="wifi_more">עוד</string>
 	<string name="wifi_network_prefix_length">אורך קידומת של רשת</string>
 	<string name="wifi_network_prefix_length_hint">24</string>
 	<string name="wifi_not_in_range">מחוץ לטווח</string>
 	<string name="wifi_notify_open_networks">התראת רשת</string>
 	<string name="wifi_notify_open_networks_summary">שלח לי התראה כאשר יש רשת פתוחה זמינה</string>
 	<string name="wifi_on_time">Wi-Fi בזמן</string>
-	<string name="wifi_other_network">Other network…</string>
-	<string name="wifi_p2p_cancel_connect_message">Do you want to cancel invitation to connect with %1$s?</string>
-	<string name="wifi_p2p_cancel_connect_title">Cancel invitation?</string>
+	<string name="wifi_other_network">רשת אחרת…</string>
+	<string name="wifi_p2p_cancel_connect_message">האם ברצונך לבטל את ההזמנה ליצת התחברות עם %1$s?</string>
+	<string name="wifi_p2p_cancel_connect_title">ביטול ההזמנה?</string>
 	<string name="wifi_p2p_device_info">פרטי מכשיר</string>
 	<string name="wifi_p2p_disconnect_message">If you disconnect, your connection with %1$s will end.</string>
 	<string name="wifi_p2p_disconnect_multiple_message">If you disconnect, your connection with %1$s and %2$s other devices will end.</string>
-	<string name="wifi_p2p_disconnect_title">Disconnect?</string>
-	<string name="wifi_p2p_failed_connect_message">"Couldn't connect."</string>
-	<string name="wifi_p2p_failed_rename_message">Failed to rename device.</string>
+	<string name="wifi_p2p_disconnect_title">להתנתק?</string>
+	<string name="wifi_p2p_failed_connect_message">לא ניתן להתחבר.</string>
+	<string name="wifi_p2p_failed_rename_message">לא ניתן לשנות את שם ההתקן.</string>
 	<string name="wifi_p2p_menu_advanced">מתקדם</string>
 	<string name="wifi_p2p_menu_create_group">צור קבוצה</string>
 	<string name="wifi_p2p_menu_remove_group">הסרת קבוצה</string>
-	<string name="wifi_p2p_menu_rename">Rename device</string>
+	<string name="wifi_p2p_menu_rename">שנה את שם ההתקן</string>
 	<string name="wifi_p2p_menu_search">חיפוש</string>
-	<string name="wifi_p2p_menu_searching">Searching…</string>
+	<string name="wifi_p2p_menu_searching">מחפש…</string>
 	<string name="wifi_p2p_peer_devices">Peer devices</string>
 	<string name="wifi_p2p_persist_network">זכור חיבור זה</string>
 	<string name="wifi_p2p_settings_title">Wi-Fi ישיר</string>
@@ -2215,10 +2184,10 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_setting_frequency_band_title">תדר Wi-Fi</string>
 	<string name="wifi_setting_sleep_policy_error">אירעה בעיה בשינוי ההגדרה</string>
 	<string name="wifi_setting_sleep_policy_title">השאר Wi-Fi פעיל במהלך שינה</string>
-	<string name="wifi_settings">אלחוטי</string>
-	<string name="wifi_settings_category">הגדרות Wi-Fi</string>
+	<string name="wifi_settings">הגדרות אינטרנט אלחוטי</string>
+	<string name="wifi_settings_category">הגדרות אינטרנט אלחוטי</string>
 	<string name="wifi_settings_summary">הגדר ונהל נקודות גישה אלחוטיות</string>
-	<string name="wifi_settings_title">אלחוטי</string>
+	<string name="wifi_settings_title">הגדרות אינטרנט אלחוטי</string>
 	<string name="wifi_setup_add_network">הוסף רשת</string>
 	<string name="wifi_setup_back">חזרה</string>
 	<string name="wifi_setup_cancel">ביטול</string>
@@ -2247,8 +2216,8 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_setup_title_connected_network">מחובר לרשת Wi-Fi %s</string>
 	<string name="wifi_setup_title_connecting_network">מתחבר לרשת Wi-Fi‏ %s...</string>
 	<string name="wifi_setup_title_editing_network">התחבר לרשת Wi-Fi ‏%s</string>
-	<string name="wifi_setup_wizard_title">Select Wi-Fi network</string>
-	<string name="wifi_setup_wps">Automatic setup (WPS)</string>
+	<string name="wifi_setup_wizard_title">בחר רשת אלחוטית</string>
+	<string name="wifi_setup_wps">הגדרה אוטומטית (WPS)</string>
 	<string name="wifi_show_advanced">הצג אפשרויות מתקדמות</string>
 	<string name="wifi_show_password">הצג סיסמה</string>
 	<string name="wifi_signal">עוצמת אות:</string>
@@ -2273,12 +2242,12 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_unchanged">(ללא שינוי)</string>
 	<string name="wifi_unspecified">(לא צוין)</string>
 	<string name="wifi_update">רענן סטטיסטיקות</string>
-	<string name="wifi_wapi_as_cert">AS Certificate</string>
-	<string name="wifi_wapi_cert_cancel_button">Cancel</string>
-	<string name="wifi_wapi_cert_create_subdir">Create a directory</string>
+	<string name="wifi_wapi_as_cert">AS אישור</string>
+	<string name="wifi_wapi_cert_cancel_button">ביטול</string>
+	<string name="wifi_wapi_cert_create_subdir">צור תיקיה</string>
 	<string name="wifi_wapi_cert_delet_subdir">Select a suit certificate</string>
 	<string name="wifi_wapi_cert_install">Install WAPI Certificate</string>
-	<string name="wifi_wapi_cert_install_button">Install</string>
+	<string name="wifi_wapi_cert_install_button">התקן</string>
 	<string name="wifi_wapi_cert_mgmt_as_dont_exist">AS certificate not found on SD card, please check and try again</string>
 	<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">The as certificate format is wrong! Please install right as certificate</string>
 	<string name="wifi_wapi_cert_mgmt_as_name_is_empty">Please input the as certificate name</string>
@@ -2292,7 +2261,7 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_wapi_cert_uninstall">Uninstall WAPI Certificate</string>
 	<string name="wifi_wapi_cert_uninstall_button">הסר התקנה</string>
 	<string name="wifi_wapi_certification_dont_exist">The network password you entered is not correct. Please try again.</string>
-	<string name="wifi_wapi_user_cert">User Certificate</string>
+	<string name="wifi_wapi_user_cert">אישור משתמש</string>
 	<string name="wifi_wps_available_first_item">רשת מוגנת זמינה</string>
 	<string name="wifi_wps_available_second_item"> (רשת מוגנת זמינה)</string>
 	<string name="wifi_wps_complete">WPS succeeded. Connecting to the network…</string>
@@ -2313,7 +2282,7 @@ please follow the steps to complete installation"</string>
 	<string name="window_animation_scale_title">קנה מידה להנפשה של חלון</string>
 	<string name="wireless_networks_settings_title">אלחוטי ורשתות</string>
 	<string name="wps_category">WPS אבטחת</string>
-	<string name="wps_connect_summary">Make sure your router supports WPS</string>
+	<string name="wps_connect_summary">ודא שהנתב שלך תומך WPS</string>
 	<string name="wps_connect_title">התחבר עם WPS</string>
 	<string name="xiaomi_account">חשבון Xiaomi</string>
 	<string name="yes">כן</string>
