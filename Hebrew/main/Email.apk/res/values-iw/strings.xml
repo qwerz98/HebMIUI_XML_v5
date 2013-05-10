@@ -304,12 +304,6 @@
 	<string name="mailbox_name_display_sent">נשלח</string>
 	<string name="mailbox_name_display_trash">אשפה</string>
 	<string name="mailbox_name_display_unread">לא נקראו</string>
-	<string name="mailbox_name_server_drafts">טיוטות</string>
-	<string name="mailbox_name_server_inbox">דואר נכנס</string>
-	<string name="mailbox_name_server_junk">דואר זבל</string>
-	<string name="mailbox_name_server_outbox">דואר יוצא</string>
-	<string name="mailbox_name_server_sent">נשלח</string>
-	<string name="mailbox_name_server_trash">אשפה</string>
 	<string name="mailbox_preferences_header">הגדרות סנכרון</string>
 	<string name="mailbox_settings_action">סנכרן אפשרויות</string>
 	<string name="mailbox_settings_activity_title">אפשרויות סנכרון</string>
