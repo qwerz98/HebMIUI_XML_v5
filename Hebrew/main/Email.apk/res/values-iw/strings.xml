@@ -65,9 +65,9 @@
 	<string name="account_setup_account_type_instructions">איזה סוג חשבון זה?</string>
 	<string name="account_setup_account_type_pop_action">POP3</string>
 	<string name="account_setup_account_type_title">הוספת חשבון דואר אלקטרוני חדש</string>
-	<string name="account_setup_basic_description_label">Account name (optional)</string>
+	<string name="account_setup_basic_description_label">שם החשבון (אופציונלי)</string>
 	<string name="account_setup_basic_label">Please fill enter information for %s mailbox :</string>
-	<string name="account_setup_basic_name_label">Your name (optional)</string>
+	<string name="account_setup_basic_name_label">שמך (אופציונלי)</string>
 	<string name="account_setup_basics_default_label">שלח דואר אלקטרוני מחשבון זה כברירת מחדל.</string>
 	<string name="account_setup_basics_email_label">כתובת דואר אלקטרוני</string>
 	<string name="account_setup_basics_exchange_title">הוסף חשבון Exchange</string>
@@ -97,15 +97,12 @@
 	<string name="account_setup_failed_certificate_required">אישור לקוח נדרש. להתחבר לשרת עם אישור לקוח?</string>
 	<string name="account_setup_failed_check_credentials_message">השרת הגיב עם שגיאה. בדוק את שם המשתמש והסיסמה שלך ולאחר מכן נסה שוב.</string>
 	<string name="account_setup_failed_dlg_auth_message">שם משתמש או סיסמא שגויים.</string>
-	<string name="account_setup_failed_dlg_auth_message_fmt">"שם משתמש או סיסמה שגויים.
-(%s)"</string>
+	<string name="account_setup_failed_dlg_auth_message_fmt">"שם משתמש או סיסמה שגויים. (%s)"</string>
 	<string name="account_setup_failed_dlg_certificate_message">לא יכול להתחבר לשרת באופן בטוח.</string>
-	<string name="account_setup_failed_dlg_certificate_message_fmt">"לא יכול להתחבר לשרת באופן בטוח.
-(%s)"</string>
+	<string name="account_setup_failed_dlg_certificate_message_fmt">"לא יכול להתחבר לשרת באופן בטוח. (%s)"</string>
 	<string name="account_setup_failed_dlg_edit_details_action">ערוך פרטים</string>
 	<string name="account_setup_failed_dlg_server_message">אין אפשרות להתחבר לשרת.</string>
-	<string name="account_setup_failed_dlg_server_message_fmt">"אין אפשרות להתחבר לשרת.
-(%s)"</string>
+	<string name="account_setup_failed_dlg_server_message_fmt">"אין אפשרות להתחבר לשרת. (%s)"</string>
 	<string name="account_setup_failed_dlg_title">ההתקנה לא הצליחה להסתיים</string>
 	<string name="account_setup_failed_ioerror">אין אפשרות לפתוח חיבור לשרת.</string>
 	<string name="account_setup_failed_protocol_unsupported">"הקלדת כתובת שרט שגויה או שהשרת מחייב גרסת פוטוקול דוא\"ל שאינו נתמך."</string>
@@ -130,9 +127,9 @@
 	<string name="account_setup_incoming_security_tls_trust_certificates_label">TLS (קבלת כל האישורים)</string>
 	<string name="account_setup_incoming_title">הגדרות שרת נכנס</string>
 	<string name="account_setup_incoming_username_label">שם משתמש</string>
-	<string name="account_setup_index_label">Please choose from the list of e-mail service providers:</string>
-	<string name="account_setup_index_other_mails">Other mail account</string>
-	<string name="account_setup_index_title">Account settings guide</string>
+	<string name="account_setup_index_label">בחר מהרשימה של ספקי שירות דואר אלקטרוני:</string>
+	<string name="account_setup_index_other_mails">חשבון דואר אלקטרוני אחר</string>
+	<string name="account_setup_index_title">הנחיית הגדרות חשבון</string>
 	<string name="account_setup_names_account_name_label">תנו שם לחשבון זה (אופציונלי)</string>
 	<string name="account_setup_names_headline">חשבונך מוגדר, הדוא\"ל שלך בדרך!</string>
 	<string name="account_setup_names_title">הגדרת דואר אלקטרוני</string>
@@ -184,7 +181,7 @@
 	<string name="add_account_action">הוסף חשבון</string>
 	<string name="add_cc_bcc_menu">הוסף העתק/העתק מוסתר</string>
 	<string name="add_file_attachment">הוסף קובץ</string>
-	<string name="add_quick_responses_action">Create new</string>
+	<string name="add_quick_responses_action">צור חדש</string>
 	<string name="alert_selected_all_message">" has at least %d messages, select all？"</string>
 	<string name="alert_title_selected">Select all</string>
 	<string name="app_name">דוא\"ל</string>
@@ -228,8 +225,8 @@
 	<string name="contextmenu_send_mail">שלח דוא\"ל</string>
 	<string name="contextmenu_sharelink">שתף קישור</string>
 	<string name="contextmenu_sms_dot">הודעת טקסט...</string>
-	<string name="copy_email">Copy E-mail address</string>
-	<string name="copy_number">Copy Phone number</string>
+	<string name="copy_email">העתק כתובת דואר אלקטרוני</string>
+	<string name="copy_number">העתק מספר טלפון</string>
 	<string name="create_action">צור חדש</string>
 	<string name="debug_clear_webview_cache">נקה מטמון WebView</string>
 	<string name="debug_disable_graphics_acceleration_label">בטל האצת חומרת גרפיקה</string>
@@ -255,7 +252,7 @@
 	<string name="dialog_sync_all_server_error">ארעה שגיאה בחיבור לשרת. אנא נסה שוב</string>
 	<string name="disable_admin_warning">"אזהרה:. ביטול הרשות יישום של דואר אלקטרוני כדי לנהל את המכשיר תמחק את כל חשבונות דוא"ל שדורשים אותו, יחד עם הדוא"ל שלהם, אנשי קשר, יומן אירועים, ונתונים אחרים"</string>
 	<string name="discard_action">התעלם</string>
-	<string name="done">Done</string>
+	<string name="done">סיום</string>
 	<string name="done_action">בוצע</string>
 	<string name="edit_quick_response_dialog">ערוך תגובה מהירה</string>
 	<string name="eml_view_title">צופה ב- %s</string>
@@ -307,12 +304,12 @@
 	<string name="mailbox_name_display_sent">נשלח</string>
 	<string name="mailbox_name_display_trash">אשפה</string>
 	<string name="mailbox_name_display_unread">לא נקראו</string>
-	<string name="mailbox_name_server_drafts">Drafts</string>
-	<string name="mailbox_name_server_inbox">Inbox</string>
-	<string name="mailbox_name_server_junk">Junk</string>
-	<string name="mailbox_name_server_outbox">Outbox</string>
-	<string name="mailbox_name_server_sent">Sent</string>
-	<string name="mailbox_name_server_trash">Trash</string>
+	<string name="mailbox_name_server_drafts">טיוטות</string>
+	<string name="mailbox_name_server_inbox">דואר נכנס</string>
+	<string name="mailbox_name_server_junk">דואר זבל</string>
+	<string name="mailbox_name_server_outbox">דואר יוצא</string>
+	<string name="mailbox_name_server_sent">נשלח</string>
+	<string name="mailbox_name_server_trash">אשפה</string>
 	<string name="mailbox_preferences_header">הגדרות סנכרון</string>
 	<string name="mailbox_settings_action">סנכרן אפשרויות</string>
 	<string name="mailbox_settings_activity_title">אפשרויות סנכרון</string>
@@ -532,8 +529,7 @@
 	<string name="settings_action">הגדרות</string>
 	<string name="settings_activity_title">הגדרות</string>
 	<string name="show_quick_text_list_dialog_action">הכנס תגובה מהירה</string>
-	<string name="single_new_message_notification_big_text">"%1$s
-%2$s"</string>
+	<string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
 	<string name="status_loading_messages">טוען הודעות…</string>
 	<string name="status_network_error">שגיאה בהתחברות</string>
 	<string name="subject_hint">נושא:</string>
