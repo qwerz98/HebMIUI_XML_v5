@@ -15,6 +15,7 @@
 	<string name="direction_south">דרום</string>
 	<string name="direction_west">מערב</string>
 	<string name="getting_location">מקבל מיקום ...</string>
+	<string name="guide_toast">"ייתכן שקיימת הפרעת שדה מגנטי, אנא כייל את המצפן באמצעות המחווה הבאה."</string> 
 	<string name="latitude">LAT</string>
 	<string name="location_east">%s E</string>
 	<string name="location_north">%s N</string>

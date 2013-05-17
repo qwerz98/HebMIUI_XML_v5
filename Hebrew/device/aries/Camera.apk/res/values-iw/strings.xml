@@ -341,6 +341,7 @@
     <string name="edit">ערוך</string>
     <string name="rotate_left">סובב שמאלה</string>
     <string name="rotate_right">סובב ימינה</string>
+	<string name="save">שמור</string> 
     <string name="set_image">קבע תמונה כ</string>
     <string name="details">פרטים</string>
     <string name="show_on_map">הצג על המפה</string>
@@ -386,6 +387,7 @@
     <string name="maker">יצרן</string>
     <string name="mimetype">סוג MIME</string>
     <string name="model">דגם</string>
+	<string name="no_save">אל תשמור</string> 
     <string name="orientation">כוון</string>
     <string name="path">נתיב</string>
     <string name="time">זמן</string>

@@ -88,6 +88,7 @@
 	<string name="manual">ידני</string>
 	<string name="mimetype">סוג MIME</string>
 	<string name="model">דגם</string>
+	<string name="no_save">אל תשמור</string> 
 	<string name="no_storage">אנא הצב את אחסון USB לפני השימוש במצלמה.</string>
 	<string name="no_thumbnail">אין תמונה ממוזערת</string>
 	<string name="not_enough_space">אחסון USB שלך מלא.</string>
@@ -374,6 +375,7 @@
 	<string name="review_cancel">בטל</string>
 	<string name="rotate_left">סובב שמאלה</string>
 	<string name="rotate_right">סובב ימינה</string>
+	<string name="save">שמור</string> 
 	<string name="select_all">בחר הכל</string>
 	<string name="select_image">בחר תמונה</string>
 	<string name="select_item">בחר פריט</string>
