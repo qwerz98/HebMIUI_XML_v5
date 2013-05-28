@@ -19,13 +19,10 @@
 	<string name="default_search_domain">.google.co.il</string>
 	<string name="device_settings_category_title">ניקוי קיצורים</string>
 	<string name="google_app_label">חיפוש Google</string>
-	<string name="google_search_base">http://www.google.co.il/m?hl=%1$s</string>
-	<string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
 	<string name="google_search_description">הצעות חיפוש Google</string>
 	<string name="google_search_hint">חיפוש Google</string>
 	<string name="google_search_label">Google</string>
 	<string name="google_settings_category_title">חיפוש Google</string>
-	<string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s</string>
 	<string name="menu_help">עזרה</string>
 	<string name="menu_settings">חיפוש הגדרות</string>
 	<string name="remove_from_history">הסר מהיסטורית החיפוש</string>
