@@ -85,8 +85,6 @@
     <string name="pref_camera_histogram_title">היסטוגרמה</string>
     <string name="pref_camera_histogram_entry_enable">אפשר</string>
     <string name="pref_camera_histogram_entry_disable">אל תאפשר</string>
-    <string name="pref_camera_histogram_value_enable">אפשר</string>
-    <string name="pref_camera_histogram_value_disable">אל תאפשר</string>
     <string name="pref_camera_focusmode_title">מצב פוקוס</string>
     <string name="pref_camera_focusmode_entry_auto">אוטומטי</string>
     <string name="pref_camera_focusmode_entry_normal">רגיל</string>
