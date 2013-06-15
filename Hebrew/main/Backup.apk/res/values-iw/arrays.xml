@@ -5,13 +5,14 @@
         <item>כל היישומים</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>דפדפן</item>
-	<item>סייר קבצים</item>
-	<item>גלריה</item>
-	<item>מנהל ההרשאות</item>
-	<item>מזג אוויר</item>
-	<item>מצלמה</item>
-	<item>סייען הרשת</item>
+        <item>Browser</item>
+        <item>File explorer</item>
+        <item>Gallery</item>
+        <item>Permission manager</item>
+        <item>Camera</item>
+        <item>Network assistant</item>
+        <item>Weather Storage</item>
+        <item>Weather</item>
     </string-array>
     <string-array name="system_data_label">
         <item>אנשי קשר</item>
