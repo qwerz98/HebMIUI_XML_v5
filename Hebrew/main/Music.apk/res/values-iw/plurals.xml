@@ -72,4 +72,8 @@
         <item quantity="other">%d שירים יורדו.</item>
         <item quantity="one">שיר 1 יורד.</item>
     </plurals>
+	<plurals name="Ntracks_remove_from_favorite_playlist">
+		<item quantity="other">%d שירים הוסרו מרשימת ההשמעה.</item>
+		<item quantity="one">שיר 1 הוסר מרשימת ההשמעה.</item>
+	</plurals>
 </resources>

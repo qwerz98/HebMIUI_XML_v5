@@ -11,6 +11,7 @@
 	<string name="caller_app">מבקר: %1$s</string>
 	<string name="cancel">ביטול</string>
 	<string name="dlg_app_replacement_statement">"היישום שאתה מתקין יחליף יישום אחר. כל נתוני המשתמש הקודמים יישמרו."</string>
+	<string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) will replace the current version (%3$s). User’s contents will be retained. Are you sure you wish to install?"</string>
 	<string name="dlg_app_replacement_title">החלף יישום</string>
 	<string name="dlg_ok">אישור</string>
 	<string name="dlg_sys_app_replacement_statement">"זהו יישום מערכת. האם אתה עדיין רוצה להחליף אותו? כל נתוני המשתמש הקודמים יישמרו."</string>

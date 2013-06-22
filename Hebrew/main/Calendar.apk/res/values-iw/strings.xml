@@ -175,8 +175,8 @@
 	<string name="show_day_view">הצג יום</string>
 	<string name="show_newer_events">מציג ארועים עד %1$s. הקש כדי לצפות בארועים נוספים.</string>
 	<string name="show_older_events">מציג ארועים מאז %1$s. הקש כדי לצפות בארועים נוספים.</string>
-	<string name="snooze_label">נודניק</string>
 	<string name="snooze_all_label">נדנד בכולם</string>
+	<string name="snooze_label">נודניק</string>
 	<string name="synced">סונכרן</string>
 	<string name="tardis">TARDIS</string>
 	<string name="template_announce_item_index">%1$s אירועים מתוך%2$s.</string>

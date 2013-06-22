@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-	<string name="about_to_receive">עומד לקבל קובץ(ים)</string> 
+	<string name="about_to_receive">עומד לקבל קובץ(ים)</string>
 	<string name="about_to_send">שלח קובץ(ים)</string>
 	<string name="app_name">העברת קבצים</string>
 	<string name="button_last">התחל עכשיו</string>
@@ -94,7 +95,6 @@
 	<string name="title_step_three">3. שיתוף קבצים עם חברים</string>
 	<string name="title_step_two">2. MiShare הוא פרוטוקול העברת קבצים אוניברסלי</string>
 	<string name="transfer_history">העבר היסטוריה</string>
-	<string name="trasfer_list">רשימת העברות</string>
 	<string name="use_start">התחל עכשיו</string>
 	<string name="voice_assist_match">התאמה אוטומטית מהירה</string>
 	<string name="voice_match">התאמה מהירה</string>

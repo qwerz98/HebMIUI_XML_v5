@@ -23,7 +23,7 @@
 	<string name="error_mediadb_new_record">לא מצליח לשמור את ההקלטה</string>
 	<string name="error_sdcard_access">לא מצליח לגשת לכרטיס זיכרון</string>
 	<string name="fm_record">הקלטת FM (%d)</string>
-	<string name="hour">%d שעות</string>
+	<string name="hour" formatted="false">%d שעות</string>
 	<string name="insert_sd_card">נדרש כרטיס זיכרון</string>
 	<string name="low_battery_error">Battery has less than 5% left, to ensure that the recording is not lost, recording has been stopped and saved.</string>
 	<string name="low_battery_message_title">סוללה חלשה</string>
@@ -32,31 +32,23 @@
 	<string name="max_length_reached">הגעת לאורך מקסימלי.</string>
 	<string name="menu_settings">Settings</string>
 	<string name="menu_view_record_list">הצג הקלטות</string>
-	<string name="minute">%d דקות</string>
+	<string name="minute" formatted="false">%d דקות</string>
 	<string name="no_file">אין הקלטה</string>
 	<string name="notification_playback">מנגן הקלטה…</string>
-	<string name="notification_playback_paused">ניגון הושהה...</string>
 	<string name="notification_recording">הקלטה</string>
 	<string name="notification_stopped">הקלטה הופסקה</string>
-	<string name="notification_warning">אחסון נמוך, נשארו לך פחות מ-%d דקות הקלטה</string>
+	<string name="notification_warning" formatted="false">אחסון נמוך, נשארו לך פחות מ-%d דקות הקלטה</string>
 	<string name="open_file_explorer">פתח סייר קבצים</string>
-	<string name="overwrite_dialog_message">%s כבר קיים. תרצה לשכתב אותו?</string>
-	<string name="prefDefault_recordType">audio/3gpp</string>
-	<string name="prefDialogTitle_recordType">בחר מקודד</string>
-	<string name="pref_summary_enable_high_quality">הקלטה באיכות גבוהה תדרוש יותר מקום פנוי</string>
-	<string name="pref_summary_enable_sound_effect">הוסף אפקט להקלטה</string>
-	<string name="pref_title_enable_high_quality">איכות גבוהה</string>
-	<string name="pref_title_enable_sound_effect">הפעל אפקט קול</string>
-	<string name="pref_title_record_type">מקליט מקודד</string>
+	<string name="overwrite_dialog_message" formatted="false">%s כבר קיים. תרצה לשכתב אותו?</string>
 	<string name="preference_led_indicator">Recording indicator when screen locked</string>
 	<string name="preference_led_indicator_prompt">Show LED and status bar indicators when recording and screen is locked</string>
+	<string name="preference_record_type_dialog_title">Select a recording type</string>
+	<string name="preference_record_type_title">Recording type</string>
 	<string name="preference_silent_mode">Silent mode recording</string>
-	<string name="preference_silent_mode_summary">Set to enable silent recording operation</string> 
-	<string name="preferences_title">הגדרות</string>
+	<string name="preference_silent_mode_summary">Set to enable silent recording operation</string>
 	<string name="record_list">רשימת הקלטות</string>
 	<string name="record_loading">טוען הקלטה, אנא המתן...</string>
 	<string name="record_name_hour">.</string>
-	<string name="record_name_minute">דקות</string>
 	<string name="record_picker_title">בחר הקלטה</string>
 	<string name="record_saving">שומר הקלטה, אנא המתן...</string>
 	<string name="recording">מקליט</string>
@@ -66,13 +58,12 @@
 	<string name="rename_duplicate">שם ההקלטה קיים, אנא הזן מחדש:</string>
 	<string name="rename_illegal">שם ההקלטה לא חוקי, אנא הזמן מחדש:</string>
 	<string name="sd_card_not_available">כרטיס זיכרון לא זמין</string>
-	<string name="second">%d שניות</string>
+	<string name="second" formatted="false">%d שניות</string>
 	<string name="send_to">שלח אל</string>
 	<string name="sound_recorder_settings">הגדרות הקלטה</string>
 	<string name="status_bar_anti_disturb">הטלפון הושתק, כוון את עוצמת הקול כדי לבטל.</string>
 	<string name="status_bar_back">לחץ כדי לחזור להקלטה</string>
 	<string name="status_bar_recording">מקליט...</string>
-	<string name="status_bar_recording_back">לחץ כדי לחזור להקלטה</string>
 	<string name="status_bar_recording_pause">"ההקלטה הושהתה "</string>
 	<string name="storage_is_full">זכרון מלא</string>
 	<string name="timer_format" formatted="false">%02d:%02d</string>

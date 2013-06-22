@@ -78,9 +78,9 @@
 	<string name="data_usage_disabled_dialog_enable">הפעל מחדש את הנתונים</string>
 	<string name="data_usage_disabled_dialog_mobile_title">נתונים לנייד מושבתים</string>
 	<string name="data_usage_disabled_dialog_title">הנתונים מושבתים</string>
-	<string name="description_direction_left">Slide left for %s.</string>
-	<string name="description_direction_up">Slide up for %s.</string>
-	<string name="description_target_search">Search</string>
+	<string name="description_direction_left">החלק שמאלה ל %s.</string>
+	<string name="description_direction_up">החלק מעלה ל %s.</string>
+	<string name="description_target_search">חפש</string>
 	<string name="dismount_storage">לא</string>
 	<string name="dlg_confirm_kill_storage_users_text">אם תפעיל את אחסון USB, כמה יישומים שאתה משתמש בהם יעצורו ולא יהיו זמינות עד לביטול אחסון USB.</string>
 	<string name="dlg_confirm_kill_storage_users_title">אפשר אחסון USB</string>
@@ -91,13 +91,13 @@
 	<string name="ext_media_badremoval_notification_title">אחסון USB הוסר באופן בלתי צפוי</string>
 	<string name="ext_media_checking_notification_message">בודק בעיות.</string>
 	<string name="ext_media_checking_notification_title">מכין אחסון USB</string>
-	<string name="ext_media_mountable_notification_message">Media mounted, you can access it via File Explorer</string>
-	<string name="ext_media_mountable_notification_title">USB storage device connected</string>
+	<string name="ext_media_mountable_notification_message">מדיה מותקנת, אתה יכול לגשת אליv דרך סייר הקבצים</string>
+	<string name="ext_media_mountable_notification_title">התקן אחסון USB מחובר</string>
 	<string name="ext_media_nofs_notification_message">אחסון USB ריק או שיש לו מערכת קבצים שאינה נתמכת.</string>
 	<string name="ext_media_nofs_notification_title">אחסון USB ריק</string>
 	<string name="ext_media_nomedia_notification_message">אחסון USB הוסר. נכנסה מדיה חדשה.</string>
 	<string name="ext_media_nomedia_notification_title">אחסון USB הוסר</string>
-	<string name="ext_media_safe_remove">Safely Remove media</string>
+	<string name="ext_media_safe_remove">הסרה בטוחה של מדיה</string>
 	<string name="ext_media_safe_unmount_notification_message">אתה יכול להסיר בבטחה את אחסון ה USB.</string>
 	<string name="ext_media_safe_unmount_notification_title">אחסון USB ניתן עכשיו לניתוק בצורה בטוחה</string>
 	<string name="ext_media_unmountable_notification_message">אחסון USB פגום. ייתכן שיהיה עליך לפרמט אותו.</string>
@@ -237,6 +237,7 @@
 	<string name="tab_notifications_lable">התראות</string>
 	<string name="tab_toggles_lable">לחצני הפעלה</string>
 	<string name="title_usb_accessory">אביזר USB</string>
+	<string name="toast_rotation_locked">מסך נעול למצב מאוזן</string>
 	<string name="torch_activity_hint">הפעל פנס על ידי לחיצה על כפתור במסך הנעילה</string>
 	<string name="torch_activity_name">פנס</string>
 	<string name="usb_accessory_confirm_prompt">האם לפתוח את %1$s כאשר אביזר USB זה מחובר?</string>

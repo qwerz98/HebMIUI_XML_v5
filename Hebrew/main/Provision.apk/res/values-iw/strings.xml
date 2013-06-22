@@ -2,12 +2,12 @@
 <resources>
 	<string name="continues">המשך</string>
 	<string name="data_usage_summary">אם עדיין לא הגדרת תכנית נתונים, מומלץ לכבות את הנתונים הסלולריים. אחרת, הספק שלך עשוי לחייב אותך בעמלות נוספות.</string>
-	<string name="default_gprs_sim_name">אנא הכנס \"%s\" מגבל תוכנית נתונים</string> 
+	<string name="default_gprs_sim_name">אנא הכנס \"%s\" מגבל תוכנית נתונים</string>
 	<string name="input_method">שיטת קלט</string>
 	<string name="input_method_category">בחר שיטת קלט ברירת מחדל</string>
 	<string name="next">הבא</string>
 	<string name="other_service_google_location">שירותי המיקום של Google</string>
-	<string name="other_service_google_location_use">מיקום &amp; Google חיפוש</string>
+	<string name="other_service_google_location_use">מיקום </string>
 	<string name="other_service_google_location_use_help">"אפשר לשירות המיקום של גוגל לאסוף נתוני מיקום אנונימיים. איסוף יתבצע גם כאשר אין יישומים פועלים. כדי לשנות הגדרה זו, עבור אל הגדרות &gt; שירותי מיקום"</string>
 	<string name="other_service_google_location_use_summary">אפשר לגוגל להשתמש במיקום שלך כדי את תוצאות החיפוש ושירותים נוספים</string>
 	<string name="other_service_label">שירותים נוספים</string>

@@ -37,7 +37,10 @@
 	<string name="add_to_other_folder_menu_option">תיקייה אחרת</string>
 	<string name="add_xiaomi_account_warning">נא התחבר לחשבון XIAOMI</string>
 	<string name="added_to_bookmarks">נוסף לסימניות.</string>
+	<string name="alert_tips">The site you are visiting may pose a potential security risk, do you wish to continue?</string>
 	<string name="allow">אפשר</string>
+	<string name="app_new_version">You already have the latest version downloaded</string>
+	<string name="app_update_install">New	version	downloaded and ready for installation</string>
 	<string name="application_name">דפדפן</string>
 	<string name="autofill_profile_editor_address_line_1">כתובת 1:</string>
 	<string name="autofill_profile_editor_address_line_1_hint">רחוב, תיבת דואר</string>
@@ -82,6 +85,7 @@
 	<string name="bookmark_url">כתובת האינטרנט</string>
 	<string name="bookmark_url_not_valid">כתובת אינטרנט זו, אינה בתוקף.</string>
 	<string name="bookmarks">סימניות</string>
+	<string name="bookmarks_content_is_null">No bookmarks</string>
 	<string name="bookmarks_management">סימניות</string>
 	<string name="bookmarks_root_folder">תיקייה ראשית</string>
 	<string name="bookmarks_search">דפדפן</string>
@@ -97,8 +101,12 @@
 	<string name="choosertitle_sharevia">שתף באמצעות</string>
 	<string name="clear">נקה</string>
 	<string name="clear_history">נקה היסטוריה</string>
+	<string name="clear_history_group">Clear history</string>
+	<string name="clip_dialog_title">Open copied link?</string>
+	<string name="close_all_tab_alert_message">Are you sure you want to close all tabs?</string>
+	<string name="close_all_tab_alert_title">Close all Tabs</string>
 	<string name="containing_folder">הוסף ל</string>
-	<string name="contextheader_folder_bookmarkcount">%d סימניות</string>
+	<string name="contextheader_folder_bookmarkcount" formatted="false">%d סימניות</string>
 	<string name="contextheader_folder_empty">תיקייה ריקה</string>
 	<string name="contextmenu_add_contact">הוסף איש קשר</string>
 	<string name="contextmenu_copy">העתק</string>
@@ -121,12 +129,14 @@
 	<string name="current_page">מאת </string>
 	<string name="defaultBookmarksUpButton">סימניות</string>
 	<string name="delete">מחק</string>
-	<string name="delete_bookmark_warning">מחק את הסימנייה  \"%s\"?</string>
+	<string name="delete_bookmark_warning" formatted="false">מחק את הסימנייה  \"%s\"?</string>
 	<string name="delete_folder">מחק את התיקייה</string>
 	<string name="delete_multi_bookmarks_alert_title">האם אתה בטוח שברצונך למחוק %1$s פריטים?</string>
 	<string name="disable_autofill">בטל מילוי אוטומטי</string>
 	<string name="do_not_save">ביטול</string>
-	<string name="download_no_sdcard_dlg_msg">אחסון USB נדרש להורדה %s.</string>
+	<string name="download_complete">Download completed</string>
+	<string name="download_failed">Download failed</string>
+	<string name="download_no_sdcard_dlg_msg" formatted="false">אחסון USB נדרש להורדה %s.</string>
 	<string name="download_no_sdcard_dlg_title">אחסון USB אינו זמין</string>
 	<string name="download_pending">מתחיל להוריד ...</string>
 	<string name="download_sdcard_busy_dlg_msg">אחסון USB לא זמין. כדי לאפשר הורדות, לחץ על כיבוי אחסון USB בהודעה.</string>
@@ -152,13 +162,18 @@
 	<string name="export_bookmark_failure">נכשל יצוא סימניות לכרטיס SD!</string>
 	<string name="export_bookmark_sucess">סימניות יוצאו בהצלחה לכרטיס SD!</string>
 	<string name="exported_bookmark_file_name">המועדפים שלי</string>
+	<string name="file_dir">Folder</string>
+	<string name="file_name">Filename</string>
+	<string name="file_picker">Choose Path</string>
 	<string name="file_picker_new_folder">תיקייה חדשה</string>
 	<string name="file_picker_sdcard_not_found">כרטיס SD לא מזוהה, בבקשה לבדוק אם המכשיר מותקן או בשימוש</string>
+	<string name="filename_empty_alert_message">"Filename can't be empty"</string>
+	<string name="filename_illegal_alert_message">Filename contains illegal characters, file has been automatically removed.</string>
 	<string name="find_on_page">Find on page</string>
 	<string name="folder_name">שם התיקייה</string>
 	<string name="forward">הבא</string>
 	<string name="geolocation_permissions_prompt_dont_share">דחה</string>
-	<string name="geolocation_permissions_prompt_message">%s רוצה לדעת את המיקום שלך</string>
+	<string name="geolocation_permissions_prompt_message" formatted="false">%s רוצה לדעת את המיקום שלך</string>
 	<string name="geolocation_permissions_prompt_remember">זכור את ההעדפות</string>
 	<string name="geolocation_permissions_prompt_share">שתף מיקום </string>
 	<string name="geolocation_permissions_prompt_toast_allowed">אתר זה יכול לגשת למיקומך. שינוה זאת בהגדרות&gt; מתקדם&gt; מסך אתר.</string>
@@ -174,6 +189,10 @@
 	<string name="goto_dot">המשך</string>
 	<string name="have_sent_bookmark_to_home_screen">Bookmark sent to home screen</string>
 	<string name="history">היסטוריה</string>
+	<string name="history_browsed">Browsing history</string>
+	<string name="history_most_visited">Most visited</string>
+	<string name="history_saved_webpage">Save web page</string>
+	<string name="history_track">History</string>
 	<string name="homepage_base">http://www.google.com/webhp?client={CID}</string>
 	<string name="homepage_set">דף הבית מוגדר.</string>
 	<string name="http">http://</string>
@@ -181,11 +200,11 @@
 	<string name="import_bookmark_failure">סימניות נכשלו לייבא!</string>
 	<string name="import_bookmark_sucess">סימניות יובאו בהצלחה</string>
 	<string name="import_bookmarks_dialog_add">הוספת סימניות לחשבון גוגל</string>
-	<string name="import_bookmarks_dialog_confirm_add">הוסף סימניות למכשיר זה והתחל בסינכרון סימניות עם %s?</string>
-	<string name="import_bookmarks_dialog_confirm_delete">מחק את הסימניות למכשיר זה ולהתחלל בסינכרון סימניות עם %s?</string>
+	<string name="import_bookmarks_dialog_confirm_add" formatted="false">הוסף סימניות למכשיר זה והתחל בסינכרון סימניות עם %s?</string>
+	<string name="import_bookmarks_dialog_confirm_delete" formatted="false">מחק את הסימניות למכשיר זה ולהתחלל בסינכרון סימניות עם %s?</string>
 	<string name="import_bookmarks_dialog_delete_select_account">מחק את הסימניות למכשיר זה ולהתחלל בסינכרון עם חשבון גוגל</string>
 	<string name="import_bookmarks_dialog_description">סימניות במכשיר זה עדיין לא משויכות לחשבון Google. שמור את הסימניות האלה על ידי הוספתן לחשבון. מחק את הסימניות אם אתה לא רוצה לסנכרן אותם.</string>
-	<string name="import_bookmarks_dialog_import">הוסף סימניות אנדרואיד לסימניות בשביל %s</string>
+	<string name="import_bookmarks_dialog_import" formatted="false">הוסף סימניות אנדרואיד לסימניות בשביל %s</string>
 	<string name="import_bookmarks_dialog_remove">מחק את הסימניות</string>
 	<string name="import_bookmarks_dialog_select_add_account">הוסף סימניות למכשיר זה והתחל בסינכרון עם חשבון גוגל</string>
 	<string name="import_bookmarks_dialog_title">סנכרן עם חשבון גוגל</string>
@@ -194,6 +213,7 @@
 	<string name="import_bookmarks_wizard_next">הבא</string>
 	<string name="import_bookmarks_wizard_previous">הקודם</string>
 	<string name="importing_favorite_files">יבוא נתונים ...</string>
+	<string name="in_incognito">Incognito mode is active, no browser history will be left.</string>
 	<string name="instant_search_label">גוגל מיידי (מעבדות)</string>
 	<string name="is_first_history_item">זהו פריט ההיסטוריה הראשון</string>
 	<string name="is_first_tab">זוהי הכרטיסייה הראשונה</string>
@@ -201,8 +221,7 @@
 	<string name="is_last_tab">זוהי הכרטיסייה האחרונה</string>
 	<string name="is_page_bottom">בתחתית הדף</string>
 	<string name="is_page_top">בחלק העליון של הדף כבר</string>
-	<string name="js_engine_flags">Set JS flags
-	</string>
+	<string name="js_engine_flags">Set JS flags</string>
 	<string name="loadSuspended">הדפדפן לא יכול לטעון דף זה משום שאין חיבור לאינטרנט.</string>
 	<string name="loadSuspendedTitle">אין חיבור</string>
 	<string name="loading_video">טוען וידאו ...</string>
@@ -219,15 +238,22 @@
 	<string name="move_to_up_folder">עד רמה</string>
 	<string name="multi_select_title">פריט(ים) %1$s שנבחרו</string>
 	<string name="name">תווית</string>
+	<string name="navigation_button_close">Close</string>
+	<string name="navigation_button_newtab">New</string>
+	<string name="navigation_button_tab">Tab</string>
+	<string name="navigation_button_view">View</string>
 	<string name="new_folder">תיקייה חדשה</string>
 	<string name="new_incognito_tab">כרטיסייה חדשה בעילום שם </string>
 	<string name="new_tab">כרטיסיה חדשה</string>
 	<string name="no_subfolders">אין תיקיות משנה.</string>
 	<string name="not_remind_again">אל תזכיר לי יותר</string>
+	<string name="notif_install_successful">Download successful</string>
 	<string name="ok">אישור</string>
 	<string name="open_all_bookmarks">פתח הכל</string>
 	<string name="open_all_in_new_window">פתח הכל בלשוניות חדשות</string>
 	<string name="open_bookmark">פתח</string>
+	<string name="open_history_group_in_new_window">Open all history items in a new window</string>
+	<string name="open_history_most_visited_group_in_new_window">Open all most visited web pages</string>
 	<string name="other_bookmarks">Other Bookmarks</string>
 	<string name="page_info">פרטי דף</string>
 	<string name="page_info_address">כתובת:</string>
@@ -243,7 +269,7 @@
 	<string name="pref_autofill_enabled_summary">מלא טפסי אינטרנט בנגיעה אחת</string>
 	<string name="pref_autofill_profile_editor">מילוי אוטומטי של טקסט</string>
 	<string name="pref_autofill_profile_editor_summary">הגדר מילוי אוטומטי של טקסט בטפסי אינטרנט</string>
-	<string name="pref_autologin_progress">כניסה לאתרי גוגל באמצעות %s</string>
+	<string name="pref_autologin_progress" formatted="false">כניסה לאתרי גוגל באמצעות %s</string>
 	<string name="pref_autologin_title">כניסה אוטומטית לגוגל</string>
 	<string name="pref_clear_cache_for_exit">נקה זיכרון מטמון בכל יציאה</string>
 	<string name="pref_clear_history_for_exit">נקה היסטוריה בכל יציאה</string>
@@ -261,12 +287,14 @@
 	<string name="pref_content_open_in_background">פועל ברקע</string>
 	<string name="pref_content_open_in_background_summary">פתח כרטיסיות חדשות מאחורי הכרטיסייה הנוכחית</string>
 	<string name="pref_content_plugins">הפעל plug-ins</string>
+	<string name="pref_content_preload_title">Preload content</string>
 	<string name="pref_content_search_engine">הגדר את מנוע חיפוש</string>
 	<string name="pref_content_search_engine_summary">בחר מנוע חיפוש</string>
 	<string name="pref_content_title">תכולת הדף:</string>
 	<string name="pref_data_preload_dialogtitle">טוען תוצאת החיפוש </string>
 	<string name="pref_data_preload_summary">אפשר לדפדפן לטעון תוצאות חיפוש עם אמינות גבוהה ברקע</string>
 	<string name="pref_data_preload_title">טוען תוצאת החיפוש </string>
+	<string name="pref_data_preload_value_never_summary">Do not allow browser to open sensitive results in background</string>
 	<string name="pref_data_title">ניהול רוחב פס</string>
 	<string name="pref_default_text_encoding">קידוד טקסט</string>
 	<string name="pref_default_text_encoding_default">Latin-1</string>
@@ -279,8 +307,7 @@
 	<string name="pref_development_error_console">הצג קונסולת JavaScript </string>
 	<string name="pref_development_hardware_accel">Enable OpenGL Rendering</string>
 	<string name="pref_development_hardware_accel_skia">Enable HW Accelerated Skia</string>
-	<string name="pref_development_nav_dump">Enable nav cache dump
-	</string>
+	<string name="pref_development_nav_dump">Enable nav cache dump</string>
 	<string name="pref_development_normal_rendering">עיבוד רגיל</string>
 	<string name="pref_development_reset_prelogin">איפוס prelogin</string>
 	<string name="pref_development_single_column_rendering">עיבוד טור בודד</string>
@@ -299,6 +326,7 @@
 	<string name="pref_extras_website_settings">הגדרות אתר</string>
 	<string name="pref_extras_website_settings_summary">הגדרות מתקדמות לאתרים בודדים</string>
 	<string name="pref_fling_on_border_enabled">פלינג בגבול</string>
+	<string name="pref_fling_on_border_enabled_title_summary">Slide from border of screen</string>
 	<string name="pref_fling_on_border_operation">פעולה לפלינג בגבול</string>
 	<string name="pref_font_size_category">גודל טקסט</string>
 	<string name="pref_force_userscalable">אפשר להכריח זום</string>
@@ -309,6 +337,13 @@
 	<string name="pref_general_sync_title">סנכרון</string>
 	<string name="pref_general_title">כללי</string>
 	<string name="pref_gesture_title">פעולות מחווה</string>
+	<string name="pref_image_display_control">Image display control</string>
+	<string name="pref_images_preload_dialogtitle">Images preloading...</string>
+	<string name="pref_images_preload_summary">" Allow browser to preload images when supported by server"</string>
+	<string name="pref_images_preload_title">Image preloading</string>
+	<string name="pref_images_preload_value_always_summary">Always Allow browser to preload images when supported by server</string>
+	<string name="pref_images_preload_value_never_summary">Never Allow browser to preload images</string>
+	<string name="pref_images_preload_value_wifi_only_summary">Preload images using Wi-Fi only</string>
 	<string name="pref_inverted">Inverted rendering</string>
 	<string name="pref_inverted_category">עיבוד מסך הפוך</string>
 	<string name="pref_inverted_contrast">ניגודיות</string>
@@ -323,8 +358,9 @@
 	<string name="pref_link_prefetch_dialogtitle">Web page preloading</string>
 	<string name="pref_link_prefetch_summary">Allow browser to preload linked web pages in the background</string>
 	<string name="pref_link_prefetch_title">Web page preloading</string>
+	<string name="pref_link_prefetch_value_never_summary">Never Allow browser to preload linked web pages in the background</string>
 	<string name="pref_min_font_size">גודל גופן מינימלי</string>
-	<string name="pref_min_font_size_value">d% pt </string>
+	<string name="pref_min_font_size_value" formatted="false">d% pt </string>
 	<string name="pref_privacy_clear_cache">נקה קבצים שמורים</string>
 	<string name="pref_privacy_clear_cache_dlg">מחק את התוכן ומסדי נתונים באופן מקומי במטמון?</string>
 	<string name="pref_privacy_clear_cache_summary">נקה את התוכן ומסדי נתונים באופן מקומי במטמון</string>
@@ -338,6 +374,7 @@
 	<string name="pref_privacy_clear_geolocation_access_dlg">נקה גישה למיקום אתר?</string>
 	<string name="pref_privacy_clear_geolocation_access_summary">נקה גישת מיקום לכל אתרי האינטרנט</string>
 	<string name="pref_privacy_clear_history">נקה היסטוריה</string>
+	<string name="pref_privacy_clear_history_by_group_dlg">Are you sure you want to clear your browsing history?</string>
 	<string name="pref_privacy_clear_history_dlg">מחק את היסטוריית הניווט של הדפדפן?</string>
 	<string name="pref_privacy_clear_history_summary">נקה את היסטוריית הניווט בדפים</string>
 	<string name="pref_privacy_clear_passwords">נקה סיסמאות</string>
@@ -372,14 +409,13 @@
 	<string name="pref_video_preload_dialogtitle">Video preloading...</string>
 	<string name="pref_video_preload_summary">Allow browser to preload video when server supports it</string>
 	<string name="pref_video_preload_title">Video preloading</string>
-	<string name="pref_video_preload_value_always">ALWAYS</string>
-	<string name="pref_video_preload_value_never">NEVER</string>
-	<string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
+	<string name="pref_video_preload_value_never_summary">Never allow browser to preload videos</string>
 	<string name="pref_volume_key_enabled">מקשי עוצמת קול</string>
 	<string name="pref_volume_key_operation">פעולה ללחצני עוצמת קול</string>
 	<string name="pref_zoom_on_double_tap">זום לאחר 2 הקשות</string>
 	<string name="preview">תצוגה מקדימה</string>
 	<string name="progress_dialog_setting_wallpaper">מגדיר טפט...</string>
+	<string name="quicklinks_management">Quick links</string>
 	<string name="readmode_reach_last_page">הגיע לעמוד האחרון</string>
 	<string name="readmodelist_bookmarks_to_show">רשימת קריאה</string>
 	<string name="recover">להתאושש</string>
@@ -396,8 +432,12 @@
 	<string name="return_to_homepage">Return to homepage</string>
 	<string name="rlz_access_point">Y1</string>
 	<string name="save">אישור</string>
+	<string name="save_dialog_title">Save</string>
+	<string name="save_file_already_exist_alert_message">File already exists, would you like to overwrite it?</string>
+	<string name="save_file_already_exist_alert_title">File Exists!</string>
 	<string name="save_to_bookmarks">לשמור לסימניות.</string>
 	<string name="saving_snapshot">Saving…</string>
+	<string name="search_139">Search 139</string>
 	<string name="search_baidu">Baidu</string>
 	<string name="search_bing">בינג</string>
 	<string name="search_button_text">המשך</string>
@@ -432,12 +472,17 @@
 	<string name="ssl_untrusted">אישור זה אינו מרשות מוסמכת</string>
 	<string name="ssl_warnings_header">יש בעיות עם חתימת האבטחה של האתר הזה.</string>
 	<string name="stop">עצור</string>
+	<string name="stop_loading">Stop</string>
 	<string name="stopping">מפסיק ...</string>
+	<string name="storage_internal">Internal storage</string>
+	<string name="storage_sd_card">SD card</string>
+	<string name="storage_usb">USB storage</string>
 	<string name="tab_bookmarks">סימניות</string>
 	<string name="tab_closed">כרטיסייה סגורה.</string>
 	<string name="tab_history">היסטוריה</string>
 	<string name="tab_most_visited">הנצפים ביותר</string>
 	<string name="tab_opened_background">כרטיסייה נפתחה ברקע.</string>
+	<string name="tab_opened_background_in_incognito">New incognito window opened</string>
 	<string name="tab_quicklinks">קישורים מהירים</string>
 	<string name="tab_snapshots">דפים שמורים</string>
 	<string name="tab_yellowpage">דפי זהב</string>

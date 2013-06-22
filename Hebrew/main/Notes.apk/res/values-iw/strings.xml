@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<string name="add_account_desc">פתקים יכולים להסתנכרן עם חשבון ה Xiaomi שלך. תרצה להתחבר ולסנכרן עכשיו?</string>
+	<string name="alert_action_edit_anyway">Continue editing</string>
 	<string name="alert_edit_action_delete">הסר</string>
 	<string name="alert_edit_action_update">עדכן</string>
 	<string name="alert_message_delete_folders">למחוק את ה %1$s תיקיות שנבחרו?</string>
@@ -8,10 +9,10 @@
 	<string name="alert_message_delete_note">בטוח למחוק?</string>
 	<string name="alert_message_delete_notes">מאשר למחוק את %d ?</string>
 	<string name="alert_message_discard_changes">לבטל את כל השינויים?</string>
-	<string name="alert_message_exceed_image_limit">A maximum of 15 pictures can be attached to a note, make a new note to attach more pictures</string>
+	<string name="alert_message_edit_anyway">הפתק מכיל תוכן שאינו נתמך, עריכתו עלולה לגרום לאובדן נתונים.</string>
 	<string name="alert_title_delete">מחק פתק נבחר</string>
 	<string name="alert_title_discard">לבטל שינויים?</string>
-	<string name="alert_title_exceed_image_limit">עברת את מגבלת התמונה עבור פתק אחד!</string>
+	<string name="alert_title_edit_anyway">אישור עריכת הפתק, זה עלול לגרום לאובדן נתונים, אתה בטוח?</string>
 	<string name="app_name">פתקים</string>
 	<string name="app_widget">פתקים</string>
 	<string name="attachment_camera">מצלמה</string>
@@ -28,6 +29,7 @@
 	<string name="error_note_not_exist">פתק זה לא קיים</string>
 	<string name="error_sdcard_export">יצוא נכשל, אנא בדוק כרטיס זיכרון</string>
 	<string name="error_sdcard_unmounted">כרטיס זיכרון לא זמין כעת</string>
+	<string name="error_unsupport_content">פתק זה מכיל תוכן שאינו נתמך, לחץ כדי לשדרג את המערכת</string>
 	<string name="error_widget_exist_for_send_to_desktop">פתק זה כבר קיים על שולחן העבודה</string>
 	<string name="failed_sdcard_export">היצוא נכשל</string>
 	<string name="file_name_txt_format">notes_%s.txt</string>
@@ -51,9 +53,9 @@
 	<string name="menu_rename_folder">שנה את שם התיקיה</string>
 	<string name="menu_send_to_desktop">צור קיצור דרך</string>
 	<string name="menu_setting">הגדרות</string>
-	<string name="menu_stick">נעץ</string> 
+	<string name="menu_stick">נעץ</string>
 	<string name="menu_title_select_folder">בחר תיקיה</string>
-	<string name="menu_unstick">בטל נעיצה</string> 
+	<string name="menu_unstick">בטל נעיצה</string>
 	<string name="not_now">לא עכשיו</string>
 	<string name="note_alert_expired">פג תוקף</string>
 	<string name="note_link_email">שלח מייל</string>
@@ -67,7 +69,7 @@
 	<string name="notelist_string_info">...</string>
 	<string name="notify_alarm_action_mute">השתק</string>
 	<string name="notify_alarm_action_view">הצג</string>
-	<string name="notify_alarm_title">תזכורת שעון מעורר</string> 
+	<string name="notify_alarm_title">תזכורת שעון מעורר</string>
 	<string name="pref_desc_mode_grid">רשת</string>
 	<string name="pref_desc_mode_list">רשימה</string>
 	<string name="pref_title_data_export">ייצוא נתונים</string>
@@ -85,7 +87,7 @@
 	<string name="success_sdcard_export">היצוא הצליח</string>
 	<string name="time_picker_dialog_title">הגדרת זמן תזכורת</string>
 	<string name="toast_message_add_image_fail">לא ניתן להכניס תמונה!</string>
-	<string name="toast_privacy_mode">לא ניתן לערוך פתק במצב מאובטח</string> 
+	<string name="toast_privacy_mode">לא ניתן לערוך פתק במצב מאובטח</string>
 	<string name="widget_havenot_content">לא נמצא פתק קשור, לחץ ליצירת פתק מקושר</string>
 	<string name="widget_under_visit_mode">מצב פרטי ולא ניתן לראות את תוכן הפתק</string>
 </resources>

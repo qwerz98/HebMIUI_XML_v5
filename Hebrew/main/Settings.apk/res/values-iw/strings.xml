@@ -18,16 +18,31 @@
 	<string name="access_control_recording_intro_header">צייר קו כדי ליצור נעילת סיסמא</string>
 	<string name="access_control_reset_by_account">התחבר לחשבון Xiaomi כדי לאפס את הסיסמה של בקרת הגישה</string>
 	<string name="accessibility_enable">אפשר נגישות</string>
-	<string name="accessibility_long_press_timeout_title">\"עיכוב של גע והחזק\"</string>
+	<string name="accessibility_feature_state_off">Off</string>
+	<string name="accessibility_feature_state_on">On</string>
+	<string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
+Step 1: Press and hold the power button until you hear a sound or feel a vibration.
+
+Step 2: Touch and hold two fingers until you hear audio confirmation.
+
+If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
+	<string name="accessibility_global_gesture_preference_summary_off">Off</string>
+	<string name="accessibility_global_gesture_preference_summary_on">On</string>
+	<string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
+	<string name="accessibility_long_press_timeout_preference_title">Touch </string>
+	<string name="accessibility_long_press_timeout_title">Touch </string>
 	<string name="accessibility_menu_item_settings">הגדרות</string>
 	<string name="accessibility_no_services_installed">אין שירותים מותקנים</string>
+	<string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
 	<string name="accessibility_power_button_ends_call_title">לחצן הכיבוי מסיים שיחה</string>
+	<string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen. While zoomed in, you can:""Pan: Drag two or more fingers across the screen."Adjust zoom level: Pinch two or more fingers together or spread them apart."You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state. Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
+	<string name="accessibility_screen_magnification_title">Magnification gestures</string>
 	<string name="accessibility_script_injection_allowed">מורשה</string>
 	<string name="accessibility_script_injection_button_allow">אפשר</string>
 	<string name="accessibility_script_injection_button_disallow">אל תאפשר</string>
 	<string name="accessibility_script_injection_disallowed">אסור</string>
 	<string name="accessibility_script_injection_security_warning_summary">האם ברצונך שהיישומים יתקינו סקריפטים מ-Google שהופכים את תוכן האינטרנט שלהם לנגיש יותר?</string>
-	<string name="accessibility_script_injection_title">להתקין סקריפטים של אינטרנט</string>
+	<string name="accessibility_script_injection_title">Enhance web accessibility</string>
 	<string name="accessibility_service_default_description">לא סופק תיאור.</string>
 	<string name="accessibility_service_disable_warning_summary">\"נגיעה באישור תפסיק את %1$s.\"</string>
 	<string name="accessibility_service_disable_warning_title">להפסיק את %1$s?</string>
@@ -45,12 +60,19 @@
 	<string name="accessibility_sync_enabled">הסינכרון מופעל</string>
 	<string name="accessibility_sync_error">שגיאת סינכרון</string>
 	<string name="accessibility_system_title">מערכת</string>
-	<string name="accessibility_toggle_large_text_title">טקסט גדול</string>
+	<string name="accessibility_toggle_large_text_preference_title">Large text</string>
+	<string name="accessibility_toggle_large_text_title">Large text</string>
+	<string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update screen magnification on app transitions</string>
+	<string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update screen magnification</string>
+	<string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
+	<string name="accessibility_toggle_script_injection_preference_title">Enhance web accessibility</string>
+	<string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
 	<string name="account_settings">חשבונות</string>
 	<string name="account_sync_settings_title">הגדרות סנכרון</string>
 	<string name="activating">הפעלה ...</string>
 	<string name="active_device_admin_msg">מנהל מכשיר</string>
 	<string name="active_input_method_subtypes">שיטות קלט פעילות</string>
+	<string name="activity_not_found">Application is not installed on your phone.</string>
 	<string name="activity_picker_label">בחר פעילות</string>
 	<string name="adb_warning_message">ניקוי באגים באמצעות USB מיועד למטרות פיתוח בלבד. השתמש בו להעתקת נתונים בין המחשב והמכשיר שלך, להתקנת יישומים במכשיר ללא התראה ולקריאת נתוני יומן.</string>
 	<string name="adb_warning_title">לאפשר ניקוי באגים של USB?</string>
@@ -65,6 +87,7 @@
 	<string name="airplane_mode">מצב טיסה</string>
 	<string name="alarm_volume_title">התראה</string>
 	<string name="all_volume_title">הגדרות עוצמה</string>
+	<string name="allow">Allow</string>
 	<string name="allow_bind_app_widget_activity_allow_bind">After you create the widget, %1$s can access all data it displays.</string>
 	<string name="allow_bind_app_widget_activity_allow_bind_title">Create widget and allow access?</string>
 	<string name="allow_bind_app_widget_activity_always_allow_bind">Always allow %1$s to create widgets and access their data</string>
@@ -77,6 +100,7 @@
 	<string name="android_beam_off_summary">כבוי</string>
 	<string name="android_beam_on_summary">מוכן לשדר תוכן יישום באמצעות NFC</string>
 	<string name="android_beam_settings_title">Android Beam</string>
+	<string name="android_beam_witch_label">Enable Android Beam</string>
 	<string name="animator_duration_scale_title">Animator duration scale</string>
 	<string name="apn_apn">APN</string>
 	<string name="apn_auth_type">סוג אימות</string>
@@ -113,9 +137,8 @@
 	<string name="app_factory_reset">הסר התקנה של עדכונים</string>
 	<string name="app_factory_reset_dlg_text">כל העדכונים ליישום מערכת Android זו יוסרו.</string>
 	<string name="app_factory_reset_dlg_title">להסיר את התקנת העדכונים?</string>
-	<string name="app_floating_window_dlg">Allow\"%1$s\" to show popup window</string>
 	<string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app forcibly. Are you sure you want to disable?"</string>
-	<string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires app to restart. Are you sure you want to enable?"</string> 
+	<string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires app to restart. Are you sure you want to enable?"</string>
 	<string name="app_forward_locked">היישום מוגן בפני העתקה.</string>
 	<string name="app_install_location_summary">שנה את מיקום ההתקנה המועדף עבור יישומים חדשים.</string>
 	<string name="app_install_location_title">מיקום התקנה מועדף</string>
@@ -124,6 +147,8 @@
 	<string name="app_not_found_dlg_title"/>
 	<string name="app_notifications_switch_label">Show notifications</string>
 	<string name="app_process_limit_title">מגבלה של תהליך ברקע</string>
+	<string name="app_special_disable_dlg_text">If you disable a built-in app, other apps may misbehave. Your data will also be deleted.</string>
+	<string name="app_special_disable_dlg_title">Delete data and disable app?</string>
 	<string name="application_forbid_auto_startup">Disable%s to startup in background</string>
 	<string name="application_info_label">פרטי יישום</string>
 	<string name="application_item_already_permission">רשאי</string>
@@ -137,6 +162,7 @@
 	<string name="assisted_gps">השתמש ב-Assisted GPS</string>
 	<string name="assisted_gps_disabled">השתמש בשרת כדי לסייע ל-GPS (הסר את הסימון כדי לשפר את ביצועי GPS)</string>
 	<string name="assisted_gps_enabled">השתמש בשרת כדי לסייע ל-GPS (הסר את הסימון כדי לצמצם את השימוש ברשת)</string>
+	<string name="audio_profile_settings_title">Audio profiles</string>
 	<string name="audio_record_proc_title">סינון רעש</string>
 	<string name="auto_caps">הפיכת אותיות לרישיות באופן אוטומטי</string>
 	<string name="auto_caps_summary">הפוך את האות הראשונה במשפטים לאות רישית</string>
@@ -156,8 +182,7 @@
 	<string name="automatic_brightness">בהירות אוטומטית</string>
 	<string name="available_size">%s זמין </string>
 	<string name="awake">זמן פעולה של מכשיר</string>
-	<string name="back_long_press">כפתור חזרה</string>
-	<string name="back_long_press_timeout">השהיית זמן</string>
+	<string name="back_key">Back key</string>
 	<string name="background_data">נתוני רקע</string>
 	<string name="background_data_dialog_message">השבתה של נתוני הרקע מאריכה את חיי הסוללה ומצמצמת את השימוש בנתונים. ייתכן שיישומים מסוימים עדיין ישתמשו בחיבור נתוני הרקע.</string>
 	<string name="background_data_dialog_title">להשבית נתוני רקע?</string>
@@ -190,6 +215,7 @@
 	<string name="battery_desc_display">צריכת סוללה של התצוגה והתאורה האחורית</string>
 	<string name="battery_desc_radio">צריכת סוללה של רדיו סלולרי</string>
 	<string name="battery_desc_standby">צריכת סוללה כאשר הטלפון במצב לא פעיל</string>
+	<string name="battery_desc_users">Battery used by user</string>
 	<string name="battery_desc_voice">צריכת סוללה של שיחות קוליות</string>
 	<string name="battery_desc_wifi">צריכת סוללה של Wi-Fi</string>
 	<string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
@@ -215,12 +241,14 @@
 	<string name="battery_info_power_unknown">לא ידוע</string>
 	<string name="battery_info_power_unplugged">מנותק</string>
 	<string name="battery_info_power_usb">USB</string>
+	<string name="battery_info_power_wireless">wireless</string>
 	<string name="battery_info_scale_label">דירוג סוללה:</string>
 	<string name="battery_info_screen_on">זמן פעולת המסך:</string>
 	<string name="battery_info_status_charging">טוען</string>
 	<string name="battery_info_status_charging_ac">(AC)</string>
 	<string name="battery_info_status_charging_usb">(USB)</string>
-	<string name="battery_info_status_discharging">פריקה</string>
+	<string name="battery_info_status_charging_wireless">(wireless)</string>
+	<string name="battery_info_status_discharging">Not charging</string>
 	<string name="battery_info_status_full">מלא</string>
 	<string name="battery_info_status_label">מצב סוללה:</string>
 	<string name="battery_info_status_not_charging">לא טוען</string>
@@ -385,7 +413,6 @@
 	<string name="bluetooth_profile_dun">Dial-up Network Access</string>
 	<string name="bluetooth_profile_headset">אודיו של טלפון</string>
 	<string name="bluetooth_profile_hid">מכשיר קלט</string>
-	<string name="bluetooth_profile_name">%1$s טלפון של MIUI</string>
 	<string name="bluetooth_profile_opp">העברת קבצים</string>
 	<string name="bluetooth_profile_pan">גישה לאינטרנט</string>
 	<string name="bluetooth_profile_pan_nap">שיתוף חיבור לאינטרנט</string>
@@ -431,6 +458,10 @@
 	<string name="brightness_auto_adjust_on">Auto brightness effect can be adjusted by moving slider. Screen brightness effect will vary with your adjustment and surroundings.</string>
 	<string name="brightness_summary">התאם את הבהירות של המסך</string>
 	<string name="bssid_label">BSSID:</string>
+	<string name="bugreport_in_power">Power menu bug reports</string>
+	<string name="bugreport_in_power_summary">Include option in power menu for taking a bug report</string>
+	<string name="bugreport_tool_log_toast">Log saved to %s</string>
+	<string name="bugreport_tool_log_toast_generate_bugreport">Generating bug report, takes about 1 minute</string>
 	<string name="build_number">מספר Build</string>
 	<string name="builtin_keyboard_settings_summary">הגדרות מקלדת פיזית</string>
 	<string name="builtin_keyboard_settings_title">מקלדת פיזית</string>
@@ -453,7 +484,7 @@
 	<string name="camera_key_action_title">כפתור MI</string>
 	<string name="camera_key_action_toggle_title">הפעל מתג</string>
 	<string name="cancel">ביטול</string>
-	<string name="cancel_alert">ביטול התראה?</string> 
+	<string name="cancel_alert">ביטול התראה?</string>
 	<string name="cant_sync_dialog_message">אפשרות הסנכרון עבור פריט זה מושבתת כרגע. כדי לשנות את ההגדרה, הפעל באופן זמני את נתוני הרקע והסנכרון האוטומטי.</string>
 	<string name="cant_sync_dialog_title">לא ניתן לסנכרן באופן ידני</string>
 	<string name="carrier_enabled">להפעיל / להשבית APN </string>
@@ -579,7 +610,8 @@
 	<string name="data_usage_metered_wifi_disabled">To select mobile hotspots, turn Wi-Fi on.</string>
 	<string name="data_usage_pick_cycle_day">היום בחודש שבו יש לאפס את מחזור השימוש בנתונים:</string>
 	<string name="data_usage_received_sent">%1$s התקבלו, %2$s נשלחו</string>
-	<string name="data_usage_restrict_background">אם תגביל נתונים ניידים ברקע, יישומים ושירותים מסוימים לא יפעלו, אלא אם קיים חיבור Wi-Fi.</string>
+	<string name="data_usage_restrict_background">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network."</string>
+	<string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network. This setting affects all users on this phone."</string>
 	<string name="data_usage_restrict_background_title">להגביל נתוני רקע?</string>
 	<string name="data_usage_restrict_denied_dialog">הגבלת נתוני הרקע אפשרית רק אם הגדרת מגבלת נתונים לנייד.</string>
 	<string name="data_usage_summary_title">שימוש בנתונים</string>
@@ -593,6 +625,7 @@
 	<string name="data_usage_total_during_range">%2$s: about %1$s used</string>
 	<string name="data_usage_total_during_range_mobile">"%2$s: about %1$s used, as measured by your phone. Your carrier's data usage accounting may differ."</string>
 	<string name="data_usage_uninstalled_apps">יישומים שהוסרו</string>
+	<string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
 	<string name="data_usage_warning_editor_title">הגדר אזהרת שימוש בנתונים</string>
 	<string name="date_and_time">הגדרות תאריך ושעה</string>
 	<string name="date_and_time_settings_summary">הגדרת תאריך, שעה, אזור זמן ופורמטים</string>
@@ -626,6 +659,7 @@
 	<string name="default_input_method">בחר שיטת קלט ברירת מחדל</string>
 	<string name="default_usb_mode">סוג חיבור USB כברירת מחדל</string>
 	<string name="delete">מחק</string>
+	<string name="deny">Deny</string>
 	<string name="details_subtitle">פרטי שימוש</string>
 	<string name="details_title">פרטי שימוש</string>
 	<string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
@@ -643,7 +677,6 @@
 	<string name="device_cpu">מעבד</string>
 	<string name="device_cpu2_info">ליבה כפולה </string>
 	<string name="device_cpu4_info">ארבע ליבות </string>
-	<string name="device_default_name">Xiaomi מכשיר</string>
 	<string name="device_edit_title">שנה את שם המכשיר</string>
 	<string name="device_info_default">לא ידוע</string>
 	<string name="device_info_label">מידע על המכשיר</string>
@@ -662,6 +695,9 @@
 	<string name="device_status_summary">מצב סוללה, אחוז סוללה, וכו </string>
 	<string name="dialog_title_font_size">גודל גופן</string>
 	<string name="dirac_control">Dirac Control</string>
+	<string name="dirac_mode_earbuds">Earbuds</string>
+	<string name="dirac_mode_earphones">Earphones</string>
+	<string name="dirac_mode_off">Dirac Off</string>
 	<string name="disableNetwork">בטל רשת</string>
 	<string name="disable_overlays">Disable HW overlays</string>
 	<string name="disable_overlays_summary">Always use GPU for screen compositing</string>
@@ -753,10 +789,9 @@
 	<string name="enableNetwork">אפשר רשת</string>
 	<string name="enable_adb">ניקוי באגים ב-USB</string>
 	<string name="enable_adb_summary">מצב תיקון באגים כאשר USB מחובר</string>
-	<string name="enable_assist_key_long_press">לחיצה ארוכה על התפריט להפעלת סיוע קולי</string>
-	<string name="enable_back_long_press">לחיצה ארוכה חזרה לסגירת יישום</string>
 	<string name="enable_compatibility">שנה קנה מידה של יישום</string>
 	<string name="enable_drive_mode">Enable Drive mode</string>
+	<string name="enable_opengl_traces_title">Enable OpenGL traces</string>
 	<string name="enable_snapshot_screenlock">לחיצה ארוכה חזרה להפעלת צילום תמונה במסך נעילה</string>
 	<string name="enable_text">אפשר</string>
 	<string name="enable_traces_dialog_title">Select enabled traces</string>
@@ -764,6 +799,7 @@
 	<string name="enable_traces_summary_none">No traces currently enabled</string>
 	<string name="enable_traces_summary_num">%1$d traces currently enabled</string>
 	<string name="enable_traces_title">Enable traces</string>
+	<string name="enable_wifi_display">Enable Wireless display</string>
 	<string name="enforce_read_external_confirm_message">"When USB storage is protected, apps must request permission to read data from external storage.
 
 Some apps may not work until updated by their developers."</string>
@@ -802,7 +838,7 @@ Some apps may not work until updated by their developers."</string>
 	<string name="finish_button_label">סיום</string>
 	<string name="firmware_version">גרסת אנדרואיד</string>
 	<string name="floating_window_switch_label">הצג חלון קופץ</string>
-	<string name="floating_window_switch_label_disable">הסתר חלון קובץ</string> 
+	<string name="floating_window_switch_label_disable">הסתר חלון קובץ</string>
 	<string name="font_size_huge">ענק</string>
 	<string name="font_size_large">גדול</string>
 	<string name="font_size_medium">בינוני</string>
@@ -814,19 +850,38 @@ Some apps may not work until updated by their developers."</string>
 	<string name="font_size_summary">התאם את גודל הגופן או את אופן הפריסה של יישומים, כגון; טלפון, הודעות, אנשי קשר וכו , כדי להגביר את הקריאה והשימושיות.</string>
 	<string name="force_hw_ui">אלץ עיבוד GPU</string>
 	<string name="force_hw_ui_summary">השתמש בהאצת חומרת 2D ביישומים</string>
+	<string name="force_msaa">Force 4x MSAA</string>
+	<string name="force_msaa_summary">Enable 4x MSAA in OpenGL ES 2.0 apps</string>
 	<string name="force_stop">אלץ עצירה</string>
 	<string name="force_stop_dlg_text">אם אתה מאלץ עצירה של יישום, ייתכן שהוא לא יפעל כהלכה.</string>
 	<string name="force_stop_dlg_title">לאלץ עצירה?</string>
 	<string name="forget_wifi_message">שכח רשת Wi-Fi זו? ייתכן שתצטרך להזין מחדש את הסיסמה בעת התחברות מחדש</string>
 	<string name="frequently_fragment_delete">מחק</string>
 	<string name="frequently_fragment_tempty">פריטים המשמשים לעתים קרובות יהיו רשומים כאן</string>
+	<string name="gadget_bluetooth">Bluetooth</string>
+	<string name="gadget_brightness_state_auto">auto</string>
+	<string name="gadget_brightness_state_full">full</string>
+	<string name="gadget_brightness_state_half">half</string>
+	<string name="gadget_brightness_state_off">off</string>
+	<string name="gadget_brightness_template">Brightness %1$s</string>
+	<string name="gadget_gps">GPS</string>
 	<string name="gadget_picker_title">בחר גאדגט</string>
+	<string name="gadget_state_off">off</string>
+	<string name="gadget_state_on">on</string>
+	<string name="gadget_state_template">%1$s %2$s</string>
+	<string name="gadget_state_turning_off">turning off</string>
+	<string name="gadget_state_turning_on">turning on</string>
+	<string name="gadget_sync">Sync</string>
 	<string name="gadget_title">בקרת צריכת חשמל</string>
 	<string name="gadget_toggle_bluetooth">הגדרת עדכון Bluetooth</string>
 	<string name="gadget_toggle_wifi">מעדכן הגדרת Wi-Fi</string>
+	<string name="gadget_wifi">Wi-Fi</string>
 	<string name="game_controller_settings_category">Game Controller</string>
 	<string name="getConfiguredNetworks">השג הגדרות רשת</string>
 	<string name="getConnectionInfo">השג נתוני חיבור</string>
+	<string name="global_change_warning">This setting affects all users on this phone.</string>
+	<string name="global_font_change_title">Change font size</string>
+	<string name="global_locale_change_title">Change language</string>
 	<string name="haptic_feedback_enable_title">רטט בעת מגע</string>
 	<string name="haptic_feedback_level">רמת רטט</string>
 	<string name="hardkeyboard_category">הגדרות מקלדת פיזית</string>
@@ -849,14 +904,19 @@ Some apps may not work until updated by their developers."</string>
 	<string name="help_url_bluetooth"/>
 	<string name="help_url_choose_lockscreen"/>
 	<string name="help_url_data_usage"/>
+	<string name="help_url_dreams"/>
+	<string name="help_url_location_access"/>
 	<string name="help_url_more_networks"/>
+	<string name="help_url_security"/>
 	<string name="help_url_sound"/>
 	<string name="help_url_tether"/>
+	<string name="help_url_users"/>
 	<string name="help_url_vpn"/>
 	<string name="help_url_wifi"/>
 	<string name="hidden_ssid_label">Hidden SSID:
 	</string>
 	<string name="history_details_title">פרטי היסטוריה</string>
+	<string name="home_key">Home key</string>
 	<string name="ime_security_warning">ייתכן ששיטת קלט זו תוכל לאסוף את כל הטקסט שאתה מקליד, כולל נתונים אישיים כגון סיסמאות ומספרי כרטיס אשראי. היא מגיעה מהיישום %1$s. האם להשתמש בשיטת קלט זו?</string>
 	<string name="immediately_destroy_activities">אל תשמור פעילויות</string>
 	<string name="immediately_destroy_activities_summary">השמד כל פעילות ברגע שהמשתמש עוזב אותה</string>
@@ -881,6 +941,7 @@ Some apps may not work until updated by their developers."</string>
 	<string name="input_settings">הגדרות קלט</string>
 	<string name="install_all_warning">הטלפון והנתונים האישיים שלך חשופים יותר בפני התקפות של יישומים ממקורות לא ידועים. אתה מסכים לכך שאתה האחראי הבלעדי לכל נזק שנגרם לטלפון או לאובדן של נתונים שעשויים להיגרם כתוצאה משימוש ביישומים אלה.</string>
 	<string name="install_applications">מקורות לא ידועים</string>
+	<string name="install_text">Install</string>
 	<string name="install_unknown_applications">אפשר התקנה של יישומים שאינם יישומי מרקט</string>
 	<string name="insufficient_storage">אין מספיק שטח אחסון.</string>
 	<string name="intent_sender_account_label">חשבון:</string>
@@ -938,11 +999,14 @@ Some apps may not work until updated by their developers."</string>
 	<string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
 	<string name="local_backup_password_toast_success">New backup password set</string>
 	<string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
+	<string name="location_access_summary">Let apps that have asked your permission use your location information</string>
+	<string name="location_access_title">Access to my location</string>
 	<string name="location_gps">לווייני GPS</string>
 	<string name="location_neighborhood_level">אפשר ליישומים להשתמש בנתונים ממקורות כגון רשתות Wi-Fi ורשתות סלולריות כדי לקבוע את המיקום המשוער שלך</string>
 	<string name="location_neighborhood_level_wifi">מיקום נקבע על ידי Wi-Fi</string>
 	<string name="location_network_based">שירות המיקום של גוגל</string>
 	<string name="location_settings_title">שירותי מיקום</string>
+	<string name="location_sources_heading">Location sources</string>
 	<string name="location_street_level">אפשר ליישומים להשתמש ב-GPS כדי לאתר את המיקום שלך</string>
 	<string name="location_title">המיקום שלי</string>
 	<string name="lock_after_timeout">נעילה אוטומטית</string>
@@ -1042,13 +1106,6 @@ Some apps may not work until updated by their developers."</string>
 	<string name="master_clear_personal_data_sdcard">האם אתה בטוח שברצונך למחוק את הנתונים האישיים שלך ולפרמט את כרטיס ה SD? פעולה זו לא ניתנת לביטול</string>
 	<string name="master_clear_summary">מחק את כל הנתונים בטלפון</string>
 	<string name="master_clear_title">אפס לברירת מחדל</string>
-	<string name="mdb_entering">Entering</string>
-	<string name="mdb_restore_cancel">Cancel</string>
-	<string name="mdb_restore_info1">"Will restore your phone's data"</string>
-	<string name="mdb_restore_info2">"Please don't break usb connection"</string>
-	<string name="mdb_restore_label">Mdb Restore</string>
-	<string name="mdb_restore_mode">Restore Mode</string>
-	<string name="mdb_usb_disconnection_exit">USB disconnected, abort restoring</string>
 	<string name="media_button">כפתור מדיה </string>
 	<string name="media_format_button_text">מחק כרטיס SD</string>
 	<string name="media_format_desc">למחוק את כרטיס ה SD? אתה תאבד </string>
@@ -1064,9 +1121,13 @@ Some apps may not work until updated by their developers."</string>
 	<string name="memory">זכרון RAM</string>
 	<string name="memory_apps_usage">יישומים</string>
 	<string name="memory_available">זמין</string>
+	<string name="memory_available_read_only">Available (read-only)</string>
 	<string name="memory_calculating_size">מחשב...</string>
+	<string name="memory_clear_cache_message">This will clear cached data for all apps.</string>
+	<string name="memory_clear_cache_title">Clear cached data?</string>
 	<string name="memory_dcim_usage">תמונות, קטעי וידאו</string>
 	<string name="memory_downloads_usage">הורדות</string>
+	<string name="memory_media_cache_usage">Cached data</string>
 	<string name="memory_media_misc_usage">שונות</string>
 	<string name="memory_media_usage">מדיה</string>
 	<string name="memory_music_usage">אודיו (מוסיקה, רינגטונים, פודקאסטים, וכו )</string>
@@ -1084,7 +1145,6 @@ Some apps may not work until updated by their developers."</string>
 	<string name="misc_files">\"קובצי שונות\"</string>
 	<string name="misc_files_selected_count">נבחרו %1$d מתוך %2$d</string>
 	<string name="misc_files_selected_count_bytes">%1$s מתוך %2$s</string>
-	<string name="miui_device_default_name">Android</string>
 	<string name="mms_vibrate_abbreviation">הודעות</string>
 	<string name="model_number">דגם</string>
 	<string name="move_app">העבר</string>
@@ -1149,6 +1209,7 @@ please follow the steps to complete installation"</string>
 	<string name="no_running_services">אף שירות אינו פועל.</string>
 	<string name="no_services">לא פעיל</string>
 	<string name="normal_date_format">אזורי (%s)</string>
+	<string name="not_installed">Not installed</string>
 	<string name="notification_pulse_title">הבזק אור התראה</string>
 	<string name="notification_sound_dialog_title">בחר רינגטון להתראה</string>
 	<string name="notification_sound_title">הודעת ברירת מחדל</string>
@@ -1159,6 +1220,7 @@ please follow the steps to complete installation"</string>
 	<string name="oem_radio_info_label">מידע/הגדרות ספציפיים ל-OEM</string>
 	<string name="onscreen_keyboard_settings_summary">הגדרות מקלדת במסך</string>
 	<string name="other_relative">Other permissions</string>
+	<string name="overlay_display_devices_title">Simulate secondary displays</string>
 	<string name="owner_info_settings_edit_text_hint">הקלד טקסט להצגה בנעילת המסך</string>
 	<string name="owner_info_settings_summary"/>
 	<string name="owner_info_settings_title">פרטי הבעלים</string>
@@ -1276,7 +1338,6 @@ please follow the steps to complete installation"</string>
 	<string name="perm_operating">Operating...</string>
 	<string name="perm_optimize">Optimize</string>
 	<string name="perm_privacy_app_count">%1$d permissions</string>
-	<string name="perm_privacy_app_count_trust_summary">Trust app</string>
 	<string name="perm_privacy_app_finish">Finish</string>
 	<string name="perm_privacy_app_installed">Installation succeeded!</string>
 	<string name="perm_privacy_app_launch">Launch</string>
@@ -1344,7 +1405,6 @@ please follow the steps to complete installation"</string>
 	<string name="power_bluetooth">בלוטוס</string>
 	<string name="power_cell">סלולרי במצב המתנה</string>
 	<string name="power_idle">טלפון לא פעיל</string>
-	<string name="power_key">לחצן הפעלה</string>
 	<string name="power_mode">Power Mode</string>
 	<string name="power_phone">שיחות קוליות</string>
 	<string name="power_screen">מסך</string>
@@ -1357,7 +1417,6 @@ please follow the steps to complete installation"</string>
 	<string name="pref_button_light">אורות מקשים</string>
 	<string name="pref_button_light_summary">תפריט, בית ומחוון כפתור חזרה</string>
 	<string name="pref_operational_key">כפתור תפעולי</string>
-	<string name="pref_volume_category_title">עוצמת קול</string>
 	<string name="pref_volume_wake_summary">לחיצה על עוצמת הקול למעלה / למטה מעיר את המכשיר. מיועד למכשירים עם כפתור הפעלה קשה ללחיצה או שאינו פעיל</string>
 	<string name="pref_volume_wake_title">עוצמת התעוררות</string>
 	<string name="preference_change_password_title">שנה סיסמה</string>
@@ -1441,6 +1500,7 @@ please follow the steps to complete installation"</string>
 	<string name="radio_info_band_mode_label">בחר תדר רדיו</string>
 	<string name="radio_info_call_redirect_label">הפניה מחדש של שיחה:</string>
 	<string name="radio_info_call_status_label">מצב שיחה:</string>
+	<string name="radio_info_cellinfo_label">CellInfo:</string>
 	<string name="radio_info_current_network_label">רשת נוכחית:</string>
 	<string name="radio_info_data_attempts_label">ניסיונות נתונים:</string>
 	<string name="radio_info_data_successes_label">הצלחות נתונים:</string>
@@ -1474,6 +1534,7 @@ please follow the steps to complete installation"</string>
 	<string name="recognizer_settings_title">חיפוש קולי</string>
 	<string name="recognizer_title">מזהה קולי</string>
 	<string name="recompute_size">מחשב מחדש את הגודל…</string>
+	<string name="regulatory_information">Regulatory information</string>
 	<string name="remove_account_failed">\"יישומים מסוימים מחייבים שימוש בחשבון זה. ניתן להסירו רק על ידי איפוס הטלפון לערכי ברירת המחדל של היצרן (פעולה זו מוחקת את כל הנתונים האישיים) בנתיב הגדרות &gt; גיבוי ואיפוס.\"</string>
 	<string name="remove_account_label">הסר חשבון</string>
 	<string name="remove_device_admin">בטל הפעלה</string>
@@ -1495,7 +1556,10 @@ please follow the steps to complete installation"</string>
 	<string name="roaming_reenable_title">שים לב</string>
 	<string name="roaming_turn_it_on_button">הפעל </string>
 	<string name="roaming_warning">אפשר נדידת נתונים? ייתכן שתחויב בדמי נדידה משמעותיים!</string>
+	<string name="roaming_warning_multiuser">"When you allow data roaming, you may incur significant roaming charges! This setting affects all users on this phone."</string>
 	<string name="rssi_label">RSSI:</string>
+	<string name="running_process_item_removed_user_label">Removed user</string>
+	<string name="running_process_item_user_label">User: %1$s</string>
 	<string name="running_processes_item_description_p_p">%1$d תהליכים ו-‏%2$d שירותים</string>
 	<string name="running_processes_item_description_p_s">%1$d תהליכים ושירות %2$d</string>
 	<string name="running_processes_item_description_s_p">תהליך %1$d ו-‏%2$d שירותים</string>
@@ -1507,7 +1571,6 @@ please follow the steps to complete installation"</string>
 	<string name="runningservicedetails_stop_dlg_title">להפסיק שירות מערכת?</string>
 	<string name="runningservices_settings_summary">הצג ושלוט בשירותים הפועלים כעת</string>
 	<string name="runningservices_settings_title">שירותים פועלים</string>
-	<string name="safe_relative">הרשאות בטוחות</string>
 	<string name="scan_list_label">סרוק תוצאות:</string>
 	<string name="screen">מסך</string>
 	<string name="screen_button_custom">התאמה אישית של מיקום מקשי המסך</string>
@@ -1515,6 +1578,9 @@ please follow the steps to complete installation"</string>
 	<string name="screen_color_temperature_adjust">Adjust color temperature</string>
 	<string name="screen_compatibility_label">תאימות מסך</string>
 	<string name="screen_compatibility_text">ייתכן שיישום זה אינו מיועד למסך שלך. תוכל לשלוט באופן שבו הוא מותאם למסך שלך כאן.</string>
+	<string name="screen_key_long_press">Long press screen keys</string>
+	<string name="screen_key_long_press_action">Trigger function</string>
+	<string name="screen_key_long_press_timeout">Long press timeout</string>
 	<string name="screen_on_proximity_sensor_summary">למנוע פונקציות טלפון כאשר הטלפון חופשי בכיס(זיהוי באמצעות חיישן קרבה).</string>
 	<string name="screen_on_proximity_sensor_title">למנוע שימוש לרעה</string>
 	<string name="screen_saturation_adjust">Color saturation adjust</string>
@@ -1523,9 +1589,17 @@ please follow the steps to complete installation"</string>
 	<string name="screen_timeout_title">השהיית מסך</string>
 	<string name="screensaver_activate_on_dock_title">התחל גם כאשר בעגינה</string>
 	<string name="screensaver_component_title">ממתק נבחר</string>
+	<string name="screensaver_settings_button">Settings</string>
+	<string name="screensaver_settings_disabled_prompt">To control what happens when the phone is docked and/or sleeping, turn Daydream on.</string>
+	<string name="screensaver_settings_dream_start">Start now</string>
+	<string name="screensaver_settings_summary_dock">While docked</string>
+	<string name="screensaver_settings_summary_either_long">When docked or asleep and charging</string>
+	<string name="screensaver_settings_summary_either_short">Either</string>
 	<string name="screensaver_settings_summary_off">מנוטרל</string>
 	<string name="screensaver_settings_summary_on">יופעל בעת כניסה למצב שינה אם מחובר לחשמל</string>
+	<string name="screensaver_settings_summary_sleep">While charging</string>
 	<string name="screensaver_settings_title">ממתק מסך</string>
+	<string name="screensaver_settings_when_to_dream">When to daydream</string>
 	<string name="screensaver_test">נסה </string>
 	<string name="screensaver_timeout_summary">לאחר %1$s ללא פעילות</string>
 	<string name="screensaver_timeout_title">מתי להפעיל</string>
@@ -1592,8 +1666,10 @@ please follow the steps to complete installation"</string>
 	<string name="security_passwords_title">סיסמאות</string>
 	<string name="security_privacy_settings_title">אבטחה ופרטיות</string>
 	<string name="security_relative">Security related</string>
+	<string name="security_settings_billing_desc">This app may charge you money:</string>
 	<string name="security_settings_desc">יישום זה יכול לגשת לפריטים הבאים בטלפון:</string>
 	<string name="security_settings_desc_multi">This app can access the following on your phone. In order to improve performance and reduce memory usage, some of these permissions are available to %1$s because it runs in the same process as %2$s:</string>
+	<string name="security_settings_premium_sms_desc">Send premium SMS</string>
 	<string name="security_settings_summary">\"הגדר את המיקום שלי, ביטול נעילת מסך, נעילת כרטיס SIM, נעילת אחסון אישורים\"</string>
 	<string name="security_settings_title">אבטחה</string>
 	<string name="sel_sub_summary">בחר מנוי לSUB-1 וSUB-2</string>
@@ -1602,6 +1678,10 @@ please follow the steps to complete installation"</string>
 	<string name="select_application">בחר יישום</string>
 	<string name="select_device_admin_msg">מנהלי מכשירים</string>
 	<string name="select_subscription">בחר מנוי</string>
+	<string name="selinux_status">SELinux status</string>
+	<string name="selinux_status_disabled">Disabled</string>
+	<string name="selinux_status_enforcing">Enforcing</string>
+	<string name="selinux_status_permissive">Permissive</string>
 	<string name="service_background_processes">%1$s של שטח פנוי</string>
 	<string name="service_client_name">%1$s</string>
 	<string name="service_foreground_processes">%1$s בשימוש</string>
@@ -1636,8 +1716,14 @@ please follow the steps to complete installation"</string>
 	<string name="show_background_processes">הצג תהליכים המאוחסנים בקובץ שמור</string>
 	<string name="show_cpu_usage">הצג שימוש במעבד</string>
 	<string name="show_cpu_usage_summary">שכבת על של מסך מציגה את השימוש הנוכחי במעבד</string>
+	<string name="show_dev_already">No need, you are already a developer.</string>
+	<string name="show_dev_on">You are now a developer!</string>
 	<string name="show_fc">הצג FCS</string>
 	<string name="show_fc_summary">הצג שיח של סגירה בכוח של אפליקציות</string>
+	<string name="show_hw_layers_updates">Show hardware layers updates</string>
+	<string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
+	<string name="show_hw_overdraw">Show GPU overdraw</string>
+	<string name="show_hw_overdraw_summary">From best to worst: blue, green, light red, red</string>
 	<string name="show_hw_screen_updates">Show GPU view updates</string>
 	<string name="show_hw_screen_updates_summary">Flash views inside windows when drawn with the GPU</string>
 	<string name="show_magnifier_when_input">הצג זכוכית מגדלת</string>
@@ -1645,12 +1731,12 @@ please follow the steps to complete installation"</string>
 	<string name="show_password">הפוך את הסיסמאות לגלויות</string>
 	<string name="show_password_summary"/>
 	<string name="show_rounded_corners">הצג פינות מעוגלות</string>
-	<string name="show_rounded_corners_summary">אתחול מחדש נדרש על מנת שיכנס לתוקף</string>
 	<string name="show_running_services">הצג שירותים פועלים</string>
 	<string name="show_screen_updates">הצג עדכוני מסך</string>
 	<string name="show_screen_updates_summary">הבזק אזורים של המסך כאשר הם מעדכנים</string>
 	<string name="show_touches">הצג נגיעות</string>
 	<string name="show_touches_summary">הצג משוב חזותי לנגיעות</string>
+	<string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
 	<string name="silent_mode_title">מצב שקט</string>
 	<string name="sim_absent">לא SIM / RUIM</string>
 	<string name="sim_bad_pin">PIN שגוי</string>
@@ -1672,7 +1758,7 @@ please follow the steps to complete installation"</string>
 	<string name="sim_lock_settings">הגדרות נעילת כרטיס סים</string>
 	<string name="sim_lock_settings_category">הגדר נעילה של כרטיס סים</string>
 	<string name="sim_lock_settings_title">נעילת כרטיס סים</string>
-	<string name="sim_management_title">SIM ניהול</string> 
+	<string name="sim_management_title">SIM ניהול</string>
 	<string name="sim_pin_attempts">ניסיונות שנותרו:</string>
 	<string name="sim_pin_change">שנה PIN של סים</string>
 	<string name="sim_pin_disabled">PIN1 מנוטרל!</string>
@@ -1680,7 +1766,7 @@ please follow the steps to complete installation"</string>
 	<string name="sim_pin_toggle">נעל כרטיס סים</string>
 	<string name="sim_pins_dont_match">קודי ה-PIN אינם תואמים</string>
 	<string name="sim_reenter_new">הקלד שוב את ה-PIN חדש</string>
-	<string name="sim_status_title">SIM מצב</string> 
+	<string name="sim_status_title">SIM מצב</string>
 	<string name="skip_button_label">ביטול</string>
 	<string name="skip_label">דלג</string>
 	<string name="skip_step">דלג על שלב זה</string>
@@ -1716,6 +1802,7 @@ please follow the steps to complete installation"</string>
 	<string name="status_icc_id">ICCID</string>
 	<string name="status_imei">IMEI</string>
 	<string name="status_imei_sv">IMEI SV</string>
+	<string name="status_latest_area_info">Operator info</string>
 	<string name="status_meid_number">MEID</string>
 	<string name="status_min_number">MIN</string>
 	<string name="status_msid_number">MSID</string>
@@ -1736,6 +1823,7 @@ please follow the steps to complete installation"</string>
 	<string name="storage_low_summary">Some system functions, such as syncing, may not work correctly. Try to free space by deleting or unpinning items, such as apps or media content.</string>
 	<string name="storage_low_title">שטח אחסון הולך ואוזל</string>
 	<string name="storage_menu_usb">חיבור למחשב USB</string>
+	<string name="storage_other_users">Other users</string>
 	<string name="storage_settings">אחסון</string>
 	<string name="storage_settings_summary">בטל טעינת כרטיס SD, הצג את שטח האחסון הזמין</string>
 	<string name="storage_settings_title">הגדרות אחסון </string>
@@ -1845,6 +1933,8 @@ please follow the steps to complete installation"</string>
 	<string name="tts_settings_title">פלט טקסט לדיבור</string>
 	<string name="turn_off_radio">כבה רדיו</string>
 	<string name="turn_on_radio">הפעל רדיו</string>
+	<string name="under_keyguard">On lock screen</string>
+	<string name="uninstall_all_users_text">Uninstall for all users</string>
 	<string name="uninstall_text">הסר התקנה</string>
 	<string name="unknown">לא ידוע</string>
 	<string name="unlock_backup_info_summary">\"כשזיהוי פרצוף לא יכול לראות אותך, איך אתה רוצה לבטל את הנעילה?\"</string>
@@ -1923,9 +2013,24 @@ please follow the steps to complete installation"</string>
 	<string name="use_location_summary">אפשר ל-Google להשתמש במיקום שלך כדי לשפר את תוצאות החיפוש ושירותים נוספים</string>
 	<string name="use_location_title">מיקום וחיפוש Google</string>
 	<string name="use_system_language_to_select_input_method_subtypes">השתמש בשפת מערכת</string>
+	<string name="user_account_title">Account for content</string>
 	<string name="user_add_user_menu">הוסף משתמש</string>
+	<string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
+
+After you create a new user, that person needs to go through a setup process.
+
+Any user can accept updated app permissions on behalf of all other users."</string>
+	<string name="user_add_user_message_short">"After you create a new user, that person needs to go through a setup process.
+
+Any user can accept updated app permissions on behalf of all other users."</string>
+	<string name="user_add_user_title">Add new user</string>
+	<string name="user_adding_new_user">Adding new user…</string>
+	<string name="user_cannot_manage_message">"Only the phone's owner can manage users."</string>
 	<string name="user_confirm_remove_message">Are you sure you want to remove the user and all associated data from the device?</string>
+	<string name="user_confirm_remove_self_message">"You will lose your space and data on this phone. You can't undo this action."</string>
+	<string name="user_confirm_remove_self_title">Delete yourself?</string>
 	<string name="user_confirm_remove_title">להסיר משתמש?</string>
+	<string name="user_delete_button">Delete</string>
 	<string name="user_details_title">ערוך פרטים</string>
 	<string name="user_dict_multiple_settings_title">מילונים אישיים</string>
 	<string name="user_dict_settings_add_dialog_confirm">OK</string>
@@ -1947,6 +2052,7 @@ please follow the steps to complete installation"</string>
 	<string name="user_dict_settings_titlebar">מילון משתמש</string>
 	<string name="user_dict_single_settings_title">מילון אישי</string>
 	<string name="user_discard_user_menu">מחק</string>
+	<string name="user_info_settings_title">User info</string>
 	<string name="user_information_heading">מידע משתמש</string>
 	<string name="user_list_title">משתמשים</string>
 	<string name="user_market_apps_heading">יישומים מותקנים</string>
@@ -1954,10 +2060,25 @@ please follow the steps to complete installation"</string>
 	<string name="user_max_content_rating">דירוג תוכן</string>
 	<string name="user_name_title">שם</string>
 	<string name="user_new_user_name">Pesky kid</string>
+	<string name="user_nickname">Nickname</string>
+	<string name="user_owner">Owner</string>
+	<string name="user_picture_title">Photo ID</string>
 	<string name="user_remove_user_menu">הסר משתמש</string>
 	<string name="user_restrictions_heading">Content restrictions</string>
 	<string name="user_settings_title">משתמשים</string>
+	<string name="user_setup_button_setup_later">Not now</string>
+	<string name="user_setup_button_setup_now">Set up now</string>
+	<string name="user_setup_dialog_message">Make sure the person is available to take the tablet and set up their space</string>
+	<string name="user_setup_dialog_title">Set up user now?</string>
+	<string name="user_summary_active">Active</string>
+	<string name="user_summary_inactive">Not active</string>
+	<string name="user_summary_not_set_up">Not set up</string>
 	<string name="user_system_apps_heading">יישומי מערכת</string>
+	<string name="user_you_section">You</string>
+	<string name="verify_applications">Verify apps</string>
+	<string name="verify_applications_summary">Disallow or warn before installation of apps that may cause harm</string>
+	<string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
+	<string name="verify_apps_over_usb_title">Verify apps over USB</string>
 	<string name="version_text">גרסה %1$s</string>
 	<string name="vibrate_category_title">רטט</string>
 	<string name="vibrate_in_normal_title">רטט בנורמלי</string>
@@ -2031,8 +2152,12 @@ please follow the steps to complete installation"</string>
 	<string name="vpn_ipsec_server_cert">אישור של שרת IPSec</string>
 	<string name="vpn_ipsec_user_cert">אישור משתמש IPSec</string>
 	<string name="vpn_l2tp_secret">סוד של L2TP</string>
+	<string name="vpn_lockdown_config_error">Always-on VPN requires an IP address for both server and DNS.</string>
+	<string name="vpn_lockdown_none">None</string>
+	<string name="vpn_lockdown_summary">Select a VPN profile to always remain connected to. Network traffic will only be allowed when connected to this VPN.</string>
 	<string name="vpn_menu_delete">מחק את הרשת</string>
 	<string name="vpn_menu_edit">עריכת רשת</string>
+	<string name="vpn_menu_lockdown">Always-on VPN</string>
 	<string name="vpn_missing_cert">A certificate is missing. Please edit the profile.</string>
 	<string name="vpn_mppe">הצפנת PPP‏ (MPPE)</string>
 	<string name="vpn_name">שם</string>
@@ -2075,11 +2200,13 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_advanced_mac_address_title">כתובת MAC</string>
 	<string name="wifi_advanced_settings_label">הגדרות IP</string>
 	<string name="wifi_advanced_titlebar">Wi-Fi מתקדם</string>
+	<string name="wifi_and_mobile_skipped_message">"WARNING: The phone won't be able to verify that your software is up to date."</string>
 	<string name="wifi_api_test">Wi-Fi API</string>
 	<string name="wifi_cancel">ביטול</string>
 	<string name="wifi_certificate">Certificate</string>
 	<string name="wifi_config_info">הגדרות Wi-Fi </string>
 	<string name="wifi_connect">התחבר</string>
+	<string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
 	<string name="wifi_context_menu_change_password">Change password</string>
 	<string name="wifi_context_menu_change_wapi_certificate">Change WAPI Certificate</string>
 	<string name="wifi_context_menu_connect">Connect to network</string>
@@ -2088,10 +2215,32 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_disabled_help">הרשת נמנעה בשל חיבור גרוע. כבה את ההתנהגות הזאת מהגדרות המסך&gt; Wi-Fi, פריט תפריט מתקדם.</string>
 	<string name="wifi_disabled_network_failure">נמנע חיבור אינטרנט באיכות ירודה</string>
 	<string name="wifi_disabled_password_failure">בעיית אימות</string>
+	<string name="wifi_display_available_devices">Available devices</string>
+	<string name="wifi_display_details">Display settings</string>
+	<string name="wifi_display_disconnect_text">This will end your connection with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+	<string name="wifi_display_disconnect_title">Disconnect?</string>
+	<string name="wifi_display_no_devices_found">No nearby wireless displays were found.</string>
+	<string name="wifi_display_options_done">Done</string>
+	<string name="wifi_display_options_forget">Forget</string>
+	<string name="wifi_display_options_name">Name</string>
+	<string name="wifi_display_options_title">Wireless display options</string>
+	<string name="wifi_display_paired_devices">Paired displays</string>
+	<string name="wifi_display_search_for_devices">Search for displays</string>
+	<string name="wifi_display_searching_for_devices">Searching…</string>
+	<string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless display is disabled because WLAN is off.</string>
+	<string name="wifi_display_settings_empty_list_wifi_display_off">To see devices, turn wireless display on.</string>
+	<string name="wifi_display_settings_title">Wireless display</string>
+	<string name="wifi_display_status_available">Available</string>
+	<string name="wifi_display_status_connected">Connected</string>
+	<string name="wifi_display_status_connecting">Connecting</string>
+	<string name="wifi_display_summary_disabled">Disabled</string>
+	<string name="wifi_display_summary_off">Off</string>
+	<string name="wifi_display_summary_on">On</string>
 	<string name="wifi_dns1">DNS 1</string>
 	<string name="wifi_dns1_hint">8.8.8.8</string>
 	<string name="wifi_dns2">DNS 2</string>
 	<string name="wifi_dns2_hint">4.4.4.4</string>
+	<string name="wifi_dont_skip">"Don't skip"</string>
 	<string name="wifi_eap_anonymous">זהות אנונימית</string>
 	<string name="wifi_eap_ca_cert">CA certificate</string>
 	<string name="wifi_eap_identity">זהות</string>
@@ -2123,6 +2272,7 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_menu_connect">התחבר לרשת</string>
 	<string name="wifi_menu_forget">שכח רשת</string>
 	<string name="wifi_menu_modify">שנה את הרשת</string>
+	<string name="wifi_menu_more_options">More options</string>
 	<string name="wifi_menu_p2p">Wi-Fi Direct</string>
 	<string name="wifi_menu_scan">סרוק</string>
 	<string name="wifi_menu_wfd">Wi-Fi Display</string>
@@ -2138,6 +2288,7 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_other_network">רשת אחרת…</string>
 	<string name="wifi_p2p_cancel_connect_message">האם ברצונך לבטל את ההזמנה ליצת התחברות עם %1$s?</string>
 	<string name="wifi_p2p_cancel_connect_title">ביטול ההזמנה?</string>
+	<string name="wifi_p2p_delete_group_message">Forget this group?</string>
 	<string name="wifi_p2p_device_info">פרטי מכשיר</string>
 	<string name="wifi_p2p_disconnect_message">If you disconnect, your connection with %1$s will end.</string>
 	<string name="wifi_p2p_disconnect_multiple_message">If you disconnect, your connection with %1$s and %2$s other devices will end.</string>
@@ -2152,6 +2303,7 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_p2p_menu_searching">מחפש…</string>
 	<string name="wifi_p2p_peer_devices">Peer devices</string>
 	<string name="wifi_p2p_persist_network">זכור חיבור זה</string>
+	<string name="wifi_p2p_remembered_groups">Remembered groups</string>
 	<string name="wifi_p2p_settings_title">Wi-Fi ישיר</string>
 	<string name="wifi_p2p_wps_setup">התקנה מוגנת של Wi-Fi</string>
 	<string name="wifi_password">סיסמה</string>
@@ -2160,6 +2312,7 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_quick_toggle_summary">הפעל Wi-Fi</string>
 	<string name="wifi_quick_toggle_title">אלחוטי</string>
 	<string name="wifi_remembered">נשמר</string>
+	<string name="wifi_required_info_text">To complete setup, your tablet needs access to WLAN. After setup, you can switch between mobile data and WLAN.</string>
 	<string name="wifi_save">שמור</string>
 	<string name="wifi_secured_first_item">מאובטח עם %1$s</string>
 	<string name="wifi_secured_second_item">, מאובטח באמצעות %1$s</string>
@@ -2221,6 +2374,10 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_show_advanced">הצג אפשרויות מתקדמות</string>
 	<string name="wifi_show_password">הצג סיסמה</string>
 	<string name="wifi_signal">עוצמת אות:</string>
+	<string name="wifi_skip_anyway">Skip anyway</string>
+	<string name="wifi_skipped_message">"WARNING: You may incur extra carrier data charges.
+
+Phone setup can require significant network activity."</string>
 	<string name="wifi_speed">מהירות קישור</string>
 	<string name="wifi_ssid">SSID של הרשת</string>
 	<string name="wifi_starting">מפעיל Wi-Fi ...</string>
@@ -2233,12 +2390,17 @@ please follow the steps to complete installation"</string>
 	<string name="wifi_status">מצב</string>
 	<string name="wifi_status_test">מצב Wi-Fi </string>
 	<string name="wifi_stopping">מכבה Wi-Fi ...</string>
+	<string name="wifi_suspend_optimizations">WLAN optimization</string>
+	<string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
 	<string name="wifi_tether_checkbox_text">נקודה אלחוטית ניידת</string>
 	<string name="wifi_tether_configure_ap_text">קבע את התצורה של Wi-Fi hotspot</string>
 	<string name="wifi_tether_configure_ssid_default">נקודה אלחוטית של אנדרואיד</string>
 	<string name="wifi_tether_configure_subtext">נקודת אלחוטית ניידת של %1$s%2$s</string>
 	<string name="wifi_tether_enabled_subtext">%1$s פעיל של נקודה אלחוטית</string>
 	<string name="wifi_tether_failed_subtext">שגיאה של נקודה אלחוטית של Wi-Fi</string>
+	<string name="wifi_tether_setting_title">Basic settings</string>
+	<string name="wifi_tether_starting">Turning hotspot on…</string>
+	<string name="wifi_tether_stopping">Turning off hotspot…</string>
 	<string name="wifi_unchanged">(ללא שינוי)</string>
 	<string name="wifi_unspecified">(לא צוין)</string>
 	<string name="wifi_update">רענן סטטיסטיקות</string>

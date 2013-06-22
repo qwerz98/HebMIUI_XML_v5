@@ -147,7 +147,6 @@
 	<string name="HIPS_Perm_SendSMS_SMSC_Default">ברירת המחדל של מרכז ה SMS</string>
 	<string name="HIPS_Perm_SendSMS_Text">שלח SMS ל %1$s</string>
 	<string name="HIPS_Perm_SilenceRinger">השתק את הצילצול</string>
-	<string name="HIPS_Perm_Title">הרשאות</string>
 	<string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
 	<string name="HIPS_Perm_WIFINetwork_Desc">גישה לאינטרנט דרך WIFI</string>
 	<string name="HIPS_Perm_WIFINetwork_Hint">%1$s יישומים מורשים לגשת לאינטרנט</string>

@@ -14,7 +14,6 @@
 	<string name="add_slide">הוסף שקופית</string>
 	<string name="add_slide_hint">בחר ליצירת שקופית חדשה</string>
 	<string name="add_smiley">סמיילים</string>
-	<string name="add_subject">הוסף נושא</string>
 	<string name="add_timing">תזמון</string>
 	<string name="add_video">הוסף וידאו</string>
 	<string name="adding_attachments">המתן בזמן שהפריטים נוספים למצגת.</string>
@@ -86,7 +85,6 @@
 	<string name="delete_bookmark">הסר ממועדפים</string>
 	<string name="delete_message">מחק</string>
 	<string name="delete_phrase">מחק משפט</string>
-	<string name="delete_subject">מחק נושא</string>
 	<string name="delete_unlocked">מחק הודעות נעולות</string>
 	<string name="delivery_report_activity">דוח מסירה</string>
 	<string name="delivery_toast_body">הודעה התקבלה על ידי %s</string>
@@ -200,7 +198,7 @@
 	<string name="mx_activate_hint_sim_change">SIM card changed, reactivation of cloud messaging required. Activate it now?</string>
 	<string name="mx_activate_int_hint_malformed_info">Error processing request. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
 	<string name="mx_activate_int_hint_server">Activation with server failed for Cloud Messaging, an international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
-	<string name="mx_activate_int_hint_sim_change">SIM card state changed. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string> 
+	<string name="mx_activate_int_hint_sim_change">SIM card state changed. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
 	<string name="mx_auto_resend_mms">Auto re-send MMS</string>
 	<string name="mx_auto_resend_mms_summary">Send as MMS when Cloud Messaging is unavailable. Carrier messaging rates may apply</string>
 	<string name="mx_auto_resend_sms">Send as SMS</string>
@@ -210,14 +208,14 @@
 	<string name="mx_current_status">Current status: Online</string>
 	<string name="mx_dspt">Send messages via Internet between MIUI, turn on to send via Operator once failed</string>
 	<string name="mx_enable">Enable cloud messaging</string>
-	<string name="mx_enable_int_popup_msg">Cloud Messaging enables you to send messages between MIUI users. To activate, an international SMS will be sent. Carrier messaging rates may apply.</string> 
-	<string name="mx_int_warning_notice">An international SMS will be sent to activate Cloud Messaging, normal carrier rates may apply</string> 
+	<string name="mx_enable_int_popup_msg">Cloud Messaging enables you to send messages between MIUI users. To activate, an international SMS will be sent. Carrier messaging rates may apply.</string>
 	<string name="mx_enable_popup_msg">Cloud messaging enables you to send messages via MIUI. A normal SMS is required to activate the service and carrier charges may apply. Do you want to activate it now?</string>
+	<string name="mx_int_warning_notice">An international SMS will be sent to activate Cloud Messaging, normal carrier rates may apply</string>
 	<string name="mx_msg">Cloud Message</string>
 	<string name="mx_offline">מנותק</string>
 	<string name="mx_online">מחובר</string>
 	<string name="mx_reactivate">הפעל מחדש הודעות ענן</string>
-	<string name="mx_recommend_msg">אפשר הודעות בענן לשליחת הודעות בחינם</string> 
+	<string name="mx_recommend_msg">אפשר הודעות בענן לשליחת הודעות בחינם</string>
 	<string name="mx_warning_notice">הודעת SMS תישלח להפעלת הודעות ענן. קצב נתוני ספק עשויים לחול.</string>
 	<string name="need_download">מחחכה לסנכרון...</string>
 	<string name="new_message">הודעה חדשה</string>
@@ -239,7 +237,7 @@
 	<string name="phrase_confirm_delete_message">המשפט הנבחר יימחק</string>
 	<string name="phrase_empty">No Phrases</string>
 	<string name="phrase_from">From %1s</string>
-	<string name="phrase_list_title">משפט</string>
+	<string name="phrase_list_title" formatted="false">משפט</string>
 	<string name="pick_too_many_recipients">נמענים רבים מדי</string>
 	<string name="play">הפעל</string>
 	<string name="prefDefault_ringtone_repeat">1</string>
@@ -263,6 +261,8 @@
 	<string name="pref_summary_mms_retrieval_during_roaming">אחזר הודעות באופן אוטומטי בעת נדידה</string>
 	<string name="pref_summary_new_message_popup">אפשר חלונות קופצים בקבלת הודעה חדשה</string>
 	<string name="pref_summary_new_message_popup_when_secure">חלונות קופצים יוסתרו ב\"מצב אורח\"</string>
+	<string name="pref_summary_notification_body_enabled">Preview messages on lock screen and status bar</string>
+	<string name="pref_summary_notification_body_enabled_when_secure">Previewing messages disabled when access control is enabled</string>
 	<string name="pref_summary_on_system_mms_priority">System Mms app will receive message first</string>
 	<string name="pref_summary_show_recent_contacts">הצג רשימה של כל אנשי הקשר האחרונים בזמן כתיבת הודעה חדשה</string>
 	<string name="pref_summary_wake_up_screen">הדלק את המסך בעת קבלת הודעה חדשה</string>
@@ -278,6 +278,7 @@
 	<string name="pref_title_mms_read_reports">דוחות קריאה</string>
 	<string name="pref_title_mms_retrieval_during_roaming">אחזור אוטומטי בנדידה</string>
 	<string name="pref_title_new_message_popup">אפשר חלונות קופצים</string>
+	<string name="pref_title_notification_body_enabled">Show preview</string>
 	<string name="pref_title_ringtone_repeat">צילצול התראה מתמשך</string>
 	<string name="pref_title_show_recent_contacts">הצג אנשי קשר אחרונים</string>
 	<string name="pref_title_sms_delete">מגבלה של הודעת טקסט</string>
@@ -338,7 +339,7 @@
 	<string name="send">שלח</string>
 	<string name="send_signature_confirm_dialog_message">אין טקסט בהודעה, לשלוח רק חתימה?</string>
 	<string name="send_signature_confirm_dialog_title">אישור</string>
-	<string name="send_to">אל: </string> 
+	<string name="send_to">אל: </string>
 	<string name="send_to_count">נשלחו %1$s הודעות</string>
 	<string name="send_to_index_contact">נשלח אל %1$s מתוך %2$s</string>
 	<string name="sent_label">"נשלח: "</string>
@@ -394,6 +395,7 @@
 	<string name="too_many_recipients">להודעה זו יש נמענים רבים מדי (%1$s). יש מגבלה של %2$s נמענים.</string>
 	<string name="too_many_unsent_mms">אין אפשרות לשלוח את ההודעה כעת. יש הודעות מולטימדיה רבות מדי שלא נשלחו.</string>
 	<string name="try_to_send">נסה לשלוח</string>
+	<string name="type_attachment">attachment</string>
 	<string name="type_audio">אודיו</string>
 	<string name="type_picture">תמונה</string>
 	<string name="type_to_compose_text_enter_to_send">הקלד הודעה</string>

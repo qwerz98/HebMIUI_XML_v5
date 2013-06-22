@@ -42,8 +42,9 @@
 	<string name="answer_widget_sliding_horizontal_miui">"הזזה אופקית"</string>
 	<string name="answer_widget_sliding_vertical_miui">"הזזה אנכית"</string>
 	<string name="answer_widget_title_miui">"מענה בתנועה"</string>
-	<string name="antispam_marked_count">%1$d נדחו</string> 
-	<string name="antispam_notification_title">לא ידוע</string> 
+	<string name="antispam_marked_count">%1$d נדחו</string>
+	<string name="antispam_marked_title">%1$s</string>
+	<string name="antispam_notification_title">לא ידוע</string>
 	<string name="apn_settings">"שמות נקודות גישה"</string>
 	<string name="areacode_required_accept_miui">"אישור"</string>
 	<string name="areacode_required_for_emergency_number_miui">"אזור החיוג נדרש לשיחות חירום"</string>

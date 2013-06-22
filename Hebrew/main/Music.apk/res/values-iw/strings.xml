@@ -21,7 +21,7 @@
 	<string name="android_album_settings">השתמש בעטיפת אלבום מוטבעת</string>
 	<string name="android_album_summary">שימוש אוטומאטי בעטיפת האלבום עלול לגרום לבעיות.</string>
 	<string name="artist_albums">כל האלבומים</string>
-	<string name="artist_details_format">%1$s, %2$s</string>
+	<string name="artist_details_format" formatted="false">%1$s, %2$s</string>
 	<string name="artist_edit">אומן</string>
 	<string name="artist_hot_audios">אודיו פופולרי</string>
 	<string name="artists_title">אומנים</string>
@@ -41,6 +41,7 @@
 	<string name="confirm">אשר</string>
 	<string name="correct_id3_by_internet">Auto correct ID3 using mobile Internet</string>
 	<string name="correct_id3_failed">ID3 data correction failed!</string>
+	<string name="correct_id3_in_processing">Correcting ID3 song tag data</string>
 	<string name="correct_id3_not_support">ID3 correction is not supported by this file type.</string>
 	<string name="correct_id3_open_other_connect">Please turn on ID3 data correction using the mobile Internet setting</string>
 	<string name="correct_id3_settings">ID3 correction settings</string>
@@ -57,8 +58,6 @@
 	<string name="delete_playlist_menu">מחק</string>
 	<string name="delete_song_desc">\"%s\" יוסר לצמיתות מכרטיס הזיכרון</string>
 	<string name="deselect_all">דחה הכל</string>
-	<string name="dirac_disabled">Dirac Disabled</string>
-	<string name="dirac_enabled">Dirac Enabled</string>
 	<string name="download">הורד</string>
 	<string name="download_album_settings">הורדת פרטי אלבום אוטומטית</string>
 	<string name="download_album_summary">זה יכול לעלות יותר על ידי הרשת הניידת, עדיף להשתמש ב WIFI</string>
@@ -69,10 +68,9 @@
 	<string name="download_lyric_settings">הורדת מילים אוטומטית</string>
 	<string name="download_lyric_summary">הורדת מילים אינה צורכת נתונים רבים, אך הינך יכול לבטל כדי לחסוך שימוש בנתונים</string>
 	<string name="download_processing">יורד</string>
-	<string name="durationformatlong" formatted="false">%1$d:%3$02d:%5$02d</string>
-	<string name="durationformatshort" formatted="false">%2$d:%5$02d</string>
-	<string name="durationformatshort_padding_with_0" formatted="false">%2$02d:%5$02d</string>
-	<string name="edit_playlist_menu">ערוך</string>
+	<string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+	<string name="durationformatshort">%2$d:%5$02d</string>
+	<string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
 	<string name="empty_edit_hint">מידע על השיר אינו זמין</string>
 	<string name="emptyplaylist">הרשימה שנבחרה ריקה.</string>
 	<string name="enter_sleep_mode">הכנס למצב שינה</string>
@@ -88,7 +86,7 @@
 	<string name="filter_by_duration_format">%2$dmin%5$2dsec</string>
 	<string name="filter_by_duration_max">5 דקות</string>
 	<string name="filter_by_duration_min">0 שניות</string>
-	<string name="filter_by_duration_prefix">"Max length (in hours):"</string>
+	<string name="filter_by_duration_prefix">"משך זמן מינימאלי: "</string>
 	<string name="filter_by_duration_summary">Filter length is too small for audio files</string>
 	<string name="filter_by_folder">סנן על ידי תיקיה</string>
 	<string name="filter_by_folder_summary_off">Not open, click on the folder, then filter folder</string>
@@ -160,9 +158,9 @@
 	<string name="no_effect">בלי אפקט</string>
 	<string name="no_song_downloaded">לא ניתן להוריד את השיר</string>
 	<string name="not_selected">אנא בחר שיר</string>
-	<string name="notification_artist_album" formatted="false">"%2$s %1$s"</string>
-	<string name="online_music">מוזיקה מקוונת</string>
+	<string name="notification_artist_album">"%2$s %1$s"</string>
 	<string name="online_search_hint">חפש מוזיקה מקוונת</string>
+	<string name="online_title">Online</string>
 	<string name="other_settings">אחרים</string>
 	<string name="overwrite_confirm">החלף</string>
 	<string name="play_all">נגן הכל</string>
@@ -178,11 +176,11 @@
 	<string name="playlist_deleted_message">רשימת השמעה נמחקה.</string>
 	<string name="playlist_favorite">מועדפים</string>
 	<string name="playlist_frequently_played">Frequently played</string>
-	<string name="playlist_new">צור רשימת השמעה חדשה</string>
 	<string name="playlist_recently_added">נוסף לאחרונה</string>
 	<string name="playlist_recently_played">נוגנו לאחרונה</string>
 	<string name="playlist_renamed_message">השם של רשימת ההפעלה שונה.</string>
 	<string name="playlists_title">רשימות השמעה</string>
+	<string name="powered_by">Powered by</string>
 	<string name="queue">רשימת ההשמעה הנוכחית</string>
 	<string name="quit_player">יציאה</string>
 	<string name="quit_warining">דקות %d הנגן יפסיק אחרי</string>
@@ -198,7 +196,9 @@
 	<string name="rename_album_menu">שנה שם אלבום</string>
 	<string name="rename_artist_menu">שנה שם אומן</string>
 	<string name="rename_playlist_menu">שנה שם</string>
+	<string name="retry">Retry</string>
 	<string name="ringtone_menu">השתמש כצלצול טלפון</string>
+	<string name="ringtone_not_support">Ringtone format not supported</string>
 	<string name="ringtone_set">\"%s\" קבע כצליל שיחה</string>
 	<string name="save">שמור</string>
 	<string name="scanning">סורק זיכרון...</string>

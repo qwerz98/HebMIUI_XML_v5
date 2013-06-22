@@ -37,6 +37,7 @@
 	<string name="fail_to_add_account">לא ניתן להוסיף חשבון</string>
 	<string name="live_wallpaper">רקע חי</string>
 	<string name="loading">טוען...</string>
+	<string name="loading_resource_detail_fail">Failed to load resource!</string>
 	<string name="loading_resource_detail_info">טוען...</string>
 	<string name="lockscreen_wallpaper">רקע מסך נעילה</string>
 	<string name="lockstyle_personal_settings">התאמה אישית</string>
@@ -108,11 +109,17 @@
 	<string name="resource_title">פירוט מקורות</string>
 	<string name="resource_title_select_ringtone">בחר צלצול</string>
 	<string name="resource_update">עדכן</string>
+	<string name="resource_waiting_download">Waiting to download...</string>
 	<string name="restore_default_theme_alert">You may be a victim of theme counterfeiting, please browse the theme market to purchase or re-download.</string>
 	<string name="sdcard_status_changed_dialog_message">"Going to exit. Please reopen this app to refresh resources."</string>
 	<string name="sdcard_status_changed_dialog_title">SD card status changed</string>
 	<string name="short_ringtone_resource">Short</string>
 	<string name="theme_another_import_running">There is another import process running, please try later.</string>
+	<string name="theme_batch_has_update_text">%1$d themes have new version available</string>
+	<string name="theme_batch_update_all">Update all</string>
+	<string name="theme_batch_update_dlg_content">Do you want to update now?</string>
+	<string name="theme_batch_update_dlg_title">Update</string>
+	<string name="theme_batch_updating_text">%1$d themes are being updated</string>
 	<string name="theme_changed_failed_message">שגיאה בשינוי ערכת הנושא!</string>
 	<string name="theme_changed_message">ערכת הנושא הותקנה בהצלחה!</string>
 	<string name="theme_changing_dialog_title">טוען את ערכת הנושא, אנא המתן...</string>
@@ -149,6 +156,7 @@
 	<string name="theme_import_item_delete_request_content">Theme package not upgraded, you can use it after upgrade or delete it.</string>
 	<string name="theme_import_item_delete_request_title">ערכת הנושא לא עודכנה</string>
 	<string name="theme_import_item_importing">מעדכן</string>
+	<string name="theme_import_item_not_exist">Item does not exist</string>
 	<string name="theme_import_item_not_upgraded">לא עודכן</string>
 	<string name="theme_import_item_reject_use">עדכון ערכת נושא בתהליך, אנא המתן...</string>
 	<string name="theme_import_item_waiting">ממתין...</string>
