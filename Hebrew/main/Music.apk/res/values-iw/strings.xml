@@ -180,7 +180,9 @@
 	<string name="playlist_recently_played">נוגנו לאחרונה</string>
 	<string name="playlist_renamed_message">השם של רשימת ההפעלה שונה.</string>
 	<string name="playlists_title">רשימות השמעה</string>
-	<string name="powered_by">Powered by</string>
+	<string name="powered_by">פועל באמצעות</string>
+	<string name="project_device">Xiaomi MiBox</string>
+	<string name="project_device_mobile">מכשיר נייד</string> 
 	<string name="queue">רשימת ההשמעה הנוכחית</string>
 	<string name="quit_player">יציאה</string>
 	<string name="quit_warining">דקות %d הנגן יפסיק אחרי</string>
