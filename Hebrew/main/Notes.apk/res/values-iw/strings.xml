@@ -88,6 +88,8 @@
 	<string name="time_picker_dialog_title">הגדרת זמן תזכורת</string>
 	<string name="toast_message_add_image_fail">לא ניתן להכניס תמונה!</string>
 	<string name="toast_privacy_mode">לא ניתן לערוך פתק במצב מאובטח</string>
+	<string name="toast_reach_text_limit_attachment">התוכן של פתק ארוך מדי כדי להוסיף קבצים מצורפים חדשים.</string>
+	<string name="toast_reach_text_limit_truncate">"תוכן הפתק כבר קוצץ מפני שהוא יותר מדי ארוך."</string> 
 	<string name="widget_havenot_content">לא נמצא פתק קשור, לחץ ליצירת פתק מקושר</string>
 	<string name="widget_under_visit_mode">מצב פרטי ולא ניתן לראות את תוכן הפתק</string>
 </resources>

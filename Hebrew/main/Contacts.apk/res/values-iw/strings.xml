@@ -31,6 +31,9 @@
 	<string name="aggregation_suggestion_join_dialog_message">לצרף את איש הקשר הנוכחי לאיש הקשר שנבחר?</string>
 	<string name="all_list_empty">לא נמצאו אנשי קשר</string>
 	<string name="all_resources">הכל</string>
+	<string name="antispam_mark_my_contribution">התרומה שלי למסד הנתונים</string>
+	<string name="antispam_provider_format">מספר ניכר זה נוסף על ידי %s</string>
+	<string name="contact_is_readOnly">לא ניתן לערוך את אנשי קשר לקריאה בלבד</string> 
 	<string name="attach_photo_dialog_title">תמונה של איש קשר</string>
 	<string name="audio_chat">"צ'אט קולי"</string>
 	<string name="auto_nickname">אוטומטי</string>
@@ -413,6 +416,14 @@
 	<string name="import_vcard_description">ייבוא אנשי קשר נכרטיס זכרון</string>
 	<string name="import_weibo_dialog_title">Import Sina weibo contacts</string>
 	<string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
+	<string name="import_weibo_error_no_matched_contacts">עדכון אנשי קשר בוצע: אין אנשי קשר התואמים לחיפוש</string>
+	<string name="import_weibo_error_no_network">עדכון אנשי קשר בוצע: בעיות ברשת</string>
+	<string name="import_weibo_error_no_xiaomi_phone">עדכון אנשי קשר בוצע: אין מספרי טלפון שנמצאו תחת חשבון Xiaomi</string>
+	<string name="import_weibo_error_unknown">עדכון אנשי קשר בוצע: שגיאה לא ידועה</string>
+	<string name="import_weibo_error_user_cancel">עדכון אנשי קשר בוצע: בוטל ע"י המשתמש</string> 
+	<string name="menu_bar_group_ringtone_largeui">צלצול</string> 
+	<string name="profile_name">הפרופיל שלי</string>
+	<string name="sina_weibo">Sina Weibo</string> 
 	<string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
 	<string name="import_weibo_notification_title_done">ייבוא הושלם</string>
 	<string name="import_weibo_progress_name">%1$s</string>

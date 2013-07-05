@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<string name="app_label">אחסון אנשי קשר</string>
-	<string name="call_log_provider_label">Call log</string>
+	<string name="call_log_provider_label">יומן שיחות</string>
 	<string name="create_contact">איש קשר חדש</string>
+	<string name="debug_dump_database_message">You are about to 1) make a copy of your database which includes all contacts related information and all call log to the internal storage, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
+	<string name="debug_dump_delete_button">מחק עכשיו</string>
+	<string name="debug_dump_email_body">מצורפים הנתונים אנשי הקשר שלי עם כל פרטי אנשי הקשר שלי. טפל בזה בזהירות.</string>
+	<string name="debug_dump_email_sender_picker">בחר יישום לשליחת הקובץ שלך</string>
+	<string name="debug_dump_email_subject">מסד אנשי הקשר מצורף</string>
+	<string name="debug_dump_start_button">התחל</string>
+	<string name="debug_dump_title">העתק מסד אנשי קשר</string> 
 	<string name="default_directory">אנשי קשר</string>
 	<string name="edit_contact">הוסף לאיש קשר</string>
 	<string name="local_invisible_directory">אחר</string>
