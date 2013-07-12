@@ -125,6 +125,7 @@
 	<string name="system_backup_cancel_text">עדכון</string>
 	<string name="system_backup_download_helper">המכשיר יופעל מחדש אוטומטית להפעלת העדכון לאחר סיום ההורדה</string>
 	<string name="system_backup_error_message">לא נמצא גיבוי</string>
+	<string name="unstable_build">גרסה לא יציבה</string> 
 	<string name="system_backup_helper">עדכון מערכת לא ימחק נתוני משתמש. עם זאת, מומלץ לבצע גיבוי של נתוני המשתמש שלך לפני העדכון</string>
 	<string name="system_backup_ok_text">גיבוי</string>
 	<string name="top_secret_build">בנייה סודית</string>

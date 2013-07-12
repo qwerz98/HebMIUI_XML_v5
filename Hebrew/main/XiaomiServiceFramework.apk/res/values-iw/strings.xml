@@ -86,7 +86,7 @@
 	<string name="find_device_notice_p3">למצוא, לנעול אותו, או למחוק את הנתונים</string>
 	<string name="find_device_success_title">איתור מכשיר מופעל</string>
 	<string name="find_password_on_web_msg">אנא בקר בaccount.xiaomi.com כדי לאחזר את הסיסמה שלך</string>
-	<string name="forget_password"/>
+	<string name="forget_password">שכחת סיסמה?</string> 
 	<string name="frozen">נעול</string>
 	<string name="giftcard_acitivity_and_denomination">%2$s Mi Credit gift card from %1$s</string>
 	<string name="giftcard_denom">Mi Credit(s)</string>

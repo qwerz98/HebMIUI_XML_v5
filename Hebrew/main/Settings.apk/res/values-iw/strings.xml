@@ -504,6 +504,8 @@ If the device has multiple users, using this shortcut on the lock screen tempora
 	<string name="clear_failed_dlg_text">לא ניתן למחוק את נתוני היישום.</string>
 	<string name="clear_failed_dlg_title">נקה נתונים</string>
 	<string name="clear_user_data_text">נקה נתונים </string>
+	<string name="change_password">שנה סיסמה</string>
+	<string name="change_security_lock">נסה דרכים אחרות לביטול הנעילה</string> 
 	<string name="common_settings">הגדרות נפוצות</string>
 	<string name="complete_settings">הגדרות מלאות</string>
 	<string name="computing_size">מחשב...</string>
@@ -1020,6 +1022,8 @@ Some apps may not work until updated by their developers."</string>
 	<string name="lock_setup">ההתקנה הושלמה</string>
 	<string name="lock_sounds_enable_title">צלילי נעילת מסך</string>
 	<string name="lock_title">אבטחת הטלפון </string>
+	<string name="lock_settings_common_title">הגדרות נעילה</string>
+	<string name="memory_title">זמין %1$s\u0009\u0009סך הכל %2$s</string> 
 	<string name="lockpassword_cancel_label">ביטול</string>
 	<string name="lockpassword_choose_lock_generic_header">\"בחירה בשיטת ביטול נעילה\"</string>
 	<string name="lockpassword_choose_your_password_header">בחר סיסמה</string>
@@ -1974,6 +1978,7 @@ please follow the steps to complete installation"</string>
 	<string name="unmount_inform_text">הטעינה של כרטיס SD תבוטל.</string>
 	<string name="untitled_apn">ללא כותרת</string>
 	<string name="upload_debug_log_summary">העלה יומן באגים רק כאשר ישנו חיבור זמין לאינטרנט אלחוטי כדי לסייע לצוות פיתוח MIUI ROM לפתח מערכת יציבה יותר.</string>
+	<string name="turn_off_security_lock">כבה נעילה</string> 
 	<string name="upload_debug_log_title">העלה יומן באגים </string>
 	<string name="usage_log">סטטיסטיקת שימוש יישומים</string>
 	<string name="usage_name_percent">%1$s -  %2$s%%</string>
@@ -2303,7 +2308,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
 	<string name="wifi_p2p_menu_searching">מחפש…</string>
 	<string name="wifi_p2p_peer_devices">Peer devices</string>
 	<string name="wifi_p2p_persist_network">זכור חיבור זה</string>
-	<string name="wifi_p2p_remembered_groups">Remembered groups</string>
+	<string name="wifi_p2p_remembered_groups">זכור קבוצות</string>
 	<string name="wifi_p2p_settings_title">Wi-Fi ישיר</string>
 	<string name="wifi_p2p_wps_setup">התקנה מוגנת של Wi-Fi</string>
 	<string name="wifi_password">סיסמה</string>
@@ -2375,9 +2380,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
 	<string name="wifi_show_password">הצג סיסמה</string>
 	<string name="wifi_signal">עוצמת אות:</string>
 	<string name="wifi_skip_anyway">Skip anyway</string>
-	<string name="wifi_skipped_message">"WARNING: You may incur extra carrier data charges.
-
-Phone setup can require significant network activity."</string>
+	<string name="wifi_skipped_message">"WARNING: You may incur extra carrier data charges. Phone setup can require significant network activity."</string>
 	<string name="wifi_speed">מהירות קישור</string>
 	<string name="wifi_ssid">SSID של הרשת</string>
 	<string name="wifi_starting">מפעיל Wi-Fi ...</string>
@@ -2453,4 +2456,6 @@ Phone setup can require significant network activity."</string>
 	<string name="zone_auto_summaryOn">השתמש בשעה שמספקת הרשת</string>
 	<string name="zone_list_menu_sort_alphabetically">מיין לפי סדר האלף-בית</string>
 	<string name="zone_list_menu_sort_by_timezone">מיון לפי אזור זמן</string>
+	<string name="xiaomi_cloud_service">MiCloud</string>
+	<string name="xiaomi_money_service">MiCredit מרכז</string> 
 </resources>

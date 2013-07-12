@@ -316,7 +316,7 @@
     <string name="toast_start_audio_capture">Make a sound to trigger Sound Shutter</string>
     <string name="record_back_pressed_hint">לחץ שוב לסיום ההקלטה</string>
     <string name="can_not_play_video">לניגון הווידאו בטל את נעילת המסך</string>
-    <string name="toast_burst_snap_finished_start">Burst shooting finished</string>
+    <string name="toast_burst_snap_finished_start">צילום רציף הסתיים</string>
     <string name="toast_burst_snap_finished_end">תמונות שצולמו</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">Burst shooting is not supported when HDR is ON.</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Burst shooting is not supported when Audio Capture is ON.</string>
@@ -416,6 +416,9 @@
     <string name="simple_mode_button_text_audio_capture">סגור לכידת אודיו</string>
     <string name="simple_mode_button_text_slow_video">סגור מצלמה בהילוך איטי</string>
     <string name="simple_mode_title">מצב רגיל</string> 
+	<string name="pref_video_focusmode_entry_auto">לחץ</string>
+	<string name="pref_video_focusmode_entry_continuous">CAF</string>
+	<string name="pref_video_focusmode_title">מצב התמקדות</string> 
     <string name="pref_camera_coloreffect_title_simple_mode">מסננים</string>
     <string name="pref_video_slow_speed_title_simple_mode">מצלמה בהילוך איטי</string>
     <string name="enter_expert_mode_title">מצב מתקדם</string>

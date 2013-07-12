@@ -20,6 +20,7 @@
 	<string name="dialog_warning">אזהרה</string>
 	<string name="error_app_internal">אירעה שגיאה פנימית</string>
 	<string name="error_app_internal_title">שגיאת רשמקול</string>
+	<string name="error_filename_too_long">שם הקובץ ארוך מדיי</string> 
 	<string name="error_mediadb_new_record">לא מצליח לשמור את ההקלטה</string>
 	<string name="error_sdcard_access">לא מצליח לגשת לכרטיס זיכרון</string>
 	<string name="fm_record">הקלטת FM (%d)</string>

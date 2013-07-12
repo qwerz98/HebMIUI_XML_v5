@@ -774,7 +774,7 @@
 	<string name="preferred_network_type_pref_entries_only_3g_miui">"3G בלבד"</string>
 	<string name="preferred_network_type_title_miui">"בחירת סוג הרשת"</string>
 	<string name="primary_account_summary_with">"חשבון עיקרי %s"</string>
-	<string name="private_num">"מספר פרטי"</string>
+	<string name="private_num">מספר חסוי</string>
 	<string name="proceed">"התקדם"</string>
 	<string name="progress_dialog_exiting_ecm">"יוצא ממצב חירום של התקשרות חזרה"</string>
 	<string name="prompt">"להניע"</string>
