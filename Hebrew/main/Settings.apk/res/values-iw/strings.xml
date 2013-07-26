@@ -765,7 +765,6 @@ If the device has multiple users, using this shortcut on the lock screen tempora
 	<string name="dolby_ieq_focused">Focused</string>
 	<string name="dolby_ieq_open">Open</string>
 	<string name="dolby_ieq_rich">Rich</string> 
-	<string name="dolby_preset_select">Select Intelligent Equaliser mode</string>
 	<string name="dolby_surround_virtualizer">Surround Sound Virtualizer</string>
 	<string name="dolby_volume_leveler">Volume Leveller</string> 
 	<string name="headset_calibrate">Calibrate buttons</string>
