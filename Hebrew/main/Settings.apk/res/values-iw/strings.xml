@@ -787,8 +787,6 @@ If the device has multiple users, using this shortcut on the lock screen tempora
 	<string name="dolby_preset_format">Customized %d</string>
 	<string name="dolby_preset_hint">Please enter preset name</string>
 	<string name="dolby_preset_rename">Rename</string>
-	<string name="dolby_preset_select">Please select preset</string>
-	<string name="dolby_roomsize_high">Spacious</string>
 	<string name="dolby_roomsize_low">Indoor</string>
 	<string name="dolby_roomsize_normal">Normal</string>
 	<string name="dolby_roomsize_summary">Surround sound settings only available while using headset</string>
