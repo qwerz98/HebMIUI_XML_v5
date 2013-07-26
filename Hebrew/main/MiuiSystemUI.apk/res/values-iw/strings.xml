@@ -105,6 +105,9 @@
 	<string name="flash_device">/sys/class/leds/flashlight/brightness</string>
 	<string name="gps_notification_found_text">מיקום מוגדר על ידי GPS</string>
 	<string name="gps_notification_searching_text">מחפש GPS</string>
+	<string name="headset_custom">התאמה אישית</string>
+	<string name="headset_info">התאמה אישית של פונקציות לחצנים</string>
+	<string name="headset_settings">אוזניות מחוברות</string> 
 	<string name="invalid_charger">"טעינה באמצעות USB אינה נתמכת. השתמש אך ורק במטען שסופק."</string>
 	<string name="key_position_custom">עמדת מפתח מותאם אישית</string>
 	<string name="label_view">הצג</string>

@@ -74,7 +74,7 @@
 	<string name="account_setup_basics_exchange_title_alternate">הוספת חשבון Exchange ActiveSync</string>
 	<string name="account_setup_basics_headline">חשבון דוא\"ל</string>
 	<string name="account_setup_basics_manual_setup_action">הגדרה ידנית</string>
-	<string name="account_setup_basics_password_label">סיסמא</string>
+	<string name="account_setup_basics_password_label">סיסמה</string>
 	<string name="account_setup_basics_title">הגדרת דואר אלקטרוני</string>
 	<string name="account_setup_check_settings_check_incoming_msg">בדיקת הגדרות שרת הדואר הנכנס…</string>
 	<string name="account_setup_check_settings_check_outgoing_msg">בדיקת הגדרות שרת הדואר היוצא…</string>
@@ -96,7 +96,7 @@
 	<string name="account_setup_failed_certificate_inaccessible">אישורים אינם תקפים או אינם נגישים.</string>
 	<string name="account_setup_failed_certificate_required">אישור לקוח נדרש. להתחבר לשרת עם אישור לקוח?</string>
 	<string name="account_setup_failed_check_credentials_message">השרת הגיב עם שגיאה. בדוק את שם המשתמש והסיסמה שלך ולאחר מכן נסה שוב.</string>
-	<string name="account_setup_failed_dlg_auth_message">שם משתמש או סיסמא שגויים.</string>
+	<string name="account_setup_failed_dlg_auth_message">שם משתמש או סיסמה שגויים.</string>
 	<string name="account_setup_failed_dlg_auth_message_fmt">"שם משתמש או סיסמה שגויים. (%s)"</string>
 	<string name="account_setup_failed_dlg_certificate_message">לא יכול להתחבר לשרת באופן בטוח.</string>
 	<string name="account_setup_failed_dlg_certificate_message_fmt">"לא יכול להתחבר לשרת באופן בטוח. (%s)"</string>
@@ -116,7 +116,7 @@
 	<string name="account_setup_incoming_imap_path_prefix_hint">אופציונלי</string>
 	<string name="account_setup_incoming_imap_path_prefix_label">קידומת נתיב IMAP</string>
 	<string name="account_setup_incoming_imap_server_label">שרת IMAP</string>
-	<string name="account_setup_incoming_password_label">סיסמא</string>
+	<string name="account_setup_incoming_password_label">סיסמה</string>
 	<string name="account_setup_incoming_pop_server_label">שרת POP3</string>
 	<string name="account_setup_incoming_port_label">פורט</string>
 	<string name="account_setup_incoming_security_label">סוג אבטחה</string>
@@ -170,7 +170,7 @@
 	<string name="account_setup_outgoing_username_label">שם משתמש</string>
 	<string name="account_setup_security_policies_required_fmt">השרת %s מחייב שתאפשר לו לשלוט מרחוק על מספר תכונות אבטחה במכשירך. האם ברצונך לסיים הגדרת חשבון זה?</string>
 	<string name="account_setup_security_required_title">ניהול אבטחה מרחוק</string>
-	<string name="account_setup_username_password_toast">נא הקלד כתובת דואר אלקטרוני וסיסמא חוקיים.</string>
+	<string name="account_setup_username_password_toast">נא הקלד כתובת דואר אלקטרוני וסיסמה חוקיים.</string>
 	<string name="account_setup_username_uneditable_error">"אתה לא יכול לשנות את שם המשתמש של החשבון. כדי להוסיף חשבון עם שם משתמש שונה, לחץ על הוסף חשבון".</string>
 	<string name="account_shortcut_picker_name">חשבון דוא"ל</string>
 	<string name="account_shortcut_picker_title">בחר חשבון</string>
@@ -448,7 +448,7 @@
 	<string name="pause_state_retrying">ממתין לניסיון חוזר</string>
 	<string name="pause_state_roaming">מושהה - נדידה</string>
 	<string name="pause_state_running">מעלה</string>
-	<string name="permission_access_provider_desc">יישום זה מאפשר גישה למסד נתוני הדוא\"ל שלך, כולל הודעות שהתקבלו, הודעות שנשלחו, שמות משתמש וסיסמאות.</string>
+	<string name="permission_access_provider_desc">יישום זה מאפשר גישה למסד נתוני הדוא\"ל שלך, כולל הודעות שהתקבלו, הודעות שנשלחו, שמות משתמש וסיסמהות.</string>
 	<string name="permission_access_provider_label">גישה לנתוני ספק דוא\"ל</string>
 	<string name="permission_read_attachment_desc">מאפשר ליישום זה לקרוא את הקבצים המצורפים שלך.</string>
 	<string name="permission_read_attachment_label">קרא קבצים מצורפים</string>

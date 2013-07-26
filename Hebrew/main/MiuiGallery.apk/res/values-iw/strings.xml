@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<string name="Import">יבא</string>
+	<string name="accept">קבל</string>
 	<string name="action_fail_unknown_error">הפעולה נכשלה עקב שגיאה לא ידועה.</string>
 	<string name="activity_not_found">אין אפליקציה שיכולה להשלים את הפעולה</string>
 	<string name="add_account">הוסף חשבון</string>
@@ -11,7 +12,17 @@
 	<string name="add_to_cloud_folder">הוסף לתיקיית ענן</string>
 	<string name="adding_recipients">מוסיף נמענים...</string>
 	<string name="album_name">שם האלבום</string>
+	<string name="album_quota_fulfiled">"Can't create album; number of albums reached the limit.."</string>
+	<string name="album_share_kicked">הוסרת מ- %1$s</string> 
 	<string name="album_share_stat_content">הזמנות לשיתוף אלבום חדש</string>
+	<string name="album_share_subtitle_accepting">מאשר הזמנה מאת %1$s...</string>
+	<string name="album_share_subtitle_denying">דוחה הזמנה מאת %1$s...</string>
+	<string name="album_share_subtitle_invited">שותף על ידי %1$s, לקבל או לדחות?</string>
+	<string name="album_share_subtitle_normal">שותף על ידי %1$s</string>
+	<string name="album_share_subtitle_not_ready">פרטי אלבום לא זמינים. לחץ להורדה.</string>
+	<string name="album_share_subtitle_quitting">סוגר את ההזמנה מאת %1$s...</string>
+	<string name="album_share_subtitle_requesting">מוריד פרטי אלבום...</string>
+	<string name="album_share_title_new_album">אלבום משותך חדש</string> 
 	<string name="albums">אלבומים</string>
 	<string name="albumset_page_title_separator"> | </string>
 	<string name="alert">הודעה</string>
@@ -109,8 +120,11 @@
 	<string name="email_picker_title">Add shared E-mail</string>
 	<string name="empty_album">O תמונות או אלבומים זמינים.</string>
 	<string name="enter_email_hint">"Enter E-mail address "</string>
+	<string name="error_invalid_link">The link is invalid or expired, please ask album owner to create a new shared link.</string>
+	<string name="error_repeat_apply">You have already been shared with this album</string> 
 	<string name="error_should_not_select_image">אזהרה: נא לא לבחור תמונה.</string>
 	<string name="error_should_not_select_video">אזהרה: נא לא לבחור קובץ וידאו.</string>
+	<string name="error_socket_timeout">Network timeout, please try again later</string> 
 	<string name="exit_share">Exit album</string>
 	<string name="exit_share_failed">Exit album %1$s failed</string>
 	<string name="exit_share_in_process">Trying to exit album, please wait...</string>
@@ -138,6 +152,7 @@
 	<string name="frame_semicircle">חצי עיגול</string>
 	<string name="frame_white">לבן</string>
 	<string name="gallery_cloud_provider_name">גלריה</string>
+	<string name="gallery_setting">הגדרות גלריה</string> 
 	<string name="global_setting">הגדרות</string>
 	<string name="grain">סרט גרעיני</string>
 	<string name="grayscale">שחור-לבן</string>
@@ -155,6 +170,7 @@
 	<string name="how_many_sub_folders">%d תיקיות</string>
 	<string name="how_many_videos">%d קיבצי וידאו</string>
 	<string name="hue_polymorphism">photoeditor_effect_hue</string>
+	<string name="image_quota_fulfiled">"Can't create image, images quota reached limit."</string> 
 	<string name="import_complete">יבוא הושלם</string>
 	<string name="import_fail">יבוא נכשל</string>
 	<string name="initial_cloud_button_text">Start using your MiCloud</string>
@@ -168,6 +184,7 @@
 	<string name="kick_sharer">הסר משתף</string>
 	<string name="kick_sharer_failed">הסרת המשף נכשלה</string>
 	<string name="kick_sharer_successfully">המשתף הוסר בהצלחה</string>
+	<string name="landscape_mode">הפעל מצב מאוזן</string> 
 	<string name="loading">טוען...</string>
 	<string name="loading_failure">התמונה לא יכולה להטען</string>
 	<string name="loading_thumbnail">טוען תמונה ממוזערת...</string>
@@ -279,16 +296,17 @@
 	<string name="settings_i_xiaomi_com">התחבר ב i.xiaomi.com לניהול אחסון הענן שלך</string>
 	<string name="shadow">צללים</string>
 	<string name="share_album">שתף אלבום</string>
-	<string name="share_album_owner">Owner</string>
+	<string name="share_album_owner">בעלים</string>
 	<string name="share_album_qr_code">QR code</string>
-	<string name="share_album_share_to">Share to</string>
+	<string name="share_album_share_to">שתף עם</string>
 	<string name="share_by_email_start">Attempting to share %1$s in the background</string>
 	<string name="share_by_email_successfully">Share %1$s via E-mail successful</string>
-	<string name="share_user_name">Name</string>
-	<string name="sharer_status_accepted">Accepted</string>
-	<string name="sharer_status_refused">Rejected</string>
-	<string name="sharer_status_waiting">Waiting</string>
-	<string name="sharer_status_waitting">waiting</string>
+	<string name="share_user_name">שם</string>
+	<string name="sharer_quota_fulfiled">"Can't add sharer, sharing quota has been reached."</string> 
+	<string name="sharer_status_accepted">התקבל</string>
+	<string name="sharer_status_refused">נדחה</string>
+	<string name="sharer_status_waiting">ממתין</string>
+	<string name="sharer_status_waitting">ממתין</string>
 	<string name="sharpen">לחדד</string>
 	<string name="show_all">תמונות וסרטים</string>
 	<string name="show_hidden_album">הצג אלבומים מוסתרים</string>

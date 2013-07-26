@@ -104,9 +104,10 @@
 	<string name="label_order_name">שם מוצר: </string>
 	<string name="label_order_price">כמות </string>
 	<string name="login">התחברות</string>
+	<string name="error_invalid_dev_id">מזהה מכשיר אינו חוקי</string> 
 	<string name="login_failed">כניסה נכשלה</string>
 	<string name="login_notice">כניסה פנימה ..</string>
-	<string name="memu_refresh">Refresh</string>
+	<string name="memu_refresh">רענן</string>
 	<string name="mibi_license_message">שירות אשראי Mi Xiaomi. על ידי לחיצה על אישור אתה מסכים לציית %1$s</string>
 	<string name="mibi_license_message_span">הסכם משתמש אשראי Mi</string>
 	<string name="mibi_license_title">הסכם משתמש אשראי Mi</string>

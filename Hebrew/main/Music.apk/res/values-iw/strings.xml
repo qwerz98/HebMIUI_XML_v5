@@ -39,7 +39,7 @@
 	<string name="click_to_shuffle">לחץ כדי לערבב הכל</string>
 	<string name="complete">הושלם</string>
 	<string name="confirm">אשר</string>
-	<string name="correct_id3_by_internet">Auto correct ID3 using mobile Internet</string>
+	<string name="correct_id3_by_internet">תקן ID3 אוטומטית באמצעות אינטרנט סלולרי</string>
 	<string name="correct_id3_failed">ID3 data correction failed!</string>
 	<string name="correct_id3_in_processing">Correcting ID3 song tag data</string>
 	<string name="correct_id3_not_support">ID3 correction is not supported by this file type.</string>
@@ -99,8 +99,8 @@
 	<string name="filter_notification">הסינון הופעל, הינך יכול לשנות זאת בהגדרות</string>
 	<string name="folder_title_format" formatted="false">%s(%d)</string>
 	<string name="folders_title">תקיות</string>
-	<string name="frequentlyplayed_title">Frequently played</string>
-	<string name="hot_artists">Hot Artists</string>
+	<string name="frequentlyplayed_title">הנפוצים ביותר</string>
+	<string name="hot_artists">אמנים חמים</string>
 	<string name="id3_edit">ערוך מידע ID3</string>
 	<string name="id3_edit_failed">נכשל בעריכת מידע ID3</string>
 	<string name="id3_modify_confirm_check">לאשר שינויי ID3?</string>

@@ -889,6 +889,7 @@
 	<string name="sms_pager">שלח הודעת טקסט לזימונית</string>
 	<string name="sms_radio">שלח הודעת טקסט לרדיו</string>
 	<string name="sms_telex">שלח הודעת טקסט לטלקס</string>
+	<string name="toast_copying">מעתיק, אנא המתן...</string> 
 	<string name="sms_tty_tdd">שלח הודעת טקסט ל-TTY/TDD</string>
 	<string name="sms_work">שלח הודעת טקסט לעבודה</string>
 	<string name="sms_work_mobile">שלח הודעת טקסט לנייד של עבודה</string>
