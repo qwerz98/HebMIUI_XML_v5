@@ -162,6 +162,8 @@
 	<string name="response_maybe">אולי</string>
 	<string name="response_no">לא</string>
 	<string name="response_yes">כן</string>
+	<string name="rest_day_indication"/>
+	<string name="work_day_indication"/>
 	<string name="save_label">בוצע</string>
 	<string name="saving_event">שומר ארוע…</string>
 	<string name="saving_event_with_guest">עדכונים נשלחו</string>

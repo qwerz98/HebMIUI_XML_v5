@@ -199,8 +199,7 @@
 	<string name="status_bar_network_flow">"היום:%1$s    נשאר:%2$s    חבילה:%3$s"</string>
 	<string name="status_bar_network_flow_exceed">"היום:%1$s    חגריגה:%2$s    חבילה:%3$s"</string>
 	<string name="status_bar_network_flow_today">היום:%1$s</string>
-	<string name="status_bar_network_name_separator">"
-"</string>
+	<string name="status_bar_network_name_separator">""</string>
 	<string name="status_bar_no_recent_apps">אין יישומים אחרונים</string>
 	<string name="status_bar_notification_inspect_item_title">פרטי יישום</string>
 	<string name="status_bar_recent_guide_all">החלק מעלה כדי לסגור, החלק מטה כדי לנעול</string>
@@ -227,6 +226,7 @@
 	<string name="status_bar_toggle_drive_mode">נהיגה</string>
 	<string name="status_bar_toggle_power_high">ביצועים</string>
 	<string name="status_bar_toggle_power_low">חשבון-בחשמל</string>
+	<string name="status_bar_toggle_quiet_mode">DND</string> 
 	<string name="status_bar_toggle_power_mid">רגיל</string>
 	<string name="status_bar_toggle_ring">צליל</string>
 	<string name="status_bar_toggle_ringtone">צלצול</string>

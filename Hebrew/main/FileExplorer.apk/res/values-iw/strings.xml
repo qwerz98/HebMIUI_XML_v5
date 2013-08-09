@@ -123,8 +123,8 @@
 	<string name="garbage_size_metric">"%s+זבל"</string>
 	<string name="gbk_summary">If you are using GBK encoding, e.g. Windows Explorer, choose this type of encoding to avoid garbled Chinese text</string>
 	<string name="gbk_title">GBK</string>
-	<string name="give_up_cleaning">Cancel clean-up</string>
-	<string name="header_text_cleaned">Deleted junk</string>
+	<string name="give_up_cleaning">בטל ניקיון</string>
+	<string name="header_text_cleaned">מחק זבל</string>
 	<string name="header_text_cleaning">Cleaning junk left over</string>
 	<string name="header_text_scanned">Junk files found for deletion</string>
 	<string name="header_text_scanning">Scanning junk files…</string>
@@ -248,9 +248,9 @@
 	<string name="tab_networkdisk">MiDrive</string>
 	<string name="tab_phone">טלפון</string>
 	<string name="temp_file_cleanup_indication">%s temporary files</string>
-	<string name="temp_file_title">Temporary files</string>
+	<string name="temp_file_title">קבצים זמניים</string>
 	<string name="thumbnail_cleanup_indication">%s thumbnails</string>
-	<string name="thumbnail_title">Thumbnail files</string>
+	<string name="thumbnail_title">קבצי תמונה ממוזערת</string>
 	<string name="toast_file_not_can_read">The file is unreadable or corrupted.</string>
 	<string name="trans_task">תעבורת רשת</string>
 	<string name="trans_task_delete_confirm_message">Are you sure you want to delete the selected %1$d tasks?</string>
