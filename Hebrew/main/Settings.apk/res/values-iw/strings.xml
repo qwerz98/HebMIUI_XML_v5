@@ -760,7 +760,6 @@ If the device has multiple users, using this shortcut on the lock screen tempora
 	<string name="dolby_mode_music">מצב מוזיקה</string>
 	<string name="dolby_mode_off">כבה</string>
 	<string name="dolby_movie_advance">Video Enhancer</string>
-<<<<<<< HEAD
 	<string name="dolby_dialogue_enhancer">Dialogue Enhancer</string> 
 	<string name="dolby_ieq_flat">Off</string>
 	<string name="dolby_ieq_focused">Focused</string>
@@ -783,47 +782,17 @@ If the device has multiple users, using this shortcut on the lock screen tempora
 	<string name="headset_mode_volume">Adjust volume - up/down</string>
 	<string name="headset_no_contected">Headset not connected</string>
 	<string name="headset_settings">Headset Settings</string> 
-=======
-	<string name="dolby_dialogue_enhancer">Dialogue Enhancer</string> 
-	<string name="dolby_ieq_flat">Off</string>
-	<string name="dolby_ieq_focused">Focused</string>
-	<string name="dolby_ieq_open">Open</string>
-	<string name="dolby_ieq_rich">Rich</string> 
-	<string name="dolby_surround_virtualizer">Surround Sound Virtualizer</string>
-	<string name="dolby_volume_leveler">Volume Leveller</string> 
-	<string name="headset_calibrate">Calibrate buttons</string>
-	<string name="headset_calibrate_apply">Apply</string>
-	<string name="headset_calibrate_confirm">Save new calibration settings?</string>
-	<string name="headset_calibrate_hint">Please press the upper button</string>
-	<string name="headset_calibrate_next_track">Next track</string>
-	<string name="headset_calibrate_prev_track">Previous track</string>
-	<string name="headset_calibrate_success">Settings applied</string>
-	<string name="headset_calibrate_volume_down">Volume down</string>
-	<string name="headset_calibrate_volume_up">Volume up</string>
-	<string name="headset_calibrate_wrong_key">Incorrect input key, please try again</string>
-	<string name="headset_function">Headset functions</string>
-	<string name="headset_mode_music">Music playback - previous/next</string>
-	<string name="headset_mode_volume">Adjust volume - up/down</string>
-	<string name="headset_no_contected">Headset not connected</string>
-	<string name="headset_settings">הגדרות אוזניה</string> 
->>>>>>> 3.8.9
 	<string name="dolby_music_advance">Music Enhancer</string>
-	<string name="dolby_preset_create">צור</string>
-	<string name="dolby_preset_format">הותאם אישית %d</string>
+	<string name="dolby_preset_create">Create</string>
+	<string name="dolby_preset_format">Customized %d</string>
 	<string name="dolby_preset_hint">Please enter preset name</string>
-<<<<<<< HEAD
 	<string name="dolby_preset_rename">Rename</string>
-=======
-	<string name="dolby_preset_rename">שנה שם</string>
-	<string name="dolby_preset_select">Please select preset</string>
-	<string name="dolby_roomsize_high">Spacious</string>
->>>>>>> 3.8.9
 	<string name="dolby_roomsize_low">Indoor</string>
-	<string name="dolby_roomsize_normal">רגיל</string>
+	<string name="dolby_roomsize_normal">Normal</string>
 	<string name="dolby_roomsize_summary">Surround sound settings only available while using headset</string>
 	<string name="dolby_roomsize_title">Surround：</string>
 	<string name="drive_mode">Drive mode</string>
-	<string name="drive_mode_auto_reply">תגובה אוטומטית</string>
+	<string name="drive_mode_auto_reply">Auto reply</string>
 	<string name="drive_mode_auto_sms_reply_content">Sorry, I am driving now. I will contact you later.</string>
 	<string name="drive_mode_auto_sms_reply_content_title">Content of SMS reply</string>
 	<string name="drive_mode_calling_auto_sms_reply">Calling auto reply with SMS</string>
@@ -1452,7 +1421,7 @@ please follow the steps to complete installation"</string>
 	<string name="pico_voice_summary_male">גבר</string>
 	<string name="ping_test_label">הפעל בדיקת PING</string>
 	<string name="please_select_phase2">אימות שלב 2</string>
-	<string name="please_type_passphrase">סיסמה אלחוטית</string>
+	<string name="please_type_passphrase">Wireless Password</string>
 	<string name="pointer_location">מיקום מצביע</string>
 	<string name="pointer_location_summary">שכבת על של המסך המציגה את נתוני המגע הנוכחיים</string>
 	<string name="pointer_settings_category">עכבר/משטח עקיבה</string>
@@ -1460,7 +1429,7 @@ please follow the steps to complete installation"</string>
 	<string name="power_bluetooth">בלוטוס</string>
 	<string name="power_cell">סלולרי במצב המתנה</string>
 	<string name="power_idle">טלפון לא פעיל</string>
-	<string name="power_mode">מצב צריכת חשמל</string>
+	<string name="power_mode">Power Mode</string>
 	<string name="power_phone">שיחות קוליות</string>
 	<string name="power_screen">מסך</string>
 	<string name="power_usage_history">שימוש בסוללה</string>
@@ -1475,11 +1444,11 @@ please follow the steps to complete installation"</string>
 	<string name="pref_volume_wake_summary">לחיצה על עוצמת הקול למעלה / למטה מעיר את המכשיר. מיועד למכשירים עם כפתור הפעלה קשה ללחיצה או שאינו פעיל</string>
 	<string name="pref_volume_wake_title">עוצמת התעוררות</string>
 	<string name="preference_change_password_title">שנה סיסמה</string>
-	<string name="preferred_launcher_title">"לאנצ'ר מועדף"</string>
+	<string name="preferred_launcher_title">Preferred Launcher</string>
 	<string name="preferred_launcher_warning_message">Replacing the default launcher may consume more resources than the default launcher. Are you sure you wish to continue?</string>
-	<string name="preferred_launcher_warning_replace">"שנה לאנצ'ר"</string>
-	<string name="preferred_launcher_warning_title">"משנה לאנצ'ר ברירת מחדל"</string>
-	<string name="preferred_launcher_warning_use_system">"השתמש בלאנצ'ר ברירת המחדל"</string>
+	<string name="preferred_launcher_warning_replace">Replace Launcher</string>
+	<string name="preferred_launcher_warning_title">Replacing default launcher</string>
+	<string name="preferred_launcher_warning_use_system">Use default launcher</string>
 	<string name="preferred_media_app_summary">בחר נגן מוסיקה</string>
 	<string name="privacy_mode_enable_sum">Hide call log, messages and so on to protect privacy.</string>
 	<string name="privacy_mode_enable_title">אפשר מצב מאובטח</string>
@@ -1700,10 +1669,10 @@ please follow the steps to complete installation"</string>
 	<string name="search_key">מקש</string>
 	<string name="search_label">הגדרות</string>
 	<string name="search_language">שפה</string>
-	<string name="search_launcher">לאונצר</string>
+	<string name="search_launcher">"לאנצ'ר"</string>
 	<string name="search_led">לד</string>
 	<string name="search_network">רשת</string>
-	<string name="search_power_mode">power mode</string>
+	<string name="search_power_mode">מצב צריכת חשמל</string>
 	<string name="search_ring_volume">עוצמת צלצול</string>
 	<string name="search_ringtone">צלצול</string>
 	<string name="search_screen_timeout">השהיית מסך</string>
@@ -1734,9 +1703,9 @@ please follow the steps to complete installation"</string>
 	<string name="select_device_admin_msg">מנהלי מכשירים</string>
 	<string name="select_subscription">בחר מנוי</string>
 	<string name="selinux_status">SELinux status</string>
-	<string name="selinux_status_disabled">Disabled</string>
-	<string name="selinux_status_enforcing">Enforcing</string>
-	<string name="selinux_status_permissive">Permissive</string>
+	<string name="selinux_status_disabled">מושבת</string>
+	<string name="selinux_status_enforcing">מבוקר</string>
+	<string name="selinux_status_permissive">מורשה</string>
 	<string name="service_background_processes">%1$s של שטח פנוי</string>
 	<string name="service_client_name">%1$s</string>
 	<string name="service_foreground_processes">%1$s בשימוש</string>
