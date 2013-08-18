@@ -275,13 +275,11 @@
 	<string name="find_device_turn_off_flight_mode">כבה מצב טיסה</string>
 	<string name="find_device_turn_off_flight_mode_instructions">"המכשיר שלך ננעל, בטל בבקשה את מצב הטיסה"</string>
 	<string name="firewall_setting">חומת אש</string>
-	<string name="first_back_long_press_message">"האם ברצונך לאפשר אילוץ סגירה של יישומים ע\"י לחיצה ארוכה על מקש ה\"חזור\"?	
-
-ניתן לאפשר בהגדרות &gt; מערכת &gt; הגדרות לחצנים"</string>
+	<string name="first_back_long_press_message">"האם ברצונך לאפשר אילוץ סגירה של יישומים ע\"י לחיצה ארוכה על מקש ה\"חזור\"? ניתן לאפשר בהגדרות &gt; מערכת &gt; הגדרות לחצנים"</string>
 	<string name="fm_record_smaple_prefix_miui">הקלטת רדיו</string>
 	<string name="fools_day">אחד באפריל</string>
 	<string name="force_exit_message">\"%1$s\" נסגר בהצלחה</string>
-	<string name="forget_password_string">שחכת סיסמה</string>
+	<string name="forget_password_string">שכחתי סיסמה</string>
 	<string name="format_time_in_12_hours">%1$s %2$s</string>
 	<string name="global_action_privacy_mode_dialog_message">במצב פרטיות שיחות, פתקים והודעות יוסתרו ולא תוכל להכנס למצהב עריכה.</string>
 	<string name="global_action_toggle_privacy_mode">פרטיות</string>
@@ -387,7 +385,7 @@
 	<string name="perm_send_push_lab">Send push message</string>
 	<string name="perm_tigger_toggle_dspt">Allow apps to trigger toggles provided by status bar</string>
 	<string name="perm_tigger_toggle_lab">Trigger toggles from status bar</string>
-	<string name="perm_use_find_device">Locate device</string>
+	<string name="perm_use_find_device">איתור מכשיר</string>
 	<string name="permdesc_accessNote">Allows the app to read and modify your notes stored on your phone. Malicious applications can use this to send your notes to other people or erase all notes.</string>
 	<string name="permlab_accessNote">הערות גישה</string>
 	<string name="pin_operation_failed">פעולת PIN נכשלה.</string>
@@ -404,7 +402,7 @@
 	<string name="screen_button_notification_title">כפתורי מסך מושבתים</string>
 	<string name="screen_on_proximity_sensor_hint">"Force to quit: pressing 'Back'+'Volume Up' key"</string>
 	<string name="screen_on_proximity_sensor_summary">"Misuse mode enabled. Phone functions are currently disabled!"</string>
-	<string name="screen_on_proximity_sensor_title">Prevent phone misuse</string>
+	<string name="screen_on_proximity_sensor_title">למנוע שימוש לרעה בטלפון</string>
 	<string name="sd_not_available">כרטיס זיכרון לא זמין</string>
 	<string name="sd_not_available_low_internal_storage">כרטיס זיכרון לא זמין ואין מקום פנוי בזיכרון הפנימי</string>
 	<string name="sd_not_available_saved_to_internal_storage">נשמר בזיכרון הפנימי</string>
@@ -422,9 +420,9 @@
 	<string name="sim_changed_reactivate_int_notice">Current SIM is not activated. An international SMS is required to activate this service, would you like to activate it now?</string>
 	<string name="sim_changed_reactivate_notice">The current SIM card is not activated. An SMS is required to activate the Xiaomi Synchronisation service. Reactivate now?</string>
 	<string name="sim_in_airplane_mode">Disable Airplane mode.</string>
-	<string name="sim_locked">SIM card locked</string>
-	<string name="sim_not_ready">SIM card in use, please try again.</string>
-	<string name="sim_unavailable">SIM card unavailable</string>
+	<string name="sim_locked">כרטיס ה-SIM נעול</string>
+	<string name="sim_not_ready">כרטיס ה-SIM בשימוש, אנא נסה שנית.</string>
+	<string name="sim_unavailable">כרטיס ה-SIM לא זמין</string>
 	<string name="slight_cold"/>
 	<string name="slight_heat"/>
 	<string name="solar_calendar"/>
@@ -447,7 +445,7 @@
 	<string name="tomorrow">מחר</string>
 	<string name="unknown">מספר חסוי</string>
 	<string name="unknown_caller">מספר חסוי</string>
-	<string name="unlock_string">OK</string>
+	<string name="unlock_string">אוקי</string>
 	<string name="unlocking_sim_card">ביטול נעילה כרטיס ה-SIM</string>
 	<string name="unlockscreen_low_battery">חבר את המטען</string>
 	<string name="unlockscreen_recharge_completed">סוללה טעונה במלואה</string>
@@ -462,14 +460,14 @@
 	<string name="v5_date_picker_label_year"/>
 	<string name="v5_deselect_all">בטל בחירת הכל</string>
 	<string name="v5_edit_mode_title_empty">בחר פריטים</string>
-	<string name="v5_icon_menu_bar_more_item_label">More</string>
+	<string name="v5_icon_menu_bar_more_item_label">עוד</string>
 	<string name="v5_select_all">בחר הכל</string>
 	<string name="v5_time_picker_label_hour"/>
 	<string name="v5_time_picker_label_minute"/>
 	<string name="valentines_day">יום האהבה</string>
 	<string name="vernal_equinox"/>
 	<string name="volume_alarm">שעון מעורר</string>
-	<string name="volume_icon_description_bluetooth">Bluetooth</string>
+	<string name="volume_icon_description_bluetooth">"בלוטות'"</string>
 	<string name="volume_icon_description_incall">שיחה</string>
 	<string name="volume_icon_description_media">מדיה</string>
 	<string name="volume_icon_description_notification">התראה</string>

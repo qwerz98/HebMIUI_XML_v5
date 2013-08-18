@@ -28,7 +28,7 @@
 	<string name="account_settings_delete_account_label">הסר חשבון</string>
 	<string name="account_settings_description_label">שם חשבון</string>
 	<string name="account_settings_edit_quick_responses_label">תגובות מהירות</string>
-	<string name="account_settings_edit_quick_responses_summary">דקסט שאתה משתמש בו לעיתים דחופות בעת כתיבת דוא"ל</string>
+	<string name="account_settings_edit_quick_responses_summary">טקסט שאתה משתמש בו לעיתים דחופות בעת כתיבת דוא"ל</string>
 	<string name="account_settings_exit_server_settings">בטל שינויים שלא נשמרו?</string>
 	<string name="account_settings_incoming_label">הגדרות דואר נכנס</string>
 	<string name="account_settings_incoming_summary">שם משתמש, סיסמה והגדרות שרת נכנסות אחרות</string>
@@ -80,7 +80,7 @@
 	<string name="account_setup_check_settings_check_outgoing_msg">בדיקת הגדרות שרת הדואר היוצא…</string>
 	<string name="account_setup_check_settings_retr_info_msg">אחזור פרטי חשבון…</string>
 	<string name="account_setup_exchange_certificate_title">אישור לקוח</string>
-	<string name="account_setup_exchange_device_id_label">ID של המחשיר</string>
+	<string name="account_setup_exchange_device_id_label">מזהה מכשיר</string>
 	<string name="account_setup_exchange_headline">הגדרות שרת</string>
 	<string name="account_setup_exchange_no_certificate">ללא</string>
 	<string name="account_setup_exchange_remove_certificate">הסר</string>
@@ -317,9 +317,7 @@
 	<string name="mailbox_settings_mailbox_check_frequency_label">בדוק תדירות</string>
 	<string name="mailbox_settings_mailbox_sync_window_label">ימים לסנכרון</string>
 	<string name="mailbox_shortcut_picker_title">בחר תיקיה</string>
-	<string name="manager_activity_last_sync_format">"סנכרון אחרון:
-%1$s
-%2$s"</string>
+	<string name="manager_activity_last_sync_format">"סנכרון אחרון: %1$s %2$s"</string>
 	<string name="manager_do_not_upload">לא להעלות</string>
 	<string name="manager_list_switcher_completed_format">העלאות שהסתיימו [%d]</string>
 	<string name="manager_list_switcher_pending_format">העלאות בהמתנה [%d]</string>

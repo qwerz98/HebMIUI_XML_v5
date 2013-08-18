@@ -278,6 +278,12 @@
 	<string name="select_image">בחר תמונה</string>
 	<string name="select_item">מצב עריכה</string>
 	<string name="select_video">בחר וידאו</string>
+	<string name="screensaver_activate_mode">מצגת שומר מסך</string>
+	<string name="screensaver_activate_only_charging">הפעל שומר מסך רק כאשר בטעינה</string>
+	<string name="screensaver_category">שומר מסך</string>
+	<string name="screensaver_no_data">לא נמצאו תמונות באלבום זה.</string>
+	<string name="screensaver_path">אלבום שומר מסך:</string>
+	<string name="screensaver_path_not_set">לא הוגדר</string> 
 	<string name="send">שלח</string>
 	<string name="send_multiple_files_hint_format">שלח מספר קבצים (%s)</string>
 	<string name="send_to_cloud_failed_message">לא ניתן לשלוח פריט לאחסון באלבום הענן</string>
@@ -298,6 +304,8 @@
 	<string name="share_album">שתף אלבום</string>
 	<string name="share_album_owner">בעלים</string>
 	<string name="share_album_qr_code">QR code</string>
+	<string name="set_screensaver_path_message">האלבום הזה יוצג 5 שניות לאחר כיבוי המסך.</string>
+	<string name="set_screensaver_path_title">מצגת שומר מסך</string> 
 	<string name="share_album_share_to">שתף עם</string>
 	<string name="share_by_email_start">Attempting to share %1$s in the background</string>
 	<string name="share_by_email_successfully">Share %1$s via E-mail successful</string>
@@ -331,6 +339,8 @@
 	<string name="sync_album">סנכרן אלבום</string>
 	<string name="sync_album_error">נכשל בהורדת תמונות מהאלבום. אנא נסה מאוחר יותר.</string>
 	<string name="sync_album_set_error">נכשל בהורדת הרשימה של האלבום. אנא נסה מאוחר יותר.</string>
+	<string name="slideshow_time_select_title">בחר זמן מצגת</string>
+	<string name="slideshow_time_title">זמן מצגת</string> 
 	<string name="sync_album_summary">העלה את התמונות וצילומי המסך שלך לאחסון באלבום MiCloud</string>
 	<string name="sync_history_power_on">סנכרן בעת הטעינה</string>
 	<string name="sync_only_in_wifi">Wi-Fi בלבד</string>
