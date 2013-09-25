@@ -22,8 +22,11 @@
 	<string name="call_record_folder_name">פתקי שיחה</string>
 	<string name="close">סגור</string>
 	<string name="default_folder_name">פתקים</string>
+	<string name="dlg_desc_confirm_alarm_silent">Alarm clock and notes will not sound in silent mode when turned off.</string>
+	<string name="dlg_title_confirm_alarm_silent">Do you want to silence alarms in silent mode?</string>
 	<string name="enable_sync">סנכרן</string>
 	<string name="enable_sync_desc">הפתקים של מסונכרים עם חשבון Xiaomi %1$s, לסנכרן עכשיו?</string>
+	<string name="error_contact_not_exist">The contact does not exist</string>
 	<string name="error_note_empty_for_clock">לא ניתן להגדיר שעון על פתק ריק</string>
 	<string name="error_note_empty_for_send_to_desktop">לא ניתן לשלוח פתק ריק</string>
 	<string name="error_note_not_exist">פתק זה לא קיים</string>
@@ -70,8 +73,11 @@
 	<string name="notify_alarm_action_mute">השתק</string>
 	<string name="notify_alarm_action_view">הצג</string>
 	<string name="notify_alarm_title">תזכורת שעון מעורר</string>
+	<string name="pref_desc_alarm_when_silent">Alarms will sound in silent mode</string>
 	<string name="pref_desc_mode_grid">רשת</string>
 	<string name="pref_desc_mode_list">רשימה</string>
+	<string name="pref_title_alarm_when_silent">Alarm in silent mode</string>
+	<string name="pref_title_common">Common settings</string>
 	<string name="pref_title_data_export">ייצוא נתונים</string>
 	<string name="pref_title_data_export_to_sdcard">ייצא פתק לכרטיס הזכרון</string>
 	<string name="pref_title_note_style">סגנון הפתק</string>
@@ -86,10 +92,12 @@
 	<string name="snippet_image_template">[%1$s]</string>
 	<string name="success_sdcard_export">היצוא הצליח</string>
 	<string name="time_picker_dialog_title">הגדרת זמן תזכורת</string>
+	<string name="toast_folder_privacy_mode">"Can't edit folder in guard mode"</string>
 	<string name="toast_message_add_image_fail">לא ניתן להכניס תמונה!</string>
+	<string name="toast_note_privacy_mode">"Can't edit note in guard mode"</string>
 	<string name="toast_privacy_mode">לא ניתן לערוך פתק במצב מאובטח</string>
 	<string name="toast_reach_text_limit_attachment">התוכן של פתק ארוך מדי כדי להוסיף קבצים מצורפים חדשים.</string>
-	<string name="toast_reach_text_limit_truncate">"תוכן הפתק כבר קוצץ מפני שהוא יותר מדי ארוך."</string> 
+	<string name="toast_reach_text_limit_truncate">"תוכן הפתק כבר קוצץ מפני שהוא יותר מדי ארוך."</string>
 	<string name="widget_havenot_content">לא נמצא פתק קשור, לחץ ליצירת פתק מקושר</string>
 	<string name="widget_under_visit_mode">מצב פרטי ולא ניתן לראות את תוכן הפתק</string>
 </resources>

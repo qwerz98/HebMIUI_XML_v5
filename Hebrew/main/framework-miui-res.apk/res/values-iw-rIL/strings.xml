@@ -6,6 +6,9 @@
 	<string name="alarm_message_12_hour_formate">aah:mm</string>
 	<string name="alwaysUsePrompt">קבע כברירת מחדל (לא לבקש בפעם הבאה)</string>
 	<string name="android_lockscreen_glogin_instructions">כדי לבטל את הנעילה, התחבר לחשבונך</string>
+	<string name="app_no_notification">אין התראות</string>
+	<string name="app_notificaiton_on_notificationBar">בר ההתראות</string>
+	<string name="app_notificaiton_on_statusBar_and_notificationBar">סטטוס ובר ההתראות</string>
 	<string name="arbor_day">ט"ו בשבט</string>
 	<string name="autumn_begins">סתיו</string>
 	<string name="autumn_equinox">Fall Equinox</string>
@@ -253,10 +256,17 @@
 	<string name="country_name_zw">ZW</string>
 	<string name="day_of_month">" %d"</string>
 	<string name="days">ימים</string>
+	<string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
+	<string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+	<string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
+	<string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
+	<string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
 	<string name="delete">מחק</string>
 	<string name="deprecated_alarm_message_12_hour_formate"/>
+	<string name="device_hongmi">Hongmi טלפון</string>
 	<string name="device_xiaomi">טלפון Xiaomi</string>
 	<string name="emergency_call_string">שיחת חרום</string>
+	<string name="err_resource_leak">Unfortunately, %1$s has stopped due to a resource leak.</string>
 	<string name="error_forbidden">קיימות בעיות בחשבונך. הסנכרון מושבת.</string>
 	<string name="error_not_acceptable">אירעה שגיאת שרת. הסנכרון מושבת.</string>
 	<string name="error_title">שגיאת סנכרון עבור %s</string>
@@ -314,6 +324,9 @@
 	<string name="lockscreen_access_pattern_detected">התבנית הושלמה</string>
 	<string name="lockscreen_access_pattern_start">התבנית החלה</string>
 	<string name="lockscreen_emergency_call">שיחת חרום</string>
+	<string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly inputted your password %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your account details.
+
+Try again in %d seconds."</string>
 	<string name="lockscreen_forgot_pattern_button_text">שחכת תבנית?</string>
 	<string name="lockscreen_pattern_instructions">צייר תבנית לביטות הנעילה</string>
 	<string name="lockscreen_pattern_wrong">תבנית שגויה! נסה שנית</string>
@@ -322,6 +335,7 @@
 	<string name="lockscreen_transport_play_description">לחצן הפעלה</string>
 	<string name="lockscreen_transport_prev_description">רצועה הקודמת</string>
 	<string name="lockscreen_unlock_sim_via_puk">השתמש בPUK לשחרור סים</string>
+	<string name="login_website_in_case_forget_password">Please visit http://i.xiaomi.com to reset your password</string>
 	<string name="lunar_ba"/>
 	<string name="lunar_calendar">לוח שנה לפי ירח</string>
 	<string name="lunar_chu"/>
@@ -462,8 +476,8 @@
 	<string name="v5_edit_mode_title_empty">בחר פריטים</string>
 	<string name="v5_icon_menu_bar_more_item_label">עוד</string>
 	<string name="v5_select_all">בחר הכל</string>
-	<string name="v5_time_picker_label_hour"/>
-	<string name="v5_time_picker_label_minute"/>
+	<string name="v5_time_picker_label_hour">שעה</string>
+	<string name="v5_time_picker_label_minute">דקה</string>
 	<string name="valentines_day">יום האהבה</string>
 	<string name="vernal_equinox"/>
 	<string name="volume_alarm">שעון מעורר</string>
@@ -472,6 +486,7 @@
 	<string name="volume_icon_description_media">מדיה</string>
 	<string name="volume_icon_description_notification">התראה</string>
 	<string name="volume_icon_description_ringer">צילצול</string>
+	<string name="volume_ring_description">עוצמת רינגטון והתראות</string>
 	<string name="wake_alarm_message">השהה שעון מעורר. הזכר בעוד %s </string>
 	<string name="white_dews"/>
 	<string name="winter_begins"/>

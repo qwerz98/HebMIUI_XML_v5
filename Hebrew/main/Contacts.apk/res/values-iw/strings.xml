@@ -8,6 +8,7 @@
 	<string name="account_type_format">איש קשר של %1$s</string>
 	<string name="actionIncomingCall">שיחות נכנסות</string>
 	<string name="action_menu_overflow_description">אפשרויות נוספות</string>
+	<string name="activity_not_found_uri">No supported application found!</string>
 	<string name="activity_title_confirm_add_detail">הוסף לאיש קשר</string>
 	<string name="activity_title_contacts_filter">אנשי קשר להצגה</string>
 	<string name="activity_title_settings">הגדרות</string>
@@ -33,7 +34,6 @@
 	<string name="all_resources">הכל</string>
 	<string name="antispam_mark_my_contribution">התרומה שלי למסד הנתונים</string>
 	<string name="antispam_provider_format">מספר ניכר זה נוסף על ידי %s</string>
-	<string name="contact_is_readOnly">לא ניתן לערוך את אנשי קשר לקריאה בלבד</string> 
 	<string name="attach_photo_dialog_title">תמונה של איש קשר</string>
 	<string name="audio_chat">"צ'אט קולי"</string>
 	<string name="auto_nickname">אוטומטי</string>
@@ -76,6 +76,7 @@
 	<string name="call_other_fax">התקשר לפקס</string>
 	<string name="call_pager">התקשר לזימונית</string>
 	<string name="call_radio">התקשר לרדיו</string>
+	<string name="call_record_setting_miui">Recording Settings</string>
 	<string name="call_settings">הגדרות</string>
 	<string name="call_telex">התקשר לטלקס</string>
 	<string name="call_tty_tdd">התקשר ל-TTY/TDD</string>
@@ -87,7 +88,7 @@
 	<string name="calllog_menu_edit_before_call">ערוך לפני חיוג</string>
 	<string name="calllog_menu_send_sms">שלח הודעה</string>
 	<string name="callrecordview_item_newcontact">איש קשר חדש</string>
-	<string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d דקות %d שניות</string>
+	<string name="callrecordview_item_op_time_minutes_seconds">%d דקות %d שניות</string>
 	<string name="callrecordview_item_op_time_missed">לא התחבר</string>
 	<string name="callrecordview_item_op_time_only_minutes">%d דקות</string>
 	<string name="callrecordview_item_op_time_only_seconds">%d שניות</string>
@@ -137,7 +138,9 @@
 	<string name="clearFrequentsConfirmation_title">נקה את נוצר קשר לאחרונה?</string>
 	<string name="clearFrequentsProgress_title">מנקה את נוצר קשר לאחרונה...</string>
 	<string name="clear_default">נקה ברירת מחדל</string>
+	<string name="clear_digits">clear phone number</string>
 	<string name="click_close">לחץ על המסך לסגירה</string>
+	<string name="close_dial_pad">close dial pad</string>
 	<string name="cloud_antispam_mark">זבל</string>
 	<string name="cloud_antispam_title">הגנת ענן</string>
 	<string name="composer_failed_to_get_database_infomation">לא ניתן לקבל מידע על מסד נתונים</string>
@@ -153,6 +156,7 @@
 	<string name="config_prohibited_phone_number_regexp"/>
 	<string name="confirm_delete_contact_all_call_logs">אתה בטוח שברצונך למחוק את יומני השיחות של %s?</string>
 	<string name="confirm_delete_selected_all_call_logs">אתה בטוח שברצונך למחוק את יומני השיחות של אנשי הקשר?</string>
+	<string name="confirm_delete_sim_entry_miui">Confirm deletion of %d selected contacts on SIM card?</string>
 	<string name="confirm_export_message">לייצא את רשימת אנשי הקשר שלך לקובץ \"%s\"?</string>
 	<string name="confirm_export_title">אשר יצוא</string>
 	<string name="connections">חיבורים</string>
@@ -173,6 +177,7 @@
 	<string name="contact_editor_prompt_multiple_accounts">ניתן לסנכרן את איש הקשר החדש שלך עם אחד מהחשבונות הבאים. באיזה מהם ברצונך להשתמש?</string>
 	<string name="contact_editor_prompt_one_account">איש הקשר החדש שלך יסונכרן עם %1$s.</string>
 	<string name="contact_editor_prompt_zero_accounts">איש הקשר החדש שלך לא יגובה. להוסיף חשבון שמגבה אנשי קשר באופן מקוון?</string>
+	<string name="contact_is_readOnly">לא ניתן לערוך את אנשי קשר לקריאה בלבד</string>
 	<string name="contact_list_loading">טוען...</string>
 	<string name="contact_pick_photo">תמונה</string>
 	<string name="contact_read_only">לא ניתן לעריכה מתוך יישום זה</string>
@@ -203,11 +208,17 @@
 	<string name="deleteConfirmation_title">מחק</string>
 	<string name="delete_call_log_title">בחר יומן שיחות למחיקה?</string>
 	<string name="delete_contact_calllog_title">האם למחוק את יומן השיחות עבור איש קשר זה?</string>
+	<string name="delete_dial_input">delete</string>
 	<string name="delete_duplicate">מיזוג קבוצה</string>
 	<string name="delete_duplicate_message">"ממזג ... "</string>
 	<string name="delete_group_dialog_message">"האם אתה בטוח שברצונך למחוק את הקבוצה '%1$s'? (אנשי הקשר עצמם לא יימחקו.)"</string>
 	<string name="delete_group_dialog_title">מחק את הקבוצה</string>
+	<string name="delete_selected_sim_entry_miui">Delete selected contacts?</string>
+	<string name="delete_sim_entries_finish">Successfully deleted selected SIM contacts</string>
+	<string name="delete_sim_entry_miui">Delete SIM Contacts</string>
 	<string name="delete_unknown_contact_calllog_title">האם למחוק את יומן השיחות עבור אנשי קשר בלתי מזוהים?</string>
+	<string name="deleting">Deleting...</string>
+	<string name="deleting_sim_entry_miui">Deleting contacts on SIM card</string>
 	<string name="description_add_contact">הוסף איש קשר</string>
 	<string name="description_author">מחבר:</string>
 	<string name="description_call">התקשר אל %1$s</string>
@@ -274,6 +285,7 @@
 	<string name="device_version_header_bluetooth">הפעל את Bluetooth המכשיר שלך</string>
 	<string name="device_version_header_no_bluetooth">ייבא אנשי קשר מכרטיס ה-SIM</string>
 	<string name="device_version_title">בחר גרסת טלפון נייד</string>
+	<string name="dial">dial</string>
 	<string name="dialerDialpadHintText">חייג כדי להוסיף שיחה</string>
 	<string name="dialerIconLabel">אחרונות</string>
 	<string name="dialerKeyboardHintText">השתמש במקלדת לחיוג</string>
@@ -307,8 +319,11 @@
 	<string name="display_sim_contacts">הראה אנשי קשר ב SIM</string>
 	<string name="display_ungrouped">כל אנשי הקשר האחרים</string>
 	<string name="display_warn_remove_ungrouped">"הסרת '%s' מהסינכרון תסיר מהסינכרון גם אנשי קשר שאינם מקובצים."</string>
+	<string name="dlg_add_blacklist">Add selected number to blacklist?</string>
+	<string name="dlg_remove_blacklist">Remove selected number from blacklist?</string>
 	<string name="download_failed">הורדה נכשלה!</string>
 	<string name="download_preview_failed">לא ניתן לטעון את התצוגה המקדימה</string>
+	<string name="duplicate_group_name">Group name already exists</string>
 	<string name="editContactDescription">ערוך איש קשר</string>
 	<string name="editGroupDescription">ערוך קבוצה</string>
 	<string name="edit_contact">ערוך איש קשר</string>
@@ -398,6 +413,7 @@
 	<string name="ic_menu_done">בוצע</string>
 	<string name="imLabelsGroup">הודעה מיידית</string>
 	<string name="imei">IMEI</string>
+	<string name="import_all_sim_entries_miui">Import all contacts</string>
 	<string name="import_all_vcard_string">ייבא את כל קובצי vCard</string>
 	<string name="import_contact_card_button">יבא</string>
 	<string name="import_failure_no_vcard_file">לא נמצא קובץ vCard בכרטיס ה-SD</string>
@@ -408,6 +424,9 @@
 	<string name="import_name">שם</string>
 	<string name="import_one_vcard_string">ייבא קובץ vCard אחד</string>
 	<string name="import_percent">0%</string>
+	<string name="import_selected_sim_entries_miui">Import selected contacts</string>
+	<string name="import_sim_entries_finish">Import SIM contacts completed successfully</string>
+	<string name="import_sim_entry_miui">Import from SIM</string>
 	<string name="import_to_xiaomi_account_confirm">ייבא</string>
 	<string name="import_to_xiaomi_account_progress_finish">ייבוא הושלם!</string>
 	<string name="import_to_xiaomi_account_progress_message">מייבא…</string>
@@ -415,19 +434,17 @@
 	<string name="import_to_xiaomi_account_title">האם אתה רוצה לייבא את אנשי הקשר הבאים לחשבון Xiaomi?</string>
 	<string name="import_vcard_description">ייבוא אנשי קשר נכרטיס זכרון</string>
 	<string name="import_weibo_dialog_title">Import Sina weibo contacts</string>
-	<string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
 	<string name="import_weibo_error_no_matched_contacts">עדכון אנשי קשר בוצע: אין אנשי קשר התואמים לחיפוש</string>
 	<string name="import_weibo_error_no_network">עדכון אנשי קשר בוצע: בעיות ברשת</string>
 	<string name="import_weibo_error_no_xiaomi_phone">עדכון אנשי קשר בוצע: אין מספרי טלפון שנמצאו תחת חשבון Xiaomi</string>
 	<string name="import_weibo_error_unknown">עדכון אנשי קשר בוצע: שגיאה לא ידועה</string>
-	<string name="import_weibo_error_user_cancel">עדכון אנשי קשר בוצע: בוטל ע"י המשתמש</string> 
-	<string name="menu_bar_group_ringtone_largeui">צלצול</string> 
-	<string name="profile_name">הפרופיל שלי</string>
-	<string name="sina_weibo">Sina Weibo</string> 
+	<string name="import_weibo_error_user_cancel">עדכון אנשי קשר בוצע: בוטל ע"י המשתמש</string>
+	<string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
 	<string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
 	<string name="import_weibo_notification_title_done">ייבוא הושלם</string>
 	<string name="import_weibo_progress_name">%1$s</string>
 	<string name="import_weibo_progress_percent">%1$d%%</string>
+	<string name="importing_sim_contacts_miui">Importing SIM contacts...</string>
 	<string name="importing_vcard_canceled_title">הייבוא של %s בוטל</string>
 	<string name="importing_vcard_description">מייבא את %s</string>
 	<string name="importing_vcard_finished_title">הייבוא של vCard בשם %s הסתיים</string>
@@ -479,6 +496,7 @@
 	<string name="menu_bar_group_delete">מחק</string>
 	<string name="menu_bar_group_rename">שנה שם</string>
 	<string name="menu_bar_group_ringtone">רינגטון הקבוצה</string>
+	<string name="menu_bar_group_ringtone_largeui">צלצול</string>
 	<string name="menu_bar_group_sms">SMS קבוצתי</string>
 	<string name="menu_call">התקשר לאיש קשר</string>
 	<string name="menu_callNumber">התקשר אל %s</string>
@@ -739,12 +757,15 @@
 	<string name="private_num">מספר פרטי</string>
 	<string name="processing">מעבד...</string>
 	<string name="profile_display_name">הגדר את הפרופיל שלי</string>
+	<string name="profile_name">הפרופיל שלי</string>
+	<string name="profile_name_photo">I</string>
 	<string name="progress_notifier_message" formatted="false">מייבא %s/%s: %s</string>
 	<string name="quickcontact_missing_app">לא נמצא יישום שתומך בפעולה זו</string>
 	<string name="quit_dialog_confirm_title">לצאת ממיזוג אנשי הקשר?</string>
 	<string name="readOnlyContactDeleteConfirmation">איש קשר זה מכיל מידע מחשבונות מרובים. מידע מחשבונות לקריאה בלבד יוסתר ברשימות אנשי הקשר ולא יימחק.</string>
 	<string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
 	<string name="readOnlyContactWarning">לא ניתן למחוק אנשי קשר מחשבונות לקריאה בלבד, אך ניתן להסתיר אותם ברשימות אנשי הקשר.</string>
+	<string name="readingSimContacts">Reading SIM card information, please wait...</string>
 	<string name="reading_vcard_canceled_title">קריאת נתוני vCard בוטלה</string>
 	<string name="reading_vcard_failed_title">לא ניתן לקרוא נתוני vCard</string>
 	<string name="rebuild_t9_index_dialog_message">בונה מחדש נותוני חיפוש T9...</string>
@@ -767,6 +788,7 @@
 	<string name="remind_btn_ignore">התעלם</string>
 	<string name="remind_btn_sync_now">סנכרן עכשיו</string>
 	<string name="removePhoto">הסר תמונה</string>
+	<string name="remove_blacklist">Remove from blacklist</string>
 	<string name="remove_duplicate">MIUI will help you find and merge duplicate contacts, contacts will not be merged automatically. To merge contacts please do this manually</string>
 	<string name="resource_alarm_default">שעון מעורר</string>
 	<string name="resource_app_name">מקורות דפדפן</string>
@@ -777,6 +799,8 @@
 	<string name="resource_default_name">מקור</string>
 	<string name="resource_delete_all">אתה בטוח שברצונך למחוק %1$d מקורות שנבחרו?</string>
 	<string name="resource_delete_confirm">האם אתה בטוח שברצונך למחוק את מקורות אלה?</string>
+	<string name="resource_delta_update_failed">Patch update failed! The complete resource will now be downloaded</string>
+	<string name="resource_delta_update_successful">Patch update successful，saving %1$s.</string>
 	<string name="resource_detail">פרטים</string>
 	<string name="resource_download">הורדה</string>
 	<string name="resource_downloaded_title">משאבים שהורדו</string>
@@ -786,6 +810,7 @@
 	<string name="resource_get_auth_exceed_max_limit_title">חרגת מניסיונות ההרשאה</string>
 	<string name="resource_get_auth_missing">ערכת הנושא לא הורדה מהחנות הרשמית, נא להוריד דומה מהחנו הרשמית.</string>
 	<string name="resource_get_auth_retrieving">מאחזר הרשאה...</string>
+	<string name="resource_import_successful">Download successful.</string>
 	<string name="resource_importing">מייבא...</string>
 	<string name="resource_list_title">אחרון</string>
 	<string name="resource_local">מקומי %1$s</string>
@@ -811,6 +836,7 @@
 	<string name="ret_sign">" "</string>
 	<string name="returnCall">התקשר בחזרה</string>
 	<string name="ringLabelsGroup">צילצול</string>
+	<string name="save">Save</string>
 	<string name="save_photo_progress">שומר תמונה…</string>
 	<string name="savingContact">שומר איש קשר…</string>
 	<string name="savingDisplayGroups">שומר אפשרויות תצוגה...</string>
@@ -848,15 +874,20 @@
 	<string name="shortcutDialContact">חיוג ישיר</string>
 	<string name="shortcutMessageContact">הודעה ישירה</string>
 	<string name="showAllContactsJoinItem">הצג את כל אנשי הקשר</string>
+	<string name="simContacts_airplaneMode">To import contacts from your SIM card, please turn off Airplane mode.</string>
+	<string name="simContacts_empty">No contacts found on SIM card.</string>
 	<string name="simContacts_emptyLoading">טוען מכרטיס SIM…</string>
 	<string name="simContacts_title">אנשי קשר בכרטיס SIM</string>
 	<string name="sim_card_no_free_space_message">כרטיס ה SIM שלך מלא, לא ניתן לייבא אנשי קשר. אנא נקה אותו ונסה שנית.</string>
 	<string name="sim_card_no_free_space_title">SIM מלא!</string>
+	<string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
+	<string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
 	<string name="sim_contact_search_error">התרחשה שגיעה בעת חיפוש אנשי קשר ב SIM</string>
 	<string name="sim_contacts">SIM אנשי קשר ב</string>
 	<string name="sim_export_loading">קורא מידע כרטיס ה-SIM (יכול לקחת כדקה)…</string>
 	<string name="sim_indexed_contact_not_exist">מצב %1$d בכרטיס ה-SIM אינו חוקי, צריך להיות בין %2$d ו %3$d</string>
 	<string name="sim_no_contact">אין אנשי קשר ב SIM</string>
+	<string name="sina_weibo">Sina Weibo</string>
 	<string name="single_group_list_empty">לא נמצאו חברים בקבוצה</string>
 	<string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
 	<string name="smart_group_company_label">על פי חברה</string>
@@ -889,7 +920,6 @@
 	<string name="sms_pager">שלח הודעת טקסט לזימונית</string>
 	<string name="sms_radio">שלח הודעת טקסט לרדיו</string>
 	<string name="sms_telex">שלח הודעת טקסט לטלקס</string>
-	<string name="toast_copying">מעתיק, אנא המתן...</string> 
 	<string name="sms_tty_tdd">שלח הודעת טקסט ל-TTY/TDD</string>
 	<string name="sms_work">שלח הודעת טקסט לעבודה</string>
 	<string name="sms_work_mobile">שלח הודעת טקסט לנייד של עבודה</string>
@@ -913,6 +943,8 @@
 	<string name="title_other_devices">התקנים אחרים זמינים</string>
 	<string name="title_paired_devices">מכשירים משויכים</string>
 	<string name="toast_call_detail_error">לא ניתן לקרוא את פרטי השיחה המבוקשת.</string>
+	<string name="toast_copy_done">Copying completed successfully</string>
+	<string name="toast_copying">מעתיק, אנא המתן...</string>
 	<string name="toast_displaying_all_contacts">מציג את כל אנשי הקשר</string>
 	<string name="toast_finish_delete_call_log">תיעוד השיחות נמחק</string>
 	<string name="toast_for_failed_saving_nickname">נכשל בשמירת הכינוי!</string>

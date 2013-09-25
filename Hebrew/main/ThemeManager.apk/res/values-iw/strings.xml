@@ -23,6 +23,8 @@
 	<string name="component_lockstyle_personal_title">הגדרות</string>
 	<string name="component_select_title">נבחרו %1$s רכיבים</string>
 	<string name="component_settings_title">ערוך את ערכת הנושא</string>
+	<string name="default_name">ברירת מחדל</string>
+	<string name="deleting">מוחק...</string>
 	<string name="description_author">יוצר:</string>
 	<string name="description_designer">מעצב:</string>
 	<string name="description_download">הורדה:</string>
@@ -42,6 +44,7 @@
 	<string name="lockscreen_wallpaper">רקע מסך נעילה</string>
 	<string name="lockstyle_personal_settings">התאמה אישית</string>
 	<string name="long_ringtone_resource">ארוך</string>
+	<string name="maml_component_customization_title">Component Settings</string>
 	<string name="menu_refresh">רענן</string>
 	<string name="mi_wallpaper">תמונת רקע</string>
 	<string name="mi_wallpaper_loading">טוען תמונת רקע...</string>
@@ -79,6 +82,8 @@
 	<string name="resource_default_name">מקור</string>
 	<string name="resource_delete_all">Are you sure you wish to delete %1$d selected resources?</string>
 	<string name="resource_delete_confirm">Are you sure you wish to delete these resources?</string>
+	<string name="resource_delta_update_failed">Patch update failed! The complete resource will now be downloaded</string>
+	<string name="resource_delta_update_successful">Patch update successful，saving %1$s.</string>
 	<string name="resource_detail">פרטים</string>
 	<string name="resource_download">הורדה</string>
 	<string name="resource_downloaded_title">מקורות שהורדו</string>
@@ -88,6 +93,7 @@
 	<string name="resource_get_auth_exceed_max_limit_title">Authorisation limit reached!</string>
 	<string name="resource_get_auth_missing">Theme was not downloaded from theme market, please download from official theme market.</string>
 	<string name="resource_get_auth_retrieving">מאחזר הרשאה...</string>
+	<string name="resource_import_successful">Download successful.</string>
 	<string name="resource_importing">מייבא</string>
 	<string name="resource_list_title">נבחר לאחרונה</string>
 	<string name="resource_local">מקומי %1$s</string>
@@ -145,11 +151,10 @@
 	<string name="theme_component_title_ringtone">צלצול</string>
 	<string name="theme_component_title_statusbar">מסך התראות</string>
 	<string name="theme_component_title_wallpaper">רקע מסכי הבית</string>
-	<string name="theme_current_using_has_update">ערכת הנושא עודכנה, לחץ כאן כדי להחיל</string> 
-	<string name="theme_immediately_apply_tip">ערכת הנושא מתעדכנת, להחיל באופן מיידי?</string> 
-	<string name="theme_name">%1$s</string> 
+	<string name="theme_current_using_has_update">ערכת הנושא עודכנה, לחץ כאן כדי להחיל</string>
 	<string name="theme_description_title_customized">ערכת נושא מותאמת אישית</string>
 	<string name="theme_description_title_default">ברירת מחדל</string>
+	<string name="theme_immediately_apply_tip">ערכת הנושא מתעדכנת, להחיל באופן מיידי?</string>
 	<string name="theme_import_activity_label">עדכון ערכת נושא</string>
 	<string name="theme_import_data">מאתחל. אנא המתן...</string>
 	<string name="theme_import_fail">לא ניתן לייבא את ערכת הנושא %1$s</string>
@@ -173,6 +178,7 @@
 	<string name="theme_import_stoping">עוצר...</string>
 	<string name="theme_importing">מייבא ערכות נושא...</string>
 	<string name="theme_is_imported">ערכת הנושא הובאה!</string>
+	<string name="theme_name">%1$s</string>
 	<string name="theme_sdcard_importing">מייבא...</string>
 	<string name="theme_select_others">אחר</string>
 	<string name="theme_upgrade_request_cancel">ביטול</string>

@@ -26,6 +26,13 @@
 	<string name="check_update_when_wifi_available">בדיקת עדכונים ברשת אלחוטית בלבד</string>
 	<string name="checking_for_updates">בודק זמינות עדכונים...</string>
 	<string name="choose_recommend">בחר אם להמליץ או לא</string>
+	<string name="comment_invalid">Touch stars to give a rating</string>
+	<string name="comment_publish">Submit</string>
+	<string name="comment_sending">Sending comment...</string>
+	<string name="comment_upload_failed">Failed to send comment</string>
+	<string name="comment_upload_hint">Thank you for your comments</string>
+	<string name="comment_upload_not_logined">Login first before sending comments</string>
+	<string name="comment_upload_success">Comment successfully sent!</string>
 	<string name="confirm_download_cancelation_dialog_message">מאשר ביטול של ההורדה הנוכחית?</string>
 	<string name="copy_install_log">העתק ללוח</string>
 	<string name="current_version_text">גירסה נוכחית:</string>
@@ -38,6 +45,9 @@
 	<string name="download_ota_rom">הורד עדכון (%s)</string>
 	<string name="download_whole_rom">הורד רום מלא (%s)</string>
 	<string name="downloading_description">מוריד...</string>
+	<string name="edit_comment">Add comment</string>
+	<string name="edit_comment_title">Edit comment</string>
+	<string name="edit_text_default">Write a comment</string>
 	<string name="emegency_build">גרסה:</string>
 	<string name="exception_while_downloading">שגיאה בהורדת עדכון</string>
 	<string name="expect">4. ציפיות</string>
@@ -113,6 +123,11 @@
 יותר מ-%2$s משתמשים נרשמו ל-MIUI %3$s"</string>
 	<string name="sign_in_info_total_more">"דירוג העדכון שלך הוא %1$s
 יותר מ-%2$s משתמשים נרשמו ל-MIUI %3$s"</string>
+	<string name="sina_share_fail">Sending failed!</string>
+	<string name="sina_share_pendding">Sending...</string>
+	<string name="sina_share_success">Sending successful!</string>
+	<string name="sina_token_expired_warning">Weibo account has expired, please reconnect</string>
+	<string name="sina_token_invalid_warning">Weibo account is invalid, please reconnect</string>
 	<string name="stable_build">גרסה יציבה</string>
 	<string name="start_update">החל עדכון</string>
 	<string name="submit">שלח</string>
@@ -125,10 +140,10 @@
 	<string name="system_backup_cancel_text">עדכון</string>
 	<string name="system_backup_download_helper">המכשיר יופעל מחדש אוטומטית להפעלת העדכון לאחר סיום ההורדה</string>
 	<string name="system_backup_error_message">לא נמצא גיבוי</string>
-	<string name="unstable_build">גרסה לא יציבה</string> 
 	<string name="system_backup_helper">עדכון מערכת לא ימחק נתוני משתמש. עם זאת, מומלץ לבצע גיבוי של נתוני המשתמש שלך לפני העדכון</string>
 	<string name="system_backup_ok_text">גיבוי</string>
 	<string name="top_secret_build">בנייה סודית</string>
+	<string name="unstable_build">גרסה לא יציבה</string>
 	<string name="update_comment_hint">(אופציונלי)</string>
 	<string name="update_comment_title">ההערות שלך</string>
 	<string name="update_feedback">Four-grid Update Feedback</string>

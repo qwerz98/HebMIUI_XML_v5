@@ -140,22 +140,25 @@
 	<string name="call_ind_services">"שירותי שיחה עצמאיים"</string>
 	<string name="call_lost">"השיחה נותקה."</string>
 	<string name="call_number">"עד:"</string>
+	<string name="call_record_button_label">Recording %s</string>
 	<string name="call_record_notification_message_low_space_miui">"הקלטה הופסקה בגלל מקום נמוך, לחץ לצפייה %s"</string>
 	<string name="call_record_notification_message_miui">"לחץ לצפייה %s"</string>
 	<string name="call_record_notification_message_sd_unmounted_miui">"ההקלטה הופסקה בגלל שכרטיס ה SD לא מחובר."</string>
+	<string name="call_record_notification_message_start_failed">Recording device is being used by another application.</string>
 	<string name="call_record_notification_title_error_miui">"הקלטת שיחות נכשלה"</string>
 	<string name="call_record_notification_title_miui">"הקלטת השיחה בוצעה בהצלחה"</string>
 	<string name="call_record_path_name_of_sdcard_miui">"כרטיס SD"</string>
 	<string name="call_record_sd_error_miui">"שגיאת גישה לכרטיס SD!"</string>
 	<string name="call_record_sd_space_low_miui">"כרטיס SD כמעט מלא, אנא נסה שוב לאחר ניקוי מקום על כרטיס ה SD"</string>
 	<string name="call_record_setting_miui">"הגדרות הקלטת שיחה"</string>
+	<string name="call_record_unknown_error">An unknown error occurred during recording!</string>
 	<string name="call_recording_notification_summary_miui">"הצג הודעה בשורת מצב כאשר ההקלטה הושלמה"</string>
 	<string name="call_recording_notification_title_miui">"הודעת הקלטת שיחה "</string>
 	<string name="call_recording_prompt_miui">"פתח הקלטת שיחות"</string>
 	<string name="call_settings">"הגדרות שיחה"</string>
 	<string name="call_settings_category_miui">"הגדרות שיחה"</string>
 	<string name="call_settings_miui">"הגדרות שיחה"</string>
-	<string name="call_title_redialing_with_times_miui">"חייגו %d זמנים"</string>
+	<string name="call_title_redialing_with_times_miui">חיוג חוזר %d פעמים</string>
 	<string name="call_waiting_sum_miui">"במהלך שיחה, הודע לי על שיחות נכנסות"</string>
 	<string name="call_waiting_tone_continuously_miui">"השמע צליל ברציפות"</string>
 	<string name="call_waiting_tone_stop_summary">"(לחץ על מקש עוצמת הקול יכול לעצור את הטון באופן ידני)"</string>
@@ -294,6 +297,7 @@
 	<string name="custom_location_location_no_item_miui">"לחץ על 'הוסף' למטה כדי להוסיף שיוך מותאם אישית"</string>
 	<string name="custom_location_number_hint_miui">"אזור חיוג כגון 010, מספר קבוצתי כגון 68 # # # # #"</string>
 	<string name="cw_title_miui">"שיחה ממתינה"</string>
+	<string name="data_connected_change">Unable to change networks while data service is in use. Stop the current data service and select another available network?</string>
 	<string name="data_enable_summary">"אפשר גישה לנתונים על גבי רשת סלולרית"</string>
 	<string name="data_enabled">"נתונים מאופשרים"</string>
 	<string name="deact_all_sub_not_supported">"ביטול הפעלה של שני המנויים אינו נתמך."</string>
@@ -370,6 +374,7 @@
 	<string name="dtmf_tones_summary_miui">"קבע את משך צלילי החיוג"</string>
 	<string name="dtmf_tones_title">"חיוג צלילי"</string>
 	<string name="dtmf_tones_title_miui">"חיוג צלילי"</string>
+	<string name="duringcall">Operation is not permitted during call</string>
 	<string name="ecm_exit_dialog">"EcmExitDialog"</string>
 	<string name="editContact">ערוך</string>
 	<string name="edit_custom_location_title_miui">"התאמה אישית של ייחוס אזורי, מספר ייחוס, תווים כלליים הנתמכים #"</string>
@@ -385,6 +390,8 @@
 	<string name="empty_alert">"%s נדרש, אינו יכול להישאר ריק"</string>
 	<string name="empty_networks_list">"לא נמצאו רשתות."</string>
 	<string name="enable">"אפשר"</string>
+	<string name="enable_antispam_strange_summary">Mute the first call from an unknown number</string>
+	<string name="enable_antispam_strange_title">Anti strange call</string>
 	<string name="enable_disable_administrative">"מנהלי"</string>
 	<string name="enable_disable_advertisements">"פרסומות"</string>
 	<string name="enable_disable_atr">"דיווחי תנועה באזור"</string>
@@ -498,6 +505,7 @@
 	<string name="incall_screen_background_summary_miui">"השתמש בטפט lockscreen כאשר אין סמל"</string>
 	<string name="incall_screen_background_title_miui">"רקע מסך שיחה נכנסת"</string>
 	<string name="incall_status_dialed_mmi">"מתחיל רצף MMI ..."</string>
+	<string name="information">Information</string>
 	<string name="international_disable">"חדשות בינלאומיות מושבתות"</string>
 	<string name="international_enable">"חדשות בינלאומיות מאופשרות"</string>
 	<string name="internet_phone">"שיחת אינטרנט"</string>
@@ -714,6 +722,7 @@
 	<string name="phone_entered_ecm_text">"נכנס למצב חירום של התקשרות "</string>
 	<string name="phone_in_ecm_call_notification_text">"חיבור נתונים מנוטרל"</string>
 	<string name="phone_in_ecm_notification_title">"מצב חירום של התקשרות"</string>
+	<string name="phone_info_divider">"  |  "</string>
 	<string name="phone_numbers">"הזן מספרי טלפון"</string>
 	<string name="pick_outgoing_call_phone_type">"בצע שיחה"</string>
 	<string name="pick_outgoing_sip_phone">"השתמש בחשבון שיחות באינטרנט:"</string>
@@ -771,6 +780,7 @@
 	<string name="preferred_network_type_pref_entries_global_miui">"גלובלי"</string>
 	<string name="preferred_network_type_pref_entries_only_2g_miui">"2G בלבד (חיסכון בחשמל)"</string>
 	<string name="preferred_network_type_pref_entries_only_3g_miui">"3G בלבד"</string>
+	<string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
 	<string name="preferred_network_type_title_miui">"בחירת סוג הרשת"</string>
 	<string name="primary_account_summary_with">"חשבון עיקרי %s"</string>
 	<string name="private_num">מספר חסוי</string>

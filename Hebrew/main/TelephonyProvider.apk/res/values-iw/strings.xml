@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<string name="app_label">אחסון טלפון/הודעות</string>
-	<string name="default_cateogry_courier">Courier</string>
-	<string name="default_cateogry_fraudulent">Fraudulent</string>
-	<string name="default_cateogry_intermediary">Intermediary</string>
-	<string name="default_cateogry_meal_delivery">Meal delivery</string>
-	<string name="default_cateogry_sales">Sales</string>
+	<string name="default_cateogry_courier">שליח</string>
+	<string name="default_cateogry_fraudulent">רמאי</string>
+	<string name="default_cateogry_intermediary">מתווך</string>
+	<string name="default_cateogry_meal_delivery">משלוח ארוחה</string>
+	<string name="default_cateogry_sales">מכירות</string>
 	<string name="mms_provider_label">הודעת MMS</string>
 	<string name="mms_sms_provider_label">הודעות</string>
 	<string name="sms_provider_label">הודעת טקסט</string>

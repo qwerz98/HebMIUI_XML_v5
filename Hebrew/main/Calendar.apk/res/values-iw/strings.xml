@@ -163,7 +163,6 @@
 	<string name="response_no">לא</string>
 	<string name="response_yes">כן</string>
 	<string name="rest_day_indication"/>
-	<string name="work_day_indication"/>
 	<string name="save_label">בוצע</string>
 	<string name="saving_event">שומר ארוע…</string>
 	<string name="saving_event_with_guest">עדכונים נשלחו</string>
@@ -195,6 +194,7 @@
 	<string name="what_label">מה</string>
 	<string name="when_label">מתי</string>
 	<string name="where_label">מיקום</string>
+	<string name="work_day_indication"/>
 	<string name="yearly">שנתי (ב- %s)</string>
 	<string name="yearly_plain">שנתי</string>
 </resources>

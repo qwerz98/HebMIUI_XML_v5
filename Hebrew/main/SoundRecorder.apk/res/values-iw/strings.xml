@@ -6,6 +6,7 @@
 	<string name="audio_db_artist_name">ההקלטות שלך</string>
 	<string name="audio_db_playlist_name">ההקלטות שלי</string>
 	<string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+	<string name="back">Back</string>
 	<string name="button_ok">אשר</string>
 	<string name="call_record">הקלט שיחה</string>
 	<string name="call_record_or">או</string>
@@ -18,9 +19,12 @@
 	<string name="dialog_send">שלח</string>
 	<string name="dialog_title_storage_full">זכרון מלא</string>
 	<string name="dialog_warning">אזהרה</string>
+	<string name="duration_format_hour">%sh</string>
+	<string name="duration_format_minute">%sm</string>
+	<string name="duration_format_second">%ss</string>
 	<string name="error_app_internal">אירעה שגיאה פנימית</string>
 	<string name="error_app_internal_title">שגיאת רשמקול</string>
-	<string name="error_filename_too_long">שם הקובץ ארוך מדיי</string> 
+	<string name="error_filename_too_long">שם הקובץ ארוך מדיי</string>
 	<string name="error_mediadb_new_record">לא מצליח לשמור את ההקלטה</string>
 	<string name="error_sdcard_access">לא מצליח לגשת לכרטיס זיכרון</string>
 	<string name="fm_record">הקלטת FM (%d)</string>
@@ -33,6 +37,7 @@
 	<string name="max_length_reached">הגעת לאורך מקסימלי.</string>
 	<string name="menu_settings">Settings</string>
 	<string name="menu_view_record_list">הצג הקלטות</string>
+	<string name="message_file_size_error">Recording has reached the maximum recording length supported for %s</string>
 	<string name="minute" formatted="false">%d דקות</string>
 	<string name="no_file">אין הקלטה</string>
 	<string name="notification_playback">מנגן הקלטה…</string>
@@ -41,10 +46,14 @@
 	<string name="notification_warning" formatted="false">אחסון נמוך, נשארו לך פחות מ-%d דקות הקלטה</string>
 	<string name="open_file_explorer">פתח סייר קבצים</string>
 	<string name="overwrite_dialog_message" formatted="false">%s כבר קיים. תרצה לשכתב אותו?</string>
+	<string name="pause">Pause</string>
+	<string name="play_record">Play</string>
 	<string name="preference_led_indicator">Recording indicator when screen locked</string>
 	<string name="preference_led_indicator_prompt">Show LED and status bar indicators when recording and screen is locked</string>
+	<string name="preference_record_scenes_dialog_title">Select a recording scene</string>
 	<string name="preference_record_type_dialog_title">Select a recording type</string>
 	<string name="preference_record_type_title">Recording type</string>
+	<string name="preference_scenes">Settings for scenes</string>
 	<string name="preference_silent_mode">Silent mode recording</string>
 	<string name="preference_silent_mode_summary">Set to enable silent recording operation</string>
 	<string name="record_list">רשימת הקלטות</string>
@@ -59,14 +68,19 @@
 	<string name="rename_duplicate">שם ההקלטה קיים, אנא הזן מחדש:</string>
 	<string name="rename_illegal">שם ההקלטה לא חוקי, אנא הזמן מחדש:</string>
 	<string name="sd_card_not_available">כרטיס זיכרון לא זמין</string>
+	<string name="search_for_recordings_in_folders">Search folders for recordings</string>
 	<string name="second" formatted="false">%d שניות</string>
 	<string name="send_to">שלח אל</string>
 	<string name="sound_recorder_settings">הגדרות הקלטה</string>
+	<string name="start_recording">Start recording</string>
 	<string name="status_bar_anti_disturb">הטלפון הושתק, כוון את עוצמת הקול כדי לבטל.</string>
 	<string name="status_bar_back">לחץ כדי לחזור להקלטה</string>
 	<string name="status_bar_recording">מקליט...</string>
 	<string name="status_bar_recording_pause">"ההקלטה הושהתה "</string>
+	<string name="stop_recording">Stop recording</string>
 	<string name="storage_is_full">זכרון מלא</string>
 	<string name="timer_format" formatted="false">%02d:%02d</string>
+	<string name="toast_max_record_time">App: %1$s maximum supported recording time %2$s</string>
 	<string name="unknown_caller">מספר חסוי</string>
+	<string name="view_list_of_recordings">View recordings</string>
 </resources>

@@ -3,6 +3,7 @@
 	<string name="action_submit">שלח</string>
 	<string name="app_label">משוב</string>
 	<string name="btn_send">שלח</string>
+	<string name="bugreport_feedback_from">מאת: %s</string>
 	<string name="description">תיאור (חובה)</string>
 	<string name="discard_draft_dialog_button_cancel">ביטול</string>
 	<string name="discard_draft_dialog_button_discard">אוקיי</string>

@@ -2,6 +2,7 @@
 <resources>
 	<string name="activity_not_found">לא נמצא דרך לפתיחת קובץ</string>
 	<string name="activity_not_found_uri">לא נמצאה תוכנית בשביל זה</string>
+	<string name="addBlackList">Add to Blacklist</string>
 	<string name="add_bookmark">מועדפים</string>
 	<string name="add_contact">איש קשר</string>
 	<string name="add_festival">מועדפים</string>
@@ -28,6 +29,8 @@
 	<string name="attach_subject">נושא</string>
 	<string name="attach_take_photo">צלם תמונה</string>
 	<string name="attach_video">סרטוני וידאו</string>
+	<string name="back_to_message_list">back to message list</string>
+	<string name="batch_adding_progress_message">Adding...</string>
 	<string name="batch_delete_confirm_dialog_message">למחוק הודעות נבחרות?</string>
 	<string name="batch_deleting_message_progress_message">מוחק הודעות נבחרות</string>
 	<string name="batch_deleting_progress_message">מחק שירשור</string>
@@ -49,6 +52,7 @@
 	<string name="close">סגור</string>
 	<string name="compressing">תמונה גדולה מדי. דוחס...</string>
 	<string name="confirm">אשר</string>
+	<string name="confirm_add_blacklist_dialog_dspt">Add number to blacklist?</string>
 	<string name="confirm_delete_SIM_message">הודעה זו בכרטיס ה-SIM תימחק.</string>
 	<string name="confirm_delete_all_SIM_messages">כל ההודעות בכרטיס ה-SIM יימחקו.</string>
 	<string name="confirm_delete_all_conversations">כל השרשורים יימחקו.</string>
@@ -60,7 +64,12 @@
 	<string name="confirm_dialog_title">מחק</string>
 	<string name="confirm_export_dialog_description">Remove selected private contact, conversation will be moved to normal SMS. Do you want to continue?</string>
 	<string name="confirm_export_dialog_title">Remove private contact</string>
+	<string name="confirm_no_block_positive">"Don't block and restore"</string>
+	<string name="confirm_no_block_title">"Don't block number and restore all the messages?"</string>
 	<string name="confirm_rate_limit">נשלח מספר גדול של הודעות מולטימדיה. האם זה בסדר?</string>
+	<string name="confirm_restore_all_title">Restore all messages from this number？</string>
+	<string name="confirm_restore_positive">Restore</string>
+	<string name="confirm_restore_title">Restore all selected messages?</string>
 	<string name="context_menu_add_contact">הוסף לאנשי קשר</string>
 	<string name="context_menu_browse_web">אינטרנט</string>
 	<string name="context_menu_call">התקשר</string>
@@ -77,6 +86,7 @@
 	<string name="converting_to_picture_message">ממיר להודעת מולטימדיה...</string>
 	<string name="converting_to_text_message">ממיר להודעת טקסט...</string>
 	<string name="copy_message_text">העתק טקסט</string>
+	<string name="copy_message_text_success">Message copied successfully!</string>
 	<string name="copy_to_sdcard">שמור את הקובץ המצורף</string>
 	<string name="copy_to_sdcard_fail">אין אפשרות לשמור את הקובץ המצורף</string>
 	<string name="copy_to_sdcard_success">קובץ מצורף נשמר</string>
@@ -127,6 +137,7 @@
 	<string name="festival_sms_category_count_format">(%s)</string>
 	<string name="festival_sms_loading">טוען…</string>
 	<string name="fetion_prefix">[פתח]</string>
+	<string name="file_share_message_description">I would like to share files with you</string>
 	<string name="flatshow_page_no">%1$d</string>
 	<string name="forward_prefix">"העבר: "</string>
 	<string name="found_old_messages">A total of: %1$s were found on old phone accounts. Would you like to upload them to your current account of: %2$s?</string>
@@ -145,6 +156,7 @@
 	<string name="importing_progress_private_message">Importing messages to private MessageBox</string>
 	<string name="in_sms">בהודעה</string>
 	<string name="insufficient_drm_rights">לא אותרו מספיק זכויות DRM.</string>
+	<string name="invalid_conversation">Invalid conversation</string>
 	<string name="invalid_destination">כתובת יעד לא חוקית.</string>
 	<string name="invalid_recipient_message">עליך לתקן את הנמענים, אחרת הם לא יקבלו את ההודעה.</string>
 	<string name="kilobyte">KB</string>
@@ -199,6 +211,7 @@
 	<string name="mx_activate_int_hint_malformed_info">Error processing request. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
 	<string name="mx_activate_int_hint_server">Activation with server failed for Cloud Messaging, an international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
 	<string name="mx_activate_int_hint_sim_change">SIM card state changed. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
+	<string name="mx_activation_done">Cloud messaging is now enabled</string>
 	<string name="mx_auto_resend_mms">Auto re-send MMS</string>
 	<string name="mx_auto_resend_mms_summary">Send as MMS when Cloud Messaging is unavailable. Carrier messaging rates may apply</string>
 	<string name="mx_auto_resend_sms">Send as SMS</string>
@@ -224,6 +237,7 @@
 	<string name="new_phrase_hint">הכנס משפט חדש</string>
 	<string name="nickname_placeholder">כינוי</string>
 	<string name="no">ביטול</string>
+	<string name="no_block_button_msg">"Don’t block messages from this number"</string>
 	<string name="no_conversations">אין שיחות</string>
 	<string name="no_subject">(ללא נושא)</string>
 	<string name="no_subject_view">(ללא נושא)</string>
@@ -234,6 +248,7 @@
 	<string name="notification_multiple">%s הודעות שלא נקראו.</string>
 	<string name="notification_multiple_title">הודעות חדשות</string>
 	<string name="number_add_hint">Input number to add to Private Contact</string>
+	<string name="overwrite_edited_content">Edited content will be overritten, do you wish to continue?</string>
 	<string name="phrase_confirm_delete_message">המשפט הנבחר יימחק</string>
 	<string name="phrase_empty">No Phrases</string>
 	<string name="phrase_from">From %1s</string>
@@ -316,6 +331,8 @@
 	<string name="replace_image">החלף תמונה</string>
 	<string name="resent_message">שלח שוב</string>
 	<string name="resize_image_error_information">מצטערים, גם לאחר שינוי הגודל תמונה זו גדולה מדי לשליחה.</string>
+	<string name="restore_all_button_msg">Restore all messages from this number</string>
+	<string name="restore_blocked_message">Restore blocked message</string>
 	<string name="save">שמור</string>
 	<string name="save_ringtone">שמור כצלצול</string>
 	<string name="save_to_sim">שמור בכרטיס SIM</string>
@@ -335,10 +352,12 @@
 	<string name="select_link_title">בחר פעולה</string>
 	<string name="select_local_audio">בחר אודיו מקומי</string>
 	<string name="select_local_video">בחר ווידיאו מקומי</string>
+	<string name="select_recipient">Select recipient</string>
 	<string name="select_top_text">טקסט למעלה</string>
 	<string name="send">שלח</string>
 	<string name="send_signature_confirm_dialog_message">אין טקסט בהודעה, לשלוח רק חתימה?</string>
 	<string name="send_signature_confirm_dialog_title">אישור</string>
+	<string name="send_sms">Send message</string>
 	<string name="send_to">אל: </string>
 	<string name="send_to_count">נשלחו %1$s הודעות</string>
 	<string name="send_to_index_contact">נשלח אל %1$s מתוך %2$s</string>

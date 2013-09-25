@@ -3,6 +3,7 @@
 	<string name="account_bind_prompt">"Migrating user data, your account will be temporarily locked, please wait..."</string>
 	<string name="add_task">הוסף משימה</string>
 	<string name="adding_upload_tasks">מוסיף משימת העלאה.</string>
+	<string name="already_signin_description">You are already signed in</string>
 	<string name="app_cache_cleanup_indication">%s מטמון</string>
 	<string name="app_cache_title">מטמון יישום</string>
 	<string name="app_garbage_cleanup_indication">%s אפליקציות זבל</string>
@@ -20,7 +21,7 @@
 	<string name="cache_size_label">Cache</string>
 	<string name="cancel">ביטול</string>
 	<string name="cancel_app_garbage_cleanup">בטל ניקוי יישום</string>
-	<string name="cancel_with_count_down">ביטול (%d)</string> 
+	<string name="cancel_with_count_down">ביטול (%d)</string>
 	<string name="category_all">הכל</string>
 	<string name="category_apk">יישומים</string>
 	<string name="category_bluetooth">Bluetooth</string>
@@ -41,12 +42,9 @@
 	<string name="clean_title">מחק קבצים ישנים יותר מ-30 יום הנמצאים באשפה</string>
 	<string name="clean_trash_box">רוקן זבל</string>
 	<string name="cleaned">הניקוי הושלם בהצלחה</string>
-	<string name="cleaning">מנקה...</string> 
-	<string name="cleanup_stopped">הניקוי הופסק</string> 
+	<string name="cleaning">מנקה...</string>
 	<string name="cleanup_complete">הניקוי הושלם בהצלחה</string>
-	<string name="count_down_time">החל לאחר %d שניות</string> 
-	<string name="file_cleanup">ניקוי קבצים</string> 
-	<string name="scanned">הסריקה הושלמה</string> 
+	<string name="cleanup_stopped">הניקוי הופסק</string>
 	<string name="close">סגור</string>
 	<string name="compress_fail">Compression failed, destination already exists</string>
 	<string name="compress_message">דחוס אל:</string>
@@ -54,6 +52,7 @@
 	<string name="confirm">אשר</string>
 	<string name="confirm_know">אשר</string>
 	<string name="copy_failed">לא ניתן להעתיק</string>
+	<string name="count_down_time">החל לאחר %d שניות</string>
 	<string name="create_kuaipan_shortcut_pref">Create a shortcut to the desktop</string>
 	<string name="create_new_folder_desctiption">צור תיקיה חדשה...</string>
 	<string name="create_new_folder_failed">לא ניתן ליצור את התיקיה %1$s</string>
@@ -98,6 +97,7 @@
 	<string name="favorite_photo">תמונה</string>
 	<string name="favorite_ringtone">רינגטון</string>
 	<string name="favorite_screen_cap">צילומי מסך MIUI</string>
+	<string name="file_cleanup">ניקוי קבצים</string>
 	<string name="file_info_canread">ניתן לקריאה:</string>
 	<string name="file_info_canwrite">ניתן לכתיבה:</string>
 	<string name="file_info_ishidden">מוסתר:</string>
@@ -211,10 +211,13 @@
 	<string name="operation_unfavorite">מחק מהמועדפים</string>
 	<string name="pan_settting">MiDrive הגדרות</string>
 	<string name="paused">הושהה</string>
+	<string name="pull_to_signin">Drag down to sign in and get free disk space</string>
 	<string name="query_bind_state">Querying bind status, please wait...</string>
+	<string name="release_to_signin">Release to sign in</string>
 	<string name="rename_description">משנה שם, אנא המתן…</string>
 	<string name="rename_failed">Renaming《%1$s》failed</string>
 	<string name="restart_cleaning">הפעל מחדש</string>
+	<string name="scanned">הסריקה הושלמה</string>
 	<string name="scanning" formatted="false">סורק...</string>
 	<string name="scanning_on_going">סורק...</string>
 	<string name="sd_card_available">מקום פנוי:%1$s</string>
@@ -230,6 +233,10 @@
 	<string name="server_control_settings">Server Settings</string>
 	<string name="share_link_failed">Generating folder external link failed</string>
 	<string name="show_message">File cannot be open without downloading</string>
+	<string name="sign_description">Signing in...</string>
+	<string name="signin_error">Network currently unavailable, please try again</string>
+	<string name="signin_success">"Sign in successful!
+Get free space %1$s"</string>
 	<string name="space_info">Network space: %1$s available，total: %2$s</string>
 	<string name="space_usage">שימוש</string>
 	<string name="start_cleanup">החל ניקוי</string>
@@ -263,6 +270,7 @@
 	<string name="ui_bar_txt_upload_progress">מעלה...</string>
 	<string name="ui_filechange_btn_download">הורד קבצים</string>
 	<string name="ui_filechange_btn_upload">העלה קבצים</string>
+	<string name="ui_main_menu_option_sign_in">Sign in</string>
 	<string name="ui_main_menu_option_task_manage">ניהול העברות</string>
 	<string name="ui_main_progress_txt_open_file">מוריד...</string>
 	<string name="ui_main_toast_favorite_removed">Favorite(s) removed</string>

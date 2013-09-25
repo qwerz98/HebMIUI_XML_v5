@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+	<string name="all_downloads">כל ההורדות</string>
+	<string name="app_downloads">%s הורדות</string>
 	<string name="app_label">הורדות</string>
 	<string name="button_sort_by_date">סדר לפי תאריך</string>
 	<string name="button_sort_by_size">סדר לפי גודל</string>
-	<string name="cancel_download_notice">Dismiss download notice</string>
+	<string name="cancel_download_notice">הסתר הודעת הורדה</string>
 	<string name="cancel_running_download">בטל</string>
 	<string name="confirm_delete_downloads_message">%d הורדות נבחרות ימחקו</string>
 	<string name="confirm_delete_the_download_item_message">אשר הסרת הורדה</string>
@@ -16,18 +18,18 @@
 	<string name="dialog_failed_body">האם ברצונך לנסות להוריד את הקובץ מאוחר יותר או למחוק אותו מהתור?</string>
 	<string name="dialog_file_already_exists">לא ניתן להוריד. הקובץ כבר קיים במכשירך</string>
 	<string name="dialog_file_missing_body">לא ניתן למצוא את הקובץ שהורד</string>
-	<string name="dialog_file_missing_title">Failed to open file</string>
+	<string name="dialog_file_missing_title">פתיחת הקובץ נכשלה</string>
 	<string name="dialog_insufficient_space_on_cache">לא ניתן לסיים את ההורדה. אין מספיק מקום בזיכרון הפנימי של מכשירך</string>
 	<string name="dialog_insufficient_space_on_external">לא ניתן לסיים את ההורדה. אין מספיק מקום בכרטיס הזיכרון</string>
 	<string name="dialog_media_not_found">לא ניתן להוריד. המדיה החיצונית לא זמינה</string>
 	<string name="dialog_queued_body">קובץ זה בתור להורדה עתידית</string>
 	<string name="dialog_title_not_available">ההורדה נכשלה</string>
 	<string name="dialog_title_queued_body">הקובץ אינו זמין כעת</string>
-	<string name="disable_download_only_in_wifi_title">Turning off “Download via Wi-Fi only”</string>
-	<string name="download_complete">Downloaded</string>
+	<string name="disable_download_only_in_wifi_title">מכבה "הורדה באמצעות Wi-Fi בלבד"</string>
+	<string name="download_complete">הושלם</string>
 	<string name="download_error">נכשל</string>
 	<string name="download_error_insufficient_space">אין מספיק מקום פנוי</string>
-	<string name="download_in_process">Downloading</string>
+	<string name="download_in_process">מוריד</string>
 	<string name="download_info_count_deleted_tasks">נמחקו בהצלחה %s משימות הורדה</string>
 	<string name="download_info_start_deleted_tasks">מתכונן למחיקת הורדות</string>
 	<string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
@@ -42,8 +44,8 @@
 	<string name="download_title_sorted_by_size">הורדות - מאוחסנות על-פי גודל</string>
 	<string name="download_when_network_connected">השתמש בחיבור נתונים (דור שלוש)</string>
 	<string name="downloads_operating">עובד...</string>
-	<string name="editmode_menu_delete">Delete</string>
-	<string name="editmode_menu_share">Share</string>
+	<string name="editmode_menu_delete">מחק</string>
+	<string name="editmode_menu_share">שתף</string>
 	<string name="keep_queued_download">השאר</string>
 	<string name="menu_enter_edit_mode">עריכה</string>
 	<string name="menu_preferences">הגדרות</string>
@@ -58,9 +60,10 @@
 	<string name="paused_unknown">נעצר</string>
 	<string name="paused_waiting_for_network">נעצר. ממתין לרשת זמינה</string>
 	<string name="paused_waiting_to_retry">נעצר. ממתין להפעלה מחדש</string>
-	<string name="prefDefault_max_bytes_limit">1048576</string>
+	<string name="prefDefault_max_bytes_limit">20971520</string>
 	<string name="pref_dialog_title_max_bytes_limit">הגבלת גודל קובץ</string>
 	<string name="pref_download_settings_title">צריכת נתונים</string>
+	<string name="pref_summary_any_bytes_popup">תמיד הוסף לתור בעת שימוש ברשת אלחוטית</string>
 	<string name="pref_summary_enable_max_bytes_popup">התראה אם הקובץ גדול מההגבלה</string>
 	<string name="pref_summary_max_bytes_limit_format">התראה אם הקובץ גדול מ-%s</string>
 	<string name="pref_title_enable_max_bytes_popup">צריכת נתונים בהורדות</string>
@@ -69,7 +72,7 @@
 	<string name="remove_download">הסר</string>
 	<string name="restart_download">הורד מחדש</string>
 	<string name="resume_download">החל</string>
-	<string name="retry_after_network_available">Please retry when a network connection is available</string>
+	<string name="retry_after_network_available">אנא נסה שוב כאשר קיים חיבור לרשת</string>
 	<string name="retry_download">נסה שנית</string>
 	<string name="select_all">בחר הכל</string>
 	<string name="select_operation_items">נא לבחור פריטים לעבודה</string>
