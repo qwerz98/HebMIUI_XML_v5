@@ -88,7 +88,6 @@
 	<string name="calllog_menu_edit_before_call">ערוך לפני חיוג</string>
 	<string name="calllog_menu_send_sms">שלח הודעה</string>
 	<string name="callrecordview_item_newcontact">איש קשר חדש</string>
-	<string name="callrecordview_item_op_time_minutes_seconds">%d דקות %d שניות</string>
 	<string name="callrecordview_item_op_time_missed">לא התחבר</string>
 	<string name="callrecordview_item_op_time_only_minutes">%d דקות</string>
 	<string name="callrecordview_item_op_time_only_seconds">%d שניות</string>
