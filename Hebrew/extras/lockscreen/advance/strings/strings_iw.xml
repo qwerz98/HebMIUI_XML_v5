@@ -2,4 +2,5 @@
 <strings>
     <string name="short_date_format" value="EEEE, ה-dd בMMMM" />
     <string name="long_date_format" value="dd/MM/yyyy" />
+    <string name="date_format" value="EEEE, dd. MMMM" />
 </strings>
